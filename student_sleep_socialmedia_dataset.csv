@@ -1,0 +1,3001 @@
+StudentID,GPA,SleepHours,SocialMediaHours,ExerciseHours,StudyHours,PartTimeJob,Major,Year,Device
+1,2.75,6,5,0,3,No,Business,Freshman,Desktop
+2,3.9,4,3,0,6,No,Business,Senior,Tablet
+3,3.46,8,6,0,2,No,STEM,Senior,Tablet
+4,3.2,9,5,3,5,Yes,STEM,Junior,Laptop
+5,2.31,6,1,3,4,Yes,Social Science,Junior,Phone
+6,2.31,5,0,2,5,Yes,STEM,Senior,Tablet
+7,2.12,6,1,2,5,No,STEM,Senior,Desktop
+8,3.73,6,1,1,7,No,Social Science,Senior,Phone
+9,3.2,5,0,3,6,Yes,Arts,Sophomore,Desktop
+10,3.42,7,0,0,3,No,Arts,Senior,Desktop
+11,2.04,7,2,0,4,No,STEM,Sophomore,Tablet
+12,3.94,4,5,1,2,No,Social Science,Sophomore,Tablet
+13,3.66,4,6,0,3,Yes,Arts,Senior,Laptop
+14,2.42,7,2,1,2,No,Social Science,Freshman,Desktop
+15,2.36,9,0,2,1,Yes,STEM,Freshman,Tablet
+16,2.37,8,3,3,5,No,STEM,Junior,Laptop
+17,2.61,6,6,1,1,Yes,Social Science,Senior,Phone
+18,3.05,8,3,0,7,No,Business,Junior,Laptop
+19,2.86,6,1,1,5,No,STEM,Senior,Laptop
+20,2.58,7,4,2,6,Yes,STEM,Junior,Desktop
+21,3.22,4,1,0,3,Yes,STEM,Sophomore,Phone
+22,2.28,9,1,2,2,No,STEM,Senior,Desktop
+23,2.58,4,4,2,7,No,Social Science,Freshman,Desktop
+24,2.73,8,5,1,6,No,Social Science,Senior,Laptop
+25,2.91,4,0,2,2,Yes,Social Science,Junior,Laptop
+26,3.57,7,3,0,3,Yes,Social Science,Junior,Tablet
+27,2.4,9,1,2,4,No,Business,Junior,Laptop
+28,3.03,8,4,2,7,Yes,Social Science,Junior,Tablet
+29,3.18,9,2,1,1,No,Social Science,Junior,Desktop
+30,2.09,6,1,2,1,Yes,STEM,Junior,Laptop
+31,3.22,4,3,3,2,No,Business,Freshman,Phone
+32,2.34,9,0,1,2,Yes,STEM,Junior,Phone
+33,2.13,5,1,1,2,Yes,Business,Freshman,Desktop
+34,3.9,4,1,0,7,No,Arts,Senior,Desktop
+35,3.93,6,5,0,3,No,Business,Sophomore,Laptop
+36,3.62,9,7,0,4,Yes,Business,Freshman,Tablet
+37,2.61,8,4,0,1,Yes,STEM,Senior,Laptop
+38,2.2,6,2,3,6,Yes,Business,Sophomore,Tablet
+39,3.37,5,2,1,5,No,Business,Freshman,Laptop
+40,2.88,9,6,2,7,No,STEM,Freshman,Phone
+41,2.24,7,0,0,7,Yes,Arts,Senior,Phone
+42,2.99,4,6,0,3,No,Arts,Junior,Tablet
+43,2.07,8,3,0,1,No,Arts,Freshman,Laptop
+44,3.82,7,0,2,4,No,Business,Freshman,Desktop
+45,2.52,9,1,0,3,No,STEM,Senior,Tablet
+46,3.33,9,7,2,6,Yes,Arts,Junior,Phone
+47,2.62,6,1,1,1,Yes,Arts,Sophomore,Tablet
+48,3.04,9,2,1,3,Yes,Arts,Junior,Laptop
+49,3.09,8,3,1,1,No,Arts,Junior,Desktop
+50,2.37,7,4,3,1,No,STEM,Senior,Desktop
+51,3.94,8,3,2,7,No,Arts,Junior,Tablet
+52,3.55,5,1,0,4,Yes,Business,Senior,Laptop
+53,3.88,5,4,0,7,No,Business,Sophomore,Laptop
+54,3.79,4,3,0,5,Yes,STEM,Freshman,Desktop
+55,3.2,4,7,0,4,Yes,Social Science,Freshman,Phone
+56,3.84,5,7,3,1,No,Arts,Senior,Laptop
+57,2.18,9,3,0,3,Yes,Arts,Senior,Desktop
+58,2.39,8,4,3,6,Yes,Business,Junior,Desktop
+59,2.09,5,1,2,4,No,STEM,Junior,Laptop
+60,2.65,4,3,1,5,Yes,Social Science,Freshman,Laptop
+61,2.78,5,4,0,1,Yes,Business,Freshman,Tablet
+62,2.54,9,5,1,6,Yes,Social Science,Freshman,Phone
+63,3.66,5,7,2,4,No,STEM,Senior,Tablet
+64,2.71,8,5,2,7,No,STEM,Sophomore,Tablet
+65,2.56,7,1,0,7,Yes,STEM,Sophomore,Desktop
+66,3.09,9,4,2,4,No,Business,Senior,Desktop
+67,2.28,4,5,1,4,Yes,STEM,Junior,Phone
+68,3.6,8,4,0,4,No,Business,Sophomore,Tablet
+69,2.15,5,3,3,6,No,Business,Junior,Tablet
+70,3.97,5,1,0,7,No,Arts,Freshman,Desktop
+71,3.54,7,5,1,3,No,Business,Freshman,Desktop
+72,2.4,4,6,0,5,No,Business,Junior,Laptop
+73,2.01,4,3,0,5,No,Arts,Freshman,Tablet
+74,3.63,6,7,1,1,No,Social Science,Senior,Phone
+75,3.41,4,6,0,2,No,Arts,Junior,Tablet
+76,3.46,7,6,0,3,Yes,Arts,Junior,Desktop
+77,3.54,6,0,1,7,Yes,STEM,Junior,Laptop
+78,2.15,6,0,2,1,Yes,STEM,Sophomore,Tablet
+79,2.72,5,1,1,1,Yes,Arts,Junior,Phone
+80,2.23,5,5,0,4,No,STEM,Junior,Desktop
+81,3.73,4,5,3,2,No,Arts,Junior,Laptop
+82,3.25,6,5,3,7,No,STEM,Sophomore,Tablet
+83,2.66,5,4,1,2,Yes,Business,Freshman,Phone
+84,2.13,7,3,3,3,Yes,STEM,Sophomore,Desktop
+85,2.62,5,5,0,2,No,STEM,Senior,Phone
+86,2.65,9,3,0,1,Yes,Business,Junior,Tablet
+87,3.46,9,1,1,2,Yes,Arts,Senior,Desktop
+88,3.28,5,6,0,2,No,STEM,Sophomore,Tablet
+89,3.77,6,5,2,5,No,STEM,Freshman,Laptop
+90,2.94,6,1,0,7,No,Business,Freshman,Tablet
+91,2.24,8,5,1,7,No,Business,Junior,Laptop
+92,3.43,9,0,2,1,No,Business,Freshman,Tablet
+93,3.52,7,2,2,6,No,Social Science,Sophomore,Phone
+94,3.12,6,1,3,2,No,Business,Sophomore,Phone
+95,3.54,4,5,0,2,Yes,Arts,Freshman,Desktop
+96,2.99,9,7,1,4,No,STEM,Junior,Phone
+97,3.05,7,2,3,7,Yes,STEM,Junior,Phone
+98,2.86,7,1,3,2,Yes,Social Science,Sophomore,Laptop
+99,2.05,6,7,0,7,No,STEM,Freshman,Phone
+100,2.22,7,7,0,2,No,STEM,Sophomore,Laptop
+101,2.06,6,4,1,5,No,Arts,Sophomore,Laptop
+102,3.27,5,7,3,1,No,STEM,Senior,Laptop
+103,2.63,9,5,1,7,No,Arts,Sophomore,Tablet
+104,3.02,8,4,3,3,No,Social Science,Junior,Laptop
+105,3.82,5,0,3,1,No,Arts,Freshman,Tablet
+106,2.5,9,5,3,4,Yes,Business,Freshman,Laptop
+107,2.82,6,6,0,1,Yes,Business,Senior,Tablet
+108,3.51,9,7,3,2,No,Social Science,Senior,Desktop
+109,2.46,6,0,3,4,Yes,STEM,Junior,Desktop
+110,2.15,5,2,3,1,No,Arts,Senior,Tablet
+111,2.58,4,1,2,4,No,Business,Sophomore,Desktop
+112,2.32,4,7,0,3,No,Arts,Sophomore,Phone
+113,3.86,9,3,2,1,No,Business,Junior,Laptop
+114,3.62,4,0,0,7,No,Arts,Freshman,Tablet
+115,3.27,6,3,1,7,Yes,STEM,Junior,Desktop
+116,3.74,7,7,2,6,Yes,Social Science,Senior,Desktop
+117,3.61,6,3,1,2,Yes,STEM,Freshman,Phone
+118,2.37,7,7,3,4,No,Arts,Freshman,Laptop
+119,3.79,5,1,1,6,Yes,Business,Freshman,Phone
+120,3.08,8,2,1,6,No,Business,Senior,Tablet
+121,3.61,7,1,1,5,No,Social Science,Sophomore,Desktop
+122,3.79,4,5,1,4,Yes,STEM,Sophomore,Desktop
+123,2.64,6,0,0,6,Yes,STEM,Senior,Desktop
+124,2.22,5,3,2,5,No,STEM,Senior,Phone
+125,2.46,4,1,0,6,No,Business,Junior,Phone
+126,2.85,5,7,0,2,No,Social Science,Junior,Laptop
+127,3.64,8,1,0,3,No,Business,Sophomore,Tablet
+128,3.72,6,1,1,5,No,STEM,Senior,Laptop
+129,2.01,9,0,0,3,No,Arts,Junior,Laptop
+130,3.02,6,2,2,4,No,Business,Senior,Desktop
+131,2.83,8,6,0,2,No,Social Science,Senior,Phone
+132,2.44,6,1,3,5,Yes,STEM,Sophomore,Tablet
+133,2.24,9,0,1,4,No,Arts,Sophomore,Laptop
+134,2.68,7,3,3,6,Yes,Business,Senior,Tablet
+135,3.89,5,7,2,7,Yes,Arts,Freshman,Desktop
+136,2.65,9,5,2,1,Yes,Arts,Freshman,Laptop
+137,3.04,4,6,2,4,No,Social Science,Senior,Phone
+138,3.41,8,4,2,3,Yes,Business,Sophomore,Laptop
+139,2.73,7,6,0,2,Yes,Social Science,Freshman,Desktop
+140,3.94,4,7,1,2,No,STEM,Sophomore,Laptop
+141,3.92,4,6,2,4,No,Arts,Freshman,Desktop
+142,2.5,8,7,3,6,No,Social Science,Senior,Laptop
+143,2.99,7,0,2,1,No,Social Science,Junior,Tablet
+144,2.6,4,4,1,3,No,STEM,Junior,Phone
+145,2.57,4,1,3,4,No,Business,Sophomore,Desktop
+146,2.07,7,1,3,4,Yes,Social Science,Sophomore,Tablet
+147,3.22,6,6,3,7,No,Arts,Freshman,Desktop
+148,3.01,4,0,0,2,No,Arts,Senior,Laptop
+149,2.1,5,4,2,3,No,Arts,Freshman,Desktop
+150,2.56,7,1,0,1,No,Arts,Senior,Desktop
+151,3.82,4,3,3,2,No,Social Science,Senior,Phone
+152,2.48,8,2,0,4,No,Arts,Sophomore,Tablet
+153,2.29,9,2,0,2,Yes,Social Science,Junior,Laptop
+154,2.98,5,1,0,2,No,Business,Junior,Phone
+155,3.97,9,4,2,5,No,Arts,Sophomore,Desktop
+156,2.48,9,5,3,2,No,Business,Junior,Phone
+157,3.34,4,1,3,6,No,Social Science,Sophomore,Desktop
+158,3.52,5,5,2,2,Yes,STEM,Freshman,Laptop
+159,2.48,5,5,0,6,Yes,Business,Senior,Desktop
+160,3.46,6,7,0,3,Yes,Arts,Junior,Phone
+161,2.74,9,7,1,2,No,STEM,Junior,Phone
+162,3.26,5,4,1,1,No,Business,Freshman,Desktop
+163,3.27,6,5,1,6,Yes,Social Science,Freshman,Tablet
+164,3.07,7,3,2,6,Yes,Social Science,Junior,Phone
+165,2.18,6,4,3,4,No,Social Science,Junior,Tablet
+166,3.67,8,1,1,3,Yes,Business,Sophomore,Tablet
+167,2.64,4,6,3,2,No,Social Science,Sophomore,Tablet
+168,2.37,7,3,3,7,Yes,Business,Junior,Tablet
+169,2.08,7,0,3,1,No,Arts,Sophomore,Phone
+170,3.18,8,2,2,4,Yes,Arts,Freshman,Phone
+171,3.36,6,1,2,3,No,Business,Senior,Tablet
+172,2.03,4,1,2,6,No,Business,Sophomore,Phone
+173,3.02,6,1,2,1,Yes,STEM,Senior,Tablet
+174,2.45,5,3,1,2,No,Social Science,Sophomore,Tablet
+175,3.29,6,0,0,7,No,Arts,Junior,Tablet
+176,2.35,7,6,0,5,No,Arts,Sophomore,Desktop
+177,3.38,4,4,0,5,No,STEM,Senior,Laptop
+178,2.77,6,7,1,3,Yes,Business,Senior,Phone
+179,3.87,4,0,0,7,No,Business,Junior,Phone
+180,2.28,4,3,1,1,No,STEM,Senior,Tablet
+181,2.68,5,1,1,4,No,Social Science,Junior,Desktop
+182,2.23,5,2,1,1,No,Business,Junior,Desktop
+183,3.85,7,1,0,7,Yes,Business,Senior,Phone
+184,3.75,8,4,3,6,No,Social Science,Freshman,Tablet
+185,2.52,4,5,0,5,No,Social Science,Senior,Phone
+186,3.32,8,2,0,3,Yes,STEM,Senior,Tablet
+187,3.63,7,1,2,2,No,STEM,Sophomore,Tablet
+188,3.11,4,6,1,1,No,STEM,Senior,Laptop
+189,3.06,4,2,3,5,Yes,Business,Sophomore,Tablet
+190,2.48,9,5,2,4,Yes,STEM,Sophomore,Laptop
+191,2.19,8,7,3,3,No,Business,Senior,Phone
+192,3.79,6,0,3,2,Yes,Arts,Junior,Phone
+193,3.8,5,3,1,1,Yes,Social Science,Freshman,Desktop
+194,3.27,6,7,0,4,No,Social Science,Senior,Laptop
+195,2.68,8,1,1,2,Yes,Arts,Senior,Phone
+196,2.7,5,4,1,6,No,STEM,Junior,Laptop
+197,3.45,6,0,2,5,No,Business,Sophomore,Phone
+198,3.79,9,7,1,6,No,Business,Junior,Laptop
+199,3.77,5,1,0,5,No,Business,Junior,Laptop
+200,3.56,4,0,3,4,No,Social Science,Sophomore,Tablet
+201,3.28,6,7,1,6,Yes,STEM,Senior,Phone
+202,2.17,5,4,3,5,No,Business,Junior,Desktop
+203,2.32,9,1,1,3,No,Business,Junior,Tablet
+204,3.8,5,5,3,4,Yes,Business,Senior,Desktop
+205,3.21,5,5,1,5,No,Arts,Senior,Laptop
+206,2.02,9,4,2,1,No,Business,Freshman,Tablet
+207,2.2,6,2,3,5,No,Arts,Junior,Laptop
+208,3.33,7,4,1,6,No,Business,Freshman,Phone
+209,2.01,6,2,1,3,No,Business,Sophomore,Phone
+210,2.32,8,1,2,2,No,Business,Senior,Desktop
+211,3.1,9,7,2,2,No,Arts,Senior,Phone
+212,3.38,6,2,2,5,Yes,Business,Freshman,Desktop
+213,3.3,5,1,3,2,Yes,STEM,Junior,Laptop
+214,2.45,9,1,3,5,No,Business,Sophomore,Tablet
+215,3.42,4,6,2,3,No,Arts,Junior,Phone
+216,2.47,6,3,0,2,Yes,Arts,Junior,Laptop
+217,2.65,9,1,0,6,Yes,STEM,Freshman,Tablet
+218,3.49,6,2,1,6,Yes,Social Science,Junior,Laptop
+219,3.3,9,3,0,1,No,STEM,Freshman,Desktop
+220,3.7,5,3,1,5,No,STEM,Senior,Laptop
+221,3.32,4,1,3,2,No,Arts,Senior,Desktop
+222,3.14,4,4,3,6,No,Business,Senior,Desktop
+223,2.19,8,4,0,7,No,Business,Sophomore,Phone
+224,2.74,9,5,3,3,No,Social Science,Sophomore,Desktop
+225,2.53,6,3,2,3,Yes,Social Science,Junior,Desktop
+226,2.49,4,1,2,7,Yes,Social Science,Freshman,Laptop
+227,3.95,4,6,0,7,No,Social Science,Junior,Desktop
+228,2.79,7,4,0,1,Yes,STEM,Senior,Desktop
+229,3.78,7,6,1,3,No,STEM,Junior,Laptop
+230,3.26,4,1,3,3,No,Business,Junior,Tablet
+231,3.59,9,1,1,2,No,STEM,Junior,Phone
+232,3.01,8,7,1,5,No,Business,Senior,Laptop
+233,3.15,4,3,2,4,No,Business,Freshman,Desktop
+234,2.99,5,7,2,3,Yes,Business,Junior,Laptop
+235,2.39,6,6,2,3,No,Business,Senior,Tablet
+236,3.44,8,7,2,4,No,Arts,Sophomore,Laptop
+237,2.56,5,5,1,3,Yes,Business,Freshman,Laptop
+238,2.05,8,3,2,2,Yes,STEM,Senior,Laptop
+239,3.29,5,0,3,2,No,STEM,Junior,Laptop
+240,2.35,6,7,2,4,No,STEM,Senior,Desktop
+241,3.88,6,6,2,6,No,STEM,Freshman,Laptop
+242,3.91,7,4,2,3,No,Arts,Junior,Tablet
+243,3.83,9,4,0,6,No,Social Science,Sophomore,Laptop
+244,2.74,5,4,3,3,Yes,Social Science,Sophomore,Laptop
+245,2.03,7,2,3,5,No,Business,Sophomore,Desktop
+246,3.86,5,1,1,3,No,Business,Senior,Desktop
+247,2.86,7,3,1,2,Yes,STEM,Freshman,Laptop
+248,3.93,6,4,2,1,No,STEM,Sophomore,Desktop
+249,3.93,8,0,0,7,No,Social Science,Junior,Desktop
+250,3.71,7,4,1,1,Yes,Social Science,Junior,Laptop
+251,2.59,5,5,1,1,No,STEM,Junior,Desktop
+252,2.77,5,1,2,1,No,Business,Senior,Phone
+253,3.7,9,6,2,7,No,Arts,Freshman,Phone
+254,2.63,6,1,1,6,Yes,Arts,Freshman,Phone
+255,2.34,5,7,1,7,No,Social Science,Sophomore,Desktop
+256,3.11,4,6,3,6,Yes,Social Science,Freshman,Phone
+257,3.87,8,6,0,7,Yes,Social Science,Junior,Tablet
+258,3.39,7,7,3,7,No,Arts,Junior,Phone
+259,3.14,9,3,1,3,No,Arts,Senior,Tablet
+260,2.19,8,7,3,6,No,STEM,Junior,Desktop
+261,3.23,6,2,3,3,No,Business,Freshman,Phone
+262,3.98,9,6,1,5,Yes,Social Science,Junior,Tablet
+263,2.28,7,6,2,3,No,STEM,Sophomore,Desktop
+264,3.04,7,7,1,1,No,Arts,Senior,Phone
+265,3.75,4,3,2,4,No,STEM,Senior,Laptop
+266,3.48,6,4,1,4,No,Arts,Freshman,Phone
+267,3.39,9,5,1,2,No,Business,Junior,Phone
+268,3.4,9,0,1,2,No,Arts,Junior,Phone
+269,2.72,5,3,0,3,No,STEM,Freshman,Laptop
+270,2.59,4,2,2,7,No,Business,Freshman,Tablet
+271,3.62,4,3,0,7,No,Arts,Sophomore,Tablet
+272,3.62,9,1,1,4,Yes,Social Science,Freshman,Laptop
+273,3.73,9,4,3,1,Yes,Arts,Junior,Phone
+274,3.83,8,4,0,6,No,Business,Sophomore,Phone
+275,3.02,8,6,2,1,Yes,STEM,Senior,Phone
+276,3.0,8,4,1,1,No,Business,Junior,Tablet
+277,3.6,4,4,0,3,Yes,STEM,Senior,Tablet
+278,3.3,5,7,3,3,Yes,Arts,Senior,Laptop
+279,3.4,7,4,0,5,No,Arts,Senior,Desktop
+280,3.59,8,4,2,1,No,Business,Junior,Laptop
+281,3.78,5,0,0,7,No,Social Science,Senior,Tablet
+282,2.68,6,2,3,7,No,Arts,Junior,Phone
+283,2.75,8,6,3,1,No,Social Science,Senior,Phone
+284,2.19,7,7,2,3,Yes,Social Science,Freshman,Phone
+285,3.16,6,4,3,3,Yes,Business,Freshman,Phone
+286,2.07,6,6,1,5,No,Arts,Junior,Desktop
+287,2.93,7,2,3,5,No,Social Science,Senior,Laptop
+288,3.09,8,7,1,2,No,Arts,Senior,Laptop
+289,2.57,4,5,0,4,No,STEM,Senior,Tablet
+290,3.18,7,4,1,1,Yes,Social Science,Freshman,Laptop
+291,2.06,7,6,1,7,Yes,Business,Senior,Desktop
+292,2.07,7,3,0,1,No,Business,Senior,Desktop
+293,3.65,6,7,3,5,No,Social Science,Junior,Desktop
+294,2.72,5,7,1,5,Yes,Arts,Senior,Phone
+295,2.25,4,6,3,2,Yes,STEM,Freshman,Tablet
+296,3.04,8,4,0,4,Yes,STEM,Senior,Desktop
+297,3.54,8,1,2,2,No,Business,Freshman,Laptop
+298,2.43,5,0,3,7,No,Business,Freshman,Laptop
+299,3.25,7,3,3,4,No,Arts,Sophomore,Laptop
+300,2.17,4,3,2,6,No,Business,Freshman,Desktop
+301,2.1,8,1,2,1,No,Arts,Sophomore,Desktop
+302,3.06,9,4,0,2,No,Social Science,Sophomore,Laptop
+303,3.08,8,7,3,5,Yes,STEM,Senior,Desktop
+304,3.27,7,7,3,2,Yes,Social Science,Sophomore,Laptop
+305,3.45,9,0,0,6,Yes,Business,Junior,Phone
+306,3.95,5,3,3,2,No,STEM,Freshman,Desktop
+307,3.03,4,0,1,1,No,STEM,Junior,Phone
+308,2.65,5,3,1,6,No,Social Science,Sophomore,Phone
+309,3.59,5,4,1,5,No,Arts,Senior,Desktop
+310,2.54,4,5,3,5,Yes,STEM,Freshman,Laptop
+311,2.88,4,3,1,3,No,Arts,Junior,Tablet
+312,2.16,8,5,1,6,No,Social Science,Senior,Phone
+313,2.05,8,3,0,3,No,Social Science,Sophomore,Desktop
+314,3.93,4,7,0,3,Yes,Arts,Senior,Phone
+315,3.67,9,2,2,1,No,Social Science,Junior,Laptop
+316,3.39,6,4,2,2,No,STEM,Senior,Desktop
+317,2.82,8,1,2,5,No,Social Science,Junior,Tablet
+318,2.35,6,5,2,5,No,Social Science,Senior,Desktop
+319,2.31,9,1,0,2,No,STEM,Freshman,Phone
+320,2.5,4,4,0,5,Yes,Arts,Senior,Desktop
+321,3.1,9,6,0,2,Yes,Social Science,Freshman,Desktop
+322,3.43,8,1,1,6,Yes,Arts,Junior,Phone
+323,3.32,5,4,1,1,Yes,STEM,Freshman,Tablet
+324,2.56,4,7,2,1,No,Arts,Senior,Laptop
+325,3.91,7,1,1,7,No,Arts,Freshman,Desktop
+326,3.48,6,5,3,1,No,Business,Junior,Tablet
+327,3.11,9,2,0,2,Yes,Business,Senior,Laptop
+328,3.22,4,1,2,7,No,Social Science,Freshman,Phone
+329,2.84,9,5,2,2,Yes,Business,Freshman,Tablet
+330,2.5,4,3,3,4,Yes,Business,Sophomore,Tablet
+331,2.71,8,4,1,7,No,Business,Freshman,Desktop
+332,3.52,8,0,2,5,No,Arts,Sophomore,Phone
+333,2.03,8,6,1,5,No,Arts,Junior,Desktop
+334,2.23,9,7,1,4,Yes,Business,Sophomore,Phone
+335,2.09,7,0,3,4,No,STEM,Junior,Laptop
+336,2.08,8,7,2,1,Yes,Business,Freshman,Desktop
+337,3.71,4,4,1,4,Yes,STEM,Freshman,Phone
+338,3.41,8,7,1,2,No,Arts,Sophomore,Phone
+339,2.95,5,2,3,3,Yes,STEM,Junior,Tablet
+340,2.2,8,1,3,2,Yes,Arts,Freshman,Desktop
+341,2.98,9,2,1,7,No,STEM,Sophomore,Desktop
+342,2.95,7,0,3,4,No,Arts,Sophomore,Laptop
+343,2.35,5,6,1,5,No,Arts,Sophomore,Phone
+344,2.87,9,5,2,2,No,Business,Freshman,Tablet
+345,2.8,9,6,0,5,Yes,Social Science,Junior,Phone
+346,3.23,9,4,3,2,Yes,Social Science,Freshman,Phone
+347,3.27,4,4,0,5,Yes,Arts,Senior,Phone
+348,2.09,9,2,1,6,No,Business,Senior,Desktop
+349,2.75,4,5,1,2,No,Social Science,Freshman,Phone
+350,3.25,9,2,1,7,No,Social Science,Junior,Laptop
+351,3.01,6,1,0,5,No,Business,Sophomore,Tablet
+352,3.71,5,3,1,3,Yes,Business,Senior,Tablet
+353,3.32,6,5,3,7,No,Social Science,Senior,Phone
+354,2.33,9,3,2,1,Yes,Social Science,Freshman,Tablet
+355,2.14,5,6,2,2,No,STEM,Senior,Phone
+356,3.28,5,1,3,3,No,STEM,Senior,Desktop
+357,2.05,7,7,2,1,No,Arts,Sophomore,Tablet
+358,3.17,6,7,0,2,No,Social Science,Sophomore,Desktop
+359,3.88,7,3,1,3,No,Business,Junior,Desktop
+360,3.15,5,0,1,3,Yes,Business,Senior,Laptop
+361,2.78,4,6,1,7,Yes,Social Science,Junior,Laptop
+362,3.29,5,3,0,6,No,Arts,Junior,Tablet
+363,2.92,7,1,0,3,Yes,Business,Sophomore,Phone
+364,3.09,6,3,0,6,No,Social Science,Sophomore,Phone
+365,3.88,9,4,3,4,No,Social Science,Freshman,Phone
+366,2.77,9,2,0,7,No,Arts,Sophomore,Phone
+367,3.92,6,0,2,5,No,Social Science,Junior,Laptop
+368,3.81,9,4,3,7,Yes,Business,Senior,Phone
+369,2.39,9,4,3,1,No,STEM,Junior,Phone
+370,2.14,7,1,3,5,No,Arts,Junior,Desktop
+371,2.2,6,2,0,5,No,Social Science,Junior,Phone
+372,2.04,8,2,3,6,Yes,Arts,Sophomore,Phone
+373,2.19,4,5,0,5,No,Social Science,Junior,Laptop
+374,3.37,4,6,0,3,Yes,STEM,Freshman,Tablet
+375,2.14,9,0,3,6,No,Arts,Senior,Desktop
+376,2.64,4,6,1,5,Yes,Social Science,Sophomore,Desktop
+377,3.69,6,1,1,6,No,STEM,Junior,Tablet
+378,2.05,6,0,3,4,No,Business,Freshman,Desktop
+379,3.63,5,5,1,6,Yes,Social Science,Senior,Phone
+380,2.56,5,3,2,2,Yes,STEM,Junior,Phone
+381,2.24,4,4,2,3,No,STEM,Senior,Tablet
+382,3.39,8,0,0,1,Yes,Arts,Sophomore,Laptop
+383,3.26,5,6,1,2,No,Social Science,Sophomore,Laptop
+384,3.75,5,4,2,2,No,Business,Freshman,Desktop
+385,3.47,6,1,3,2,No,Social Science,Sophomore,Laptop
+386,3.61,8,6,1,5,No,STEM,Freshman,Laptop
+387,2.56,9,3,2,6,Yes,Business,Junior,Laptop
+388,2.35,4,1,2,6,Yes,STEM,Senior,Laptop
+389,3.5,5,7,3,7,Yes,Arts,Sophomore,Laptop
+390,3.61,8,3,0,5,No,Social Science,Senior,Laptop
+391,3.98,8,3,3,3,No,STEM,Senior,Laptop
+392,2.83,4,4,0,5,Yes,STEM,Junior,Desktop
+393,2.74,8,1,2,5,Yes,Social Science,Junior,Phone
+394,3.55,8,1,0,5,No,Business,Sophomore,Laptop
+395,2.68,8,0,2,3,No,STEM,Junior,Phone
+396,3.86,5,6,2,7,No,Social Science,Senior,Tablet
+397,3.72,4,7,1,3,No,Arts,Freshman,Phone
+398,2.86,8,1,0,4,No,Arts,Freshman,Tablet
+399,3.5,8,0,0,7,Yes,Social Science,Freshman,Desktop
+400,3.51,5,7,0,4,No,STEM,Sophomore,Phone
+401,2.21,4,2,3,4,No,Social Science,Junior,Tablet
+402,3.81,6,2,1,4,No,Social Science,Junior,Phone
+403,3.01,5,7,1,6,No,STEM,Junior,Desktop
+404,3.65,4,2,1,2,Yes,Business,Junior,Phone
+405,2.64,8,5,3,2,Yes,Business,Senior,Tablet
+406,3.79,4,1,0,4,No,Arts,Freshman,Laptop
+407,2.78,4,5,0,4,Yes,Business,Senior,Laptop
+408,2.02,9,6,0,1,No,Social Science,Sophomore,Laptop
+409,3.81,4,1,1,2,No,STEM,Freshman,Desktop
+410,2.18,6,0,1,1,No,Arts,Freshman,Laptop
+411,2.64,4,5,2,7,No,Business,Senior,Desktop
+412,3.9,6,5,3,1,No,Social Science,Sophomore,Laptop
+413,3.9,8,6,3,5,Yes,Arts,Sophomore,Desktop
+414,3.15,6,5,1,6,No,STEM,Freshman,Desktop
+415,3.26,8,3,2,7,No,Business,Junior,Phone
+416,2.9,8,0,0,3,No,Social Science,Sophomore,Laptop
+417,2.59,6,2,1,2,No,STEM,Senior,Phone
+418,2.66,5,0,3,4,No,Social Science,Sophomore,Tablet
+419,3.35,7,3,3,7,Yes,Social Science,Freshman,Laptop
+420,3.5,4,6,3,4,Yes,Social Science,Junior,Laptop
+421,3.58,9,6,0,3,No,STEM,Sophomore,Laptop
+422,3.58,7,1,3,7,No,Arts,Freshman,Laptop
+423,2.18,4,0,0,2,No,Social Science,Sophomore,Phone
+424,2.99,4,7,0,7,No,Arts,Junior,Phone
+425,2.12,8,7,0,4,No,Arts,Senior,Desktop
+426,3.1,4,6,1,4,No,Business,Freshman,Phone
+427,2.88,9,5,0,5,No,Business,Freshman,Desktop
+428,3.78,4,6,2,1,No,Arts,Junior,Tablet
+429,2.7,6,6,3,7,No,Business,Freshman,Phone
+430,2.23,7,6,1,4,No,Business,Junior,Desktop
+431,2.29,6,6,3,6,Yes,Arts,Freshman,Laptop
+432,3.52,9,7,0,2,No,STEM,Junior,Tablet
+433,3.24,4,7,1,6,Yes,Business,Sophomore,Desktop
+434,2.2,9,2,2,3,Yes,Business,Sophomore,Tablet
+435,2.17,8,2,0,7,Yes,STEM,Sophomore,Laptop
+436,3.4,6,1,3,5,Yes,STEM,Freshman,Laptop
+437,2.15,6,6,2,2,No,STEM,Junior,Desktop
+438,3.64,5,7,0,5,Yes,Arts,Junior,Desktop
+439,3.41,4,0,2,1,Yes,STEM,Senior,Laptop
+440,2.16,8,3,0,4,No,Arts,Sophomore,Desktop
+441,2.17,6,1,1,2,No,Social Science,Senior,Laptop
+442,3.97,6,7,0,3,Yes,Social Science,Sophomore,Phone
+443,2.75,8,0,1,7,No,STEM,Senior,Desktop
+444,2.74,9,6,0,1,No,STEM,Sophomore,Tablet
+445,3.63,9,4,0,1,No,Social Science,Junior,Laptop
+446,3.89,4,6,3,5,No,Arts,Sophomore,Phone
+447,3.97,5,2,2,1,Yes,Arts,Freshman,Desktop
+448,3.51,6,3,2,2,No,STEM,Sophomore,Laptop
+449,2.75,5,7,2,5,No,STEM,Sophomore,Phone
+450,2.17,9,7,0,1,Yes,STEM,Junior,Desktop
+451,3.55,9,5,0,7,No,Social Science,Freshman,Laptop
+452,3.12,7,3,0,3,No,Business,Junior,Laptop
+453,2.85,4,5,1,7,No,STEM,Senior,Laptop
+454,3.81,7,3,1,6,No,Arts,Senior,Desktop
+455,2.22,7,2,3,2,No,Business,Freshman,Phone
+456,2.99,7,5,0,3,No,Arts,Senior,Laptop
+457,2.02,4,0,2,3,No,Business,Freshman,Phone
+458,2.94,4,5,2,5,No,Social Science,Sophomore,Phone
+459,2.11,8,1,3,4,No,Business,Senior,Tablet
+460,2.24,5,0,2,5,No,Arts,Sophomore,Phone
+461,2.24,5,1,3,2,No,Business,Junior,Phone
+462,3.3,8,6,0,2,No,Social Science,Senior,Phone
+463,3.49,8,3,2,5,No,Arts,Junior,Phone
+464,3.17,9,0,0,4,No,STEM,Junior,Phone
+465,3.92,7,3,1,7,No,Business,Freshman,Desktop
+466,2.75,8,6,2,5,Yes,Arts,Junior,Tablet
+467,2.57,6,4,1,2,No,Business,Freshman,Laptop
+468,3.74,5,7,2,4,Yes,Social Science,Freshman,Tablet
+469,2.45,8,3,0,2,Yes,Arts,Freshman,Tablet
+470,3.93,6,6,3,4,Yes,STEM,Freshman,Laptop
+471,2.02,6,3,0,4,No,STEM,Freshman,Phone
+472,3.94,6,6,0,5,No,Business,Sophomore,Laptop
+473,2.09,9,1,0,5,No,Social Science,Freshman,Phone
+474,3.78,9,6,2,5,No,Social Science,Senior,Laptop
+475,3.06,6,5,3,4,No,Business,Freshman,Desktop
+476,3.99,9,4,1,4,No,Arts,Sophomore,Tablet
+477,2.15,7,3,0,2,No,Arts,Senior,Phone
+478,3.11,6,6,2,3,Yes,Business,Senior,Tablet
+479,3.94,7,6,1,5,Yes,Arts,Sophomore,Phone
+480,3.05,7,3,0,6,No,Arts,Senior,Laptop
+481,3.26,6,7,1,2,No,Arts,Sophomore,Laptop
+482,3.39,5,4,0,2,No,Business,Junior,Laptop
+483,2.91,6,4,1,1,No,STEM,Junior,Desktop
+484,3.26,6,6,1,5,Yes,Social Science,Freshman,Laptop
+485,3.17,9,0,3,7,Yes,STEM,Freshman,Laptop
+486,3.8,6,1,3,2,No,Arts,Freshman,Desktop
+487,2.09,5,4,0,1,Yes,Business,Freshman,Tablet
+488,2.56,9,4,2,6,Yes,Social Science,Sophomore,Tablet
+489,3.9,4,2,3,6,Yes,Arts,Junior,Phone
+490,3.78,4,5,1,7,No,Social Science,Sophomore,Tablet
+491,2.91,7,4,3,5,Yes,Social Science,Senior,Phone
+492,3.24,7,1,3,4,No,STEM,Senior,Phone
+493,2.55,5,5,0,1,No,Arts,Senior,Tablet
+494,2.38,8,5,3,4,Yes,Social Science,Senior,Tablet
+495,2.93,4,3,3,6,No,STEM,Senior,Desktop
+496,2.71,7,3,1,6,Yes,Business,Junior,Phone
+497,3.17,4,3,3,3,No,Social Science,Sophomore,Tablet
+498,2.16,5,3,1,3,No,Arts,Senior,Tablet
+499,3.95,5,2,3,7,Yes,Business,Freshman,Desktop
+500,3.97,8,4,3,3,No,Social Science,Junior,Tablet
+501,3.4,8,3,2,3,No,Social Science,Freshman,Laptop
+502,3.07,9,6,3,7,No,Arts,Junior,Laptop
+503,2.62,5,0,1,2,No,Social Science,Junior,Phone
+504,3.63,7,3,1,3,Yes,Arts,Freshman,Desktop
+505,3.37,4,4,0,2,No,Arts,Freshman,Tablet
+506,2.33,6,3,0,2,Yes,Arts,Senior,Phone
+507,3.82,8,2,2,5,Yes,Arts,Freshman,Tablet
+508,3.65,6,1,1,2,Yes,Social Science,Sophomore,Laptop
+509,3.9,7,1,1,2,Yes,Business,Junior,Tablet
+510,3.45,8,4,1,3,No,Business,Junior,Tablet
+511,3.23,6,6,2,2,No,STEM,Senior,Tablet
+512,2.84,7,1,1,4,No,Arts,Junior,Laptop
+513,3.87,4,7,0,7,Yes,Social Science,Freshman,Laptop
+514,3.73,7,1,2,3,No,Social Science,Junior,Desktop
+515,2.09,9,0,0,7,No,STEM,Junior,Laptop
+516,2.05,8,4,0,1,Yes,Business,Freshman,Phone
+517,2.75,5,6,2,3,Yes,Social Science,Freshman,Tablet
+518,3.62,4,4,3,2,No,STEM,Junior,Laptop
+519,3.97,6,1,3,4,No,Business,Sophomore,Phone
+520,2.3,8,1,0,7,No,Social Science,Freshman,Laptop
+521,3.19,5,1,3,3,No,Arts,Sophomore,Tablet
+522,2.76,7,5,1,4,No,STEM,Sophomore,Phone
+523,3.94,5,2,2,7,Yes,Social Science,Senior,Laptop
+524,3.68,8,3,0,1,No,STEM,Sophomore,Laptop
+525,3.68,8,7,1,6,Yes,STEM,Senior,Phone
+526,2.94,9,2,3,1,No,STEM,Sophomore,Desktop
+527,2.83,9,4,1,6,No,Arts,Senior,Phone
+528,2.55,5,7,3,5,No,Business,Freshman,Phone
+529,2.11,7,0,0,6,No,Business,Junior,Phone
+530,3.73,5,3,1,5,No,Social Science,Junior,Phone
+531,3.63,8,0,2,3,No,Arts,Senior,Laptop
+532,4.0,8,6,0,5,No,Business,Freshman,Phone
+533,3.99,6,5,1,4,No,Social Science,Senior,Phone
+534,3.11,9,4,1,5,No,Social Science,Senior,Tablet
+535,3.54,6,5,3,4,Yes,STEM,Freshman,Laptop
+536,3.89,4,4,0,7,No,Arts,Sophomore,Tablet
+537,3.7,8,0,0,7,No,Business,Sophomore,Laptop
+538,2.49,6,0,0,6,Yes,Arts,Freshman,Desktop
+539,2.9,5,0,0,6,No,Arts,Senior,Desktop
+540,2.26,9,4,3,6,No,Business,Junior,Laptop
+541,3.91,9,1,2,5,No,Business,Senior,Desktop
+542,3.21,7,0,0,6,Yes,Arts,Sophomore,Desktop
+543,2.46,5,5,3,5,No,Social Science,Freshman,Laptop
+544,3.34,7,6,2,5,No,Arts,Freshman,Phone
+545,3.24,6,3,2,2,No,Business,Freshman,Tablet
+546,2.72,4,4,3,2,Yes,Arts,Sophomore,Laptop
+547,2.23,5,7,0,5,Yes,Business,Senior,Laptop
+548,3.34,5,5,2,7,No,Social Science,Freshman,Laptop
+549,3.04,5,2,0,4,No,Arts,Junior,Tablet
+550,3.54,7,6,0,3,Yes,Social Science,Freshman,Laptop
+551,3.04,6,2,1,1,Yes,Arts,Senior,Tablet
+552,3.7,5,3,0,2,Yes,Arts,Sophomore,Tablet
+553,3.1,5,1,1,5,No,Business,Junior,Desktop
+554,3.12,9,0,2,1,Yes,STEM,Junior,Phone
+555,3.75,4,4,3,2,Yes,Business,Freshman,Desktop
+556,2.81,9,5,1,3,Yes,Arts,Senior,Laptop
+557,2.27,9,7,3,4,No,STEM,Freshman,Laptop
+558,2.06,4,0,2,5,No,STEM,Junior,Tablet
+559,3.51,6,5,0,3,Yes,Social Science,Freshman,Desktop
+560,3.24,9,4,2,7,No,Arts,Senior,Tablet
+561,3.41,6,2,3,2,Yes,Business,Sophomore,Desktop
+562,2.43,9,0,2,5,Yes,STEM,Junior,Desktop
+563,2.27,8,3,0,1,No,STEM,Senior,Desktop
+564,2.03,4,1,2,7,No,Business,Freshman,Desktop
+565,2.7,9,3,0,7,No,Business,Junior,Desktop
+566,3.18,8,1,1,6,Yes,STEM,Freshman,Phone
+567,2.78,7,6,3,4,No,Business,Freshman,Laptop
+568,2.87,8,5,0,7,No,Social Science,Sophomore,Desktop
+569,3.81,5,0,0,2,No,STEM,Freshman,Desktop
+570,2.7,9,0,2,4,Yes,Social Science,Freshman,Tablet
+571,3.03,8,6,1,5,No,Arts,Senior,Laptop
+572,3.57,6,1,0,6,No,Social Science,Freshman,Laptop
+573,2.79,7,2,1,3,No,Business,Sophomore,Laptop
+574,3.24,9,4,1,4,Yes,STEM,Freshman,Desktop
+575,3.72,5,3,2,1,No,Social Science,Freshman,Tablet
+576,3.9,8,6,0,2,Yes,Business,Freshman,Laptop
+577,2.29,7,7,2,1,No,Business,Junior,Tablet
+578,3.85,9,7,3,4,Yes,Social Science,Sophomore,Phone
+579,2.98,7,5,3,6,No,STEM,Junior,Phone
+580,2.52,5,6,0,3,Yes,Social Science,Sophomore,Tablet
+581,2.92,8,3,1,3,Yes,Arts,Sophomore,Desktop
+582,3.96,7,3,0,1,Yes,Social Science,Senior,Laptop
+583,2.99,7,5,0,5,Yes,Social Science,Junior,Phone
+584,2.66,4,5,3,5,No,STEM,Sophomore,Phone
+585,3.27,7,0,3,6,No,Social Science,Sophomore,Tablet
+586,2.48,4,3,1,3,No,Business,Senior,Desktop
+587,2.15,8,4,1,1,Yes,STEM,Junior,Tablet
+588,2.26,9,7,0,1,No,Business,Freshman,Tablet
+589,2.26,9,4,2,1,No,STEM,Senior,Tablet
+590,2.3,8,1,0,4,No,Arts,Sophomore,Tablet
+591,2.28,8,6,1,6,No,Arts,Junior,Tablet
+592,3.28,6,5,2,5,No,Arts,Sophomore,Desktop
+593,2.36,8,0,3,5,No,Social Science,Senior,Tablet
+594,2.69,7,4,1,4,No,Arts,Senior,Desktop
+595,3.79,9,2,1,2,Yes,STEM,Junior,Laptop
+596,2.95,5,7,2,4,Yes,Arts,Senior,Laptop
+597,3.34,9,0,1,6,No,STEM,Senior,Laptop
+598,2.34,4,0,1,1,No,Business,Freshman,Laptop
+599,2.38,9,4,1,4,Yes,Social Science,Sophomore,Phone
+600,2.08,6,2,1,1,Yes,Business,Freshman,Desktop
+601,2.34,8,1,1,6,No,Business,Freshman,Laptop
+602,2.56,8,4,1,7,No,Arts,Junior,Phone
+603,2.35,9,2,1,6,Yes,Arts,Senior,Desktop
+604,2.18,5,0,1,3,No,Arts,Sophomore,Phone
+605,2.24,5,7,3,1,No,Business,Sophomore,Phone
+606,2.92,6,2,1,5,No,Social Science,Sophomore,Tablet
+607,2.41,4,0,3,4,Yes,Social Science,Senior,Phone
+608,2.73,9,6,3,7,No,Business,Sophomore,Phone
+609,3.01,8,4,0,6,No,Social Science,Sophomore,Desktop
+610,3.38,9,5,0,1,Yes,Business,Senior,Phone
+611,2.08,6,4,3,7,No,Business,Junior,Tablet
+612,3.6,7,6,3,2,Yes,Social Science,Sophomore,Laptop
+613,3.26,7,3,1,3,Yes,STEM,Senior,Laptop
+614,2.16,6,3,0,2,No,STEM,Freshman,Desktop
+615,3.75,8,3,2,6,Yes,Arts,Senior,Desktop
+616,3.84,6,4,0,2,Yes,Social Science,Freshman,Phone
+617,2.12,8,1,3,2,No,Arts,Senior,Desktop
+618,2.55,5,4,3,3,Yes,Business,Sophomore,Phone
+619,3.61,6,7,1,3,No,STEM,Junior,Desktop
+620,3.5,8,6,1,3,No,Social Science,Junior,Laptop
+621,2.37,6,7,0,7,Yes,Social Science,Sophomore,Laptop
+622,2.42,6,6,1,3,Yes,Social Science,Freshman,Laptop
+623,2.74,8,5,2,2,No,STEM,Senior,Laptop
+624,2.97,8,2,2,5,No,Arts,Sophomore,Phone
+625,3.24,4,4,1,5,Yes,STEM,Senior,Phone
+626,2.74,6,4,2,3,Yes,Arts,Sophomore,Phone
+627,2.93,7,0,2,7,No,Business,Sophomore,Laptop
+628,3.49,6,6,0,4,Yes,Business,Senior,Tablet
+629,2.07,6,0,2,1,No,Arts,Junior,Laptop
+630,2.5,8,0,3,6,No,Business,Junior,Laptop
+631,3.43,6,4,3,7,No,Business,Freshman,Tablet
+632,3.79,9,1,0,4,Yes,Social Science,Senior,Tablet
+633,3.02,6,2,1,6,Yes,Social Science,Freshman,Desktop
+634,3.06,9,2,0,4,No,STEM,Sophomore,Laptop
+635,2.21,7,7,1,4,Yes,STEM,Freshman,Tablet
+636,2.89,8,6,1,5,Yes,STEM,Sophomore,Desktop
+637,3.07,6,5,1,1,No,Social Science,Senior,Tablet
+638,2.48,9,6,1,4,Yes,STEM,Senior,Tablet
+639,2.54,9,1,1,3,No,STEM,Senior,Desktop
+640,2.75,9,1,0,6,No,Social Science,Senior,Laptop
+641,2.04,5,2,1,7,No,Arts,Freshman,Desktop
+642,2.64,4,3,2,5,No,Social Science,Sophomore,Laptop
+643,2.42,7,0,2,6,No,Arts,Junior,Tablet
+644,2.65,6,0,1,3,Yes,Social Science,Senior,Desktop
+645,2.24,5,2,2,3,Yes,STEM,Senior,Phone
+646,3.78,6,6,3,4,No,Business,Sophomore,Tablet
+647,3.19,6,1,0,3,No,Business,Junior,Desktop
+648,3.36,8,6,0,1,Yes,Arts,Senior,Tablet
+649,3.58,8,5,1,3,No,Arts,Junior,Desktop
+650,3.0,8,3,1,4,No,Arts,Senior,Laptop
+651,2.17,5,2,3,6,Yes,Business,Freshman,Phone
+652,3.07,6,0,1,3,No,Arts,Freshman,Tablet
+653,3.17,4,4,2,5,Yes,Social Science,Junior,Phone
+654,3.49,7,6,3,7,No,Social Science,Sophomore,Laptop
+655,2.86,8,1,2,5,No,Business,Sophomore,Desktop
+656,2.26,8,4,0,5,Yes,Social Science,Freshman,Phone
+657,2.57,6,5,2,6,Yes,Arts,Sophomore,Desktop
+658,2.73,6,2,0,2,No,Business,Sophomore,Laptop
+659,3.29,5,6,2,7,No,Arts,Sophomore,Tablet
+660,3.14,5,0,0,5,No,Social Science,Junior,Laptop
+661,2.71,8,6,1,5,Yes,Arts,Junior,Phone
+662,3.97,6,3,2,2,Yes,Business,Sophomore,Phone
+663,3.21,4,7,0,6,Yes,Arts,Freshman,Phone
+664,2.47,7,4,2,7,No,Social Science,Sophomore,Desktop
+665,2.2,6,3,3,5,Yes,STEM,Senior,Tablet
+666,2.31,6,5,1,4,Yes,Business,Freshman,Phone
+667,2.49,9,0,0,6,No,Arts,Junior,Phone
+668,2.32,5,4,3,7,No,Business,Senior,Phone
+669,2.37,7,5,2,5,Yes,Arts,Sophomore,Laptop
+670,2.57,8,3,3,5,No,STEM,Sophomore,Phone
+671,2.35,6,3,2,2,No,Social Science,Freshman,Laptop
+672,3.79,8,7,1,7,Yes,Arts,Freshman,Phone
+673,2.16,6,4,3,4,Yes,Arts,Sophomore,Laptop
+674,3.05,8,0,1,6,Yes,STEM,Sophomore,Desktop
+675,2.82,7,3,0,3,No,Business,Freshman,Desktop
+676,3.96,5,2,2,1,No,Social Science,Senior,Laptop
+677,2.22,7,7,2,4,Yes,Arts,Junior,Tablet
+678,2.8,9,5,1,3,Yes,Arts,Freshman,Tablet
+679,3.94,4,4,1,4,No,Social Science,Senior,Laptop
+680,3.73,5,1,0,7,No,STEM,Sophomore,Desktop
+681,3.63,7,1,3,3,No,Business,Junior,Laptop
+682,2.52,9,0,2,7,No,Social Science,Senior,Tablet
+683,2.34,4,2,2,3,No,Business,Junior,Laptop
+684,3.34,9,3,0,4,No,STEM,Junior,Desktop
+685,3.86,6,1,0,2,Yes,STEM,Junior,Tablet
+686,3.11,6,0,1,4,No,Social Science,Senior,Tablet
+687,3.14,8,5,1,7,Yes,Arts,Senior,Phone
+688,2.56,5,7,3,4,No,STEM,Sophomore,Phone
+689,3.54,6,2,0,3,No,STEM,Junior,Tablet
+690,2.37,9,2,3,1,No,Social Science,Freshman,Tablet
+691,2.65,5,6,0,3,Yes,Social Science,Freshman,Laptop
+692,2.85,6,0,2,5,Yes,Social Science,Freshman,Desktop
+693,3.02,8,0,0,4,Yes,STEM,Senior,Tablet
+694,2.48,7,6,0,6,Yes,Business,Sophomore,Desktop
+695,2.23,8,7,2,4,No,STEM,Senior,Tablet
+696,3.22,4,3,0,2,No,Social Science,Junior,Desktop
+697,2.58,6,0,3,7,Yes,Arts,Freshman,Phone
+698,3.16,4,6,1,6,Yes,Arts,Senior,Tablet
+699,2.31,4,3,1,3,No,Social Science,Freshman,Laptop
+700,2.96,9,7,3,2,Yes,Arts,Senior,Desktop
+701,3.07,5,3,2,4,No,STEM,Freshman,Tablet
+702,2.1,9,4,0,3,Yes,Business,Junior,Phone
+703,2.67,6,2,3,3,Yes,STEM,Freshman,Phone
+704,2.27,4,5,1,5,Yes,Social Science,Junior,Phone
+705,2.13,7,2,1,5,Yes,STEM,Junior,Phone
+706,3.98,4,2,3,1,No,Arts,Senior,Tablet
+707,2.64,7,4,1,5,Yes,STEM,Senior,Laptop
+708,3.62,9,3,3,7,No,Business,Senior,Desktop
+709,2.51,9,3,1,6,No,Arts,Junior,Laptop
+710,3.36,5,0,3,3,Yes,Business,Sophomore,Desktop
+711,3.52,4,4,0,5,Yes,Business,Sophomore,Laptop
+712,3.19,8,0,0,1,No,Business,Junior,Tablet
+713,2.94,9,4,0,4,No,STEM,Junior,Tablet
+714,2.82,9,0,0,6,No,STEM,Senior,Desktop
+715,2.7,5,1,1,5,Yes,STEM,Senior,Tablet
+716,3.86,7,6,2,3,Yes,STEM,Senior,Desktop
+717,3.66,5,2,3,4,Yes,Arts,Sophomore,Laptop
+718,3.93,4,2,2,7,No,STEM,Sophomore,Tablet
+719,2.25,6,7,1,3,No,Arts,Junior,Tablet
+720,3.46,6,5,1,4,No,Business,Sophomore,Desktop
+721,3.88,7,6,2,7,No,Arts,Senior,Desktop
+722,2.36,9,3,2,7,Yes,Social Science,Senior,Desktop
+723,2.13,7,5,1,6,No,STEM,Senior,Desktop
+724,3.48,9,1,1,3,No,Social Science,Senior,Phone
+725,3.15,9,7,3,5,Yes,Arts,Senior,Desktop
+726,3.68,6,5,0,5,No,STEM,Freshman,Phone
+727,2.28,7,7,0,1,No,Social Science,Junior,Laptop
+728,3.59,5,2,3,4,No,STEM,Junior,Desktop
+729,2.4,9,3,2,1,No,Arts,Sophomore,Phone
+730,2.33,8,1,1,2,Yes,Social Science,Senior,Phone
+731,2.33,8,2,2,5,No,Arts,Freshman,Phone
+732,3.63,5,6,0,4,Yes,Social Science,Senior,Tablet
+733,3.33,8,0,0,6,No,Business,Senior,Phone
+734,3.05,4,4,2,1,Yes,Business,Sophomore,Desktop
+735,2.72,9,1,0,6,No,Business,Freshman,Desktop
+736,3.75,5,3,1,6,No,Business,Freshman,Desktop
+737,2.78,7,7,3,6,No,Business,Junior,Phone
+738,3.63,9,5,2,1,Yes,Arts,Senior,Phone
+739,2.88,5,6,1,2,Yes,Business,Freshman,Tablet
+740,2.75,6,5,1,7,No,Arts,Junior,Laptop
+741,2.93,7,1,0,7,No,Business,Freshman,Tablet
+742,2.6,6,6,1,1,No,STEM,Senior,Desktop
+743,3.5,9,3,2,7,Yes,Business,Junior,Desktop
+744,3.01,7,1,1,3,No,STEM,Freshman,Desktop
+745,2.46,8,3,3,7,No,Arts,Sophomore,Tablet
+746,3.8,5,5,1,5,No,Business,Freshman,Desktop
+747,2.77,9,2,1,1,No,Social Science,Senior,Desktop
+748,3.09,4,6,3,7,No,Arts,Sophomore,Desktop
+749,3.81,7,0,1,1,Yes,Business,Freshman,Phone
+750,3.25,7,2,1,2,Yes,Arts,Freshman,Laptop
+751,2.23,9,0,0,3,No,Social Science,Junior,Phone
+752,3.88,9,5,2,1,Yes,Business,Senior,Phone
+753,3.26,6,7,0,5,No,Social Science,Freshman,Laptop
+754,2.67,8,6,2,7,No,Business,Freshman,Laptop
+755,2.28,6,2,3,5,No,STEM,Freshman,Tablet
+756,3.59,6,2,3,7,No,Arts,Senior,Laptop
+757,3.24,8,1,3,1,Yes,Social Science,Sophomore,Tablet
+758,3.07,4,4,2,6,Yes,Arts,Senior,Tablet
+759,3.79,6,5,2,7,No,Social Science,Junior,Phone
+760,3.58,6,3,2,6,Yes,Arts,Junior,Desktop
+761,2.3,7,5,3,3,No,Arts,Senior,Phone
+762,2.62,8,3,2,5,No,Arts,Freshman,Phone
+763,2.5,5,6,1,6,Yes,STEM,Freshman,Laptop
+764,3.49,4,3,0,5,Yes,Business,Sophomore,Laptop
+765,2.07,4,7,3,7,No,STEM,Senior,Tablet
+766,3.14,8,0,0,7,No,Arts,Senior,Tablet
+767,3.52,9,3,1,3,Yes,Social Science,Freshman,Tablet
+768,3.75,9,3,2,7,No,Arts,Junior,Laptop
+769,2.68,7,1,0,3,No,Business,Junior,Tablet
+770,3.64,7,2,1,6,No,STEM,Sophomore,Tablet
+771,2.22,8,5,1,7,Yes,Business,Sophomore,Laptop
+772,3.69,7,5,0,1,Yes,Social Science,Junior,Desktop
+773,2.25,4,6,3,4,No,Business,Senior,Phone
+774,2.79,4,6,0,2,No,STEM,Sophomore,Laptop
+775,3.59,5,7,3,4,No,Social Science,Freshman,Tablet
+776,2.3,9,3,2,4,No,Business,Senior,Phone
+777,2.46,8,4,3,5,No,STEM,Freshman,Laptop
+778,3.44,6,5,2,3,Yes,STEM,Sophomore,Phone
+779,3.44,9,6,0,5,No,Arts,Junior,Phone
+780,3.28,6,3,2,6,No,Business,Sophomore,Desktop
+781,3.39,5,6,1,2,Yes,Social Science,Junior,Tablet
+782,3.09,5,7,2,6,Yes,Arts,Senior,Laptop
+783,2.5,7,0,3,1,No,Business,Sophomore,Tablet
+784,2.69,5,0,3,2,Yes,Business,Sophomore,Desktop
+785,2.36,5,6,3,5,Yes,Social Science,Sophomore,Desktop
+786,3.82,6,0,2,7,No,Arts,Senior,Laptop
+787,3.17,7,6,3,7,No,Arts,Freshman,Laptop
+788,2.8,5,3,3,5,No,Social Science,Freshman,Desktop
+789,2.92,9,1,1,6,No,Arts,Junior,Laptop
+790,3.89,5,4,2,5,Yes,STEM,Sophomore,Phone
+791,2.31,7,3,1,5,Yes,Social Science,Freshman,Phone
+792,3.17,8,1,3,4,Yes,Business,Senior,Desktop
+793,3.01,7,1,3,1,Yes,Social Science,Sophomore,Tablet
+794,3.22,6,5,3,7,No,STEM,Junior,Laptop
+795,2.04,8,3,2,4,No,Social Science,Freshman,Laptop
+796,3.74,9,3,0,5,No,Business,Senior,Phone
+797,3.86,4,6,3,3,Yes,Business,Senior,Laptop
+798,3.13,7,1,3,4,Yes,Social Science,Junior,Tablet
+799,3.39,6,1,3,5,No,Social Science,Freshman,Laptop
+800,3.84,9,1,3,7,No,STEM,Sophomore,Laptop
+801,3.41,8,6,2,5,Yes,STEM,Senior,Phone
+802,2.31,9,5,0,1,No,Business,Junior,Laptop
+803,3.15,7,3,0,6,Yes,Arts,Senior,Desktop
+804,3.21,5,1,0,2,Yes,Arts,Senior,Desktop
+805,2.85,7,0,3,4,No,Arts,Freshman,Tablet
+806,3.47,4,3,3,4,Yes,Arts,Freshman,Tablet
+807,3.87,7,6,0,4,No,Business,Sophomore,Tablet
+808,3.85,8,5,0,5,Yes,Arts,Senior,Tablet
+809,2.9,8,0,3,1,Yes,Arts,Junior,Phone
+810,2.23,7,6,3,5,Yes,Social Science,Senior,Laptop
+811,3.97,8,2,1,5,No,Arts,Junior,Phone
+812,3.68,5,3,1,6,No,Social Science,Senior,Tablet
+813,2.25,9,2,1,3,No,Business,Junior,Laptop
+814,3.84,7,6,0,1,No,Social Science,Senior,Desktop
+815,3.74,5,6,2,4,No,STEM,Senior,Phone
+816,3.04,9,6,3,2,Yes,Social Science,Sophomore,Laptop
+817,3.18,9,1,1,4,Yes,Arts,Freshman,Desktop
+818,2.8,5,5,2,5,Yes,Social Science,Freshman,Desktop
+819,2.11,6,1,3,1,Yes,Social Science,Junior,Tablet
+820,2.67,7,5,2,7,No,Business,Senior,Desktop
+821,3.61,9,4,0,1,Yes,Business,Senior,Desktop
+822,2.01,9,1,0,1,Yes,Arts,Freshman,Tablet
+823,2.67,8,2,0,3,Yes,STEM,Junior,Laptop
+824,2.8,9,5,1,4,No,STEM,Sophomore,Laptop
+825,3.07,5,1,3,3,No,Social Science,Sophomore,Tablet
+826,3.84,9,3,0,7,No,STEM,Sophomore,Phone
+827,2.69,6,6,1,7,Yes,Business,Senior,Tablet
+828,2.69,7,5,1,6,Yes,Arts,Junior,Laptop
+829,3.48,7,5,1,2,Yes,Arts,Freshman,Phone
+830,2.9,9,1,1,6,No,Business,Senior,Tablet
+831,2.45,4,4,0,5,Yes,Arts,Senior,Laptop
+832,2.9,4,1,1,3,No,Social Science,Sophomore,Laptop
+833,2.28,5,7,0,3,No,Arts,Junior,Laptop
+834,2.35,4,2,0,6,Yes,STEM,Junior,Desktop
+835,3.0,5,2,1,5,Yes,Arts,Sophomore,Desktop
+836,2.84,8,5,0,1,Yes,Arts,Sophomore,Phone
+837,3.83,5,5,3,5,No,Business,Sophomore,Phone
+838,2.72,4,1,3,4,No,Business,Senior,Phone
+839,3.16,9,2,2,6,No,STEM,Senior,Desktop
+840,3.26,8,2,3,5,No,Business,Senior,Phone
+841,2.03,4,4,0,1,No,STEM,Freshman,Laptop
+842,3.33,5,3,0,5,No,Social Science,Freshman,Laptop
+843,2.36,6,4,3,3,Yes,STEM,Junior,Phone
+844,3.92,7,7,1,2,Yes,Arts,Sophomore,Phone
+845,2.3,4,0,1,3,Yes,STEM,Sophomore,Desktop
+846,2.83,5,6,0,7,No,Social Science,Senior,Laptop
+847,2.17,8,4,1,2,Yes,Arts,Freshman,Tablet
+848,3.99,4,7,2,7,No,STEM,Sophomore,Tablet
+849,3.0,4,1,2,5,Yes,Business,Junior,Desktop
+850,3.19,7,3,3,4,No,Business,Sophomore,Desktop
+851,2.13,5,1,3,5,Yes,Business,Senior,Desktop
+852,3.5,6,6,1,1,Yes,STEM,Senior,Laptop
+853,2.42,8,7,0,5,No,STEM,Freshman,Phone
+854,3.8,5,0,3,2,No,Social Science,Junior,Phone
+855,2.41,8,3,2,3,No,Arts,Junior,Desktop
+856,2.38,4,5,3,4,Yes,Arts,Sophomore,Laptop
+857,2.07,7,2,3,7,Yes,Arts,Junior,Tablet
+858,2.94,7,4,2,5,No,Arts,Sophomore,Desktop
+859,3.13,9,7,0,5,No,STEM,Sophomore,Laptop
+860,2.13,6,1,3,3,Yes,STEM,Freshman,Desktop
+861,3.55,7,0,3,4,No,Social Science,Junior,Laptop
+862,2.91,4,2,3,6,No,Arts,Senior,Laptop
+863,3.05,6,4,1,7,No,STEM,Sophomore,Desktop
+864,2.88,5,2,3,5,Yes,STEM,Sophomore,Phone
+865,2.8,7,4,2,5,Yes,STEM,Sophomore,Desktop
+866,3.12,6,7,0,6,No,STEM,Junior,Phone
+867,2.31,4,5,0,7,No,Arts,Junior,Phone
+868,2.36,9,3,2,2,No,Arts,Junior,Tablet
+869,3.72,8,7,1,2,Yes,STEM,Sophomore,Laptop
+870,3.89,8,2,2,1,Yes,Business,Senior,Desktop
+871,2.75,4,2,0,3,No,Social Science,Senior,Laptop
+872,2.54,4,2,2,4,Yes,Arts,Junior,Tablet
+873,3.29,8,3,1,5,Yes,Arts,Senior,Phone
+874,2.82,9,0,0,7,Yes,Business,Sophomore,Desktop
+875,2.05,6,4,1,5,No,Arts,Junior,Laptop
+876,2.31,8,7,2,1,Yes,Business,Junior,Tablet
+877,3.43,4,7,3,7,No,Business,Sophomore,Phone
+878,3.32,7,5,2,7,No,STEM,Junior,Phone
+879,2.05,5,2,1,5,No,Arts,Sophomore,Laptop
+880,2.44,9,6,2,3,No,Social Science,Junior,Phone
+881,2.46,9,7,3,1,Yes,Business,Senior,Tablet
+882,3.34,7,3,1,3,No,Social Science,Junior,Phone
+883,2.04,7,0,2,1,No,STEM,Junior,Desktop
+884,2.21,4,7,1,5,No,Arts,Junior,Desktop
+885,3.6,8,4,1,1,No,STEM,Freshman,Laptop
+886,2.36,6,3,0,2,No,STEM,Senior,Tablet
+887,3.31,9,5,0,7,No,Social Science,Sophomore,Phone
+888,2.48,9,5,1,4,Yes,Social Science,Freshman,Phone
+889,2.2,7,4,2,5,No,Business,Senior,Phone
+890,2.49,8,2,2,6,No,Arts,Junior,Desktop
+891,3.44,9,5,2,4,Yes,STEM,Junior,Tablet
+892,3.71,6,0,3,5,No,Business,Sophomore,Phone
+893,3.66,7,3,1,4,Yes,Business,Sophomore,Laptop
+894,2.79,6,7,1,2,No,STEM,Senior,Tablet
+895,3.34,8,0,3,4,No,STEM,Senior,Tablet
+896,2.41,9,2,1,1,No,Business,Sophomore,Phone
+897,2.59,5,0,1,4,No,STEM,Senior,Desktop
+898,3.79,9,0,3,5,Yes,STEM,Sophomore,Tablet
+899,2.03,8,1,0,6,Yes,Social Science,Junior,Laptop
+900,2.17,9,0,1,6,Yes,Arts,Sophomore,Tablet
+901,2.42,9,4,3,3,No,Business,Freshman,Desktop
+902,2.05,4,3,2,7,No,STEM,Sophomore,Laptop
+903,2.36,9,1,0,4,No,Business,Sophomore,Desktop
+904,3.17,9,3,2,6,Yes,Arts,Freshman,Phone
+905,2.84,6,3,1,4,No,Business,Freshman,Tablet
+906,3.79,5,2,0,7,Yes,Business,Freshman,Laptop
+907,3.63,6,2,3,6,No,Business,Freshman,Desktop
+908,2.68,6,1,1,7,No,Social Science,Sophomore,Phone
+909,2.52,7,5,3,4,No,Arts,Senior,Laptop
+910,2.76,4,6,0,5,No,Arts,Freshman,Tablet
+911,3.18,6,2,2,4,No,Business,Junior,Tablet
+912,2.54,8,6,1,7,No,Business,Sophomore,Desktop
+913,3.25,8,2,1,5,No,Arts,Senior,Laptop
+914,2.82,9,2,3,5,No,STEM,Junior,Phone
+915,3.1,7,3,0,3,Yes,Social Science,Sophomore,Phone
+916,2.87,4,1,3,6,Yes,Arts,Sophomore,Phone
+917,2.59,4,3,0,1,No,Business,Junior,Desktop
+918,3.9,9,7,1,5,No,STEM,Freshman,Phone
+919,3.53,8,4,0,7,Yes,STEM,Freshman,Laptop
+920,2.28,5,3,1,6,No,STEM,Junior,Desktop
+921,3.74,7,6,0,2,Yes,Social Science,Senior,Tablet
+922,2.97,9,6,2,4,Yes,Social Science,Freshman,Desktop
+923,3.79,7,4,0,7,No,Arts,Sophomore,Desktop
+924,3.6,8,0,2,2,No,Arts,Sophomore,Desktop
+925,2.85,8,0,0,7,No,Arts,Senior,Laptop
+926,2.04,5,4,0,4,No,Arts,Sophomore,Tablet
+927,2.54,5,4,3,3,No,Business,Freshman,Tablet
+928,3.08,4,3,3,7,No,Social Science,Senior,Desktop
+929,3.27,7,4,1,5,Yes,STEM,Freshman,Desktop
+930,2.52,7,7,3,1,Yes,Business,Senior,Desktop
+931,2.28,8,1,0,5,Yes,Arts,Junior,Laptop
+932,3.67,4,0,3,4,No,Arts,Sophomore,Laptop
+933,3.97,9,0,0,7,Yes,Business,Senior,Phone
+934,3.05,7,7,2,1,Yes,STEM,Junior,Tablet
+935,2.34,4,5,0,5,Yes,Social Science,Freshman,Phone
+936,2.54,4,7,1,1,No,Social Science,Junior,Phone
+937,2.04,8,7,2,4,Yes,STEM,Freshman,Desktop
+938,3.83,4,4,1,3,No,Social Science,Senior,Laptop
+939,2.24,5,2,1,3,Yes,Arts,Senior,Phone
+940,3.15,5,2,1,7,Yes,Arts,Sophomore,Phone
+941,2.55,6,7,3,5,Yes,Arts,Sophomore,Phone
+942,3.11,8,4,1,2,No,Arts,Senior,Desktop
+943,3.3,9,1,2,4,No,STEM,Freshman,Desktop
+944,3.66,6,2,0,5,Yes,Social Science,Freshman,Laptop
+945,2.41,5,5,1,5,Yes,Social Science,Senior,Phone
+946,2.02,6,6,2,3,No,Business,Freshman,Phone
+947,2.27,8,4,1,7,Yes,STEM,Senior,Laptop
+948,3.8,8,7,0,1,Yes,Social Science,Sophomore,Laptop
+949,3.75,4,1,2,4,Yes,Social Science,Freshman,Laptop
+950,3.19,7,1,2,1,Yes,Business,Sophomore,Tablet
+951,3.2,4,3,0,6,Yes,Arts,Junior,Laptop
+952,3.33,8,1,2,6,Yes,Social Science,Sophomore,Desktop
+953,2.35,5,2,0,4,Yes,Arts,Junior,Tablet
+954,3.83,9,7,2,7,No,Business,Sophomore,Laptop
+955,2.84,5,6,2,2,Yes,Social Science,Sophomore,Desktop
+956,2.77,4,2,0,6,No,Arts,Freshman,Laptop
+957,3.04,9,4,0,3,Yes,STEM,Sophomore,Laptop
+958,2.09,8,6,2,2,No,Arts,Senior,Tablet
+959,2.33,5,4,2,5,Yes,Arts,Freshman,Desktop
+960,3.48,8,1,0,6,No,Arts,Freshman,Phone
+961,2.17,9,5,3,3,Yes,Arts,Freshman,Laptop
+962,3.21,9,0,0,5,No,STEM,Sophomore,Tablet
+963,2.49,5,6,2,2,Yes,Business,Freshman,Desktop
+964,2.78,8,7,2,4,Yes,Arts,Junior,Laptop
+965,2.58,6,3,2,5,No,Arts,Junior,Phone
+966,2.71,8,0,0,1,No,Social Science,Sophomore,Desktop
+967,3.44,9,1,2,4,Yes,Social Science,Freshman,Desktop
+968,2.59,8,1,3,4,No,STEM,Senior,Tablet
+969,3.13,4,7,1,2,Yes,STEM,Senior,Laptop
+970,2.95,6,0,3,2,Yes,STEM,Junior,Laptop
+971,3.33,7,3,0,3,No,Social Science,Sophomore,Desktop
+972,3.87,4,6,2,3,Yes,Arts,Sophomore,Laptop
+973,3.47,7,6,0,1,No,Social Science,Sophomore,Desktop
+974,2.43,5,0,1,4,Yes,Business,Sophomore,Phone
+975,2.06,7,4,0,7,No,STEM,Sophomore,Tablet
+976,2.52,8,2,2,1,No,STEM,Freshman,Laptop
+977,3.19,7,5,1,1,No,STEM,Freshman,Laptop
+978,2.1,9,4,1,7,No,Business,Freshman,Tablet
+979,2.99,4,6,2,7,Yes,Arts,Senior,Phone
+980,3.19,4,2,2,7,No,Arts,Freshman,Phone
+981,2.67,7,5,2,2,Yes,Arts,Sophomore,Phone
+982,3.54,4,5,0,1,No,STEM,Sophomore,Phone
+983,2.21,9,5,3,1,No,Arts,Senior,Phone
+984,2.15,4,1,0,5,No,Social Science,Senior,Desktop
+985,3.46,7,7,0,7,No,STEM,Junior,Laptop
+986,2.99,6,5,3,7,Yes,Business,Senior,Laptop
+987,3.38,6,3,2,3,No,Business,Junior,Laptop
+988,2.87,5,0,2,3,Yes,Arts,Freshman,Desktop
+989,2.49,4,6,3,4,No,STEM,Sophomore,Tablet
+990,3.64,7,3,3,3,Yes,Social Science,Junior,Phone
+991,3.6,4,0,0,6,No,Social Science,Junior,Tablet
+992,3.39,8,4,1,4,Yes,STEM,Junior,Phone
+993,2.54,9,7,3,7,No,Arts,Senior,Phone
+994,3.18,4,4,0,5,Yes,Business,Senior,Tablet
+995,2.72,4,0,1,3,No,Business,Senior,Laptop
+996,2.18,6,3,2,5,Yes,Social Science,Junior,Desktop
+997,3.83,9,0,2,3,No,Social Science,Freshman,Tablet
+998,2.27,7,5,0,3,Yes,Social Science,Sophomore,Laptop
+999,3.9,4,1,0,5,No,Business,Senior,Phone
+1000,2.89,6,6,3,1,Yes,Social Science,Freshman,Laptop
+1001,2.37,5,4,2,1,No,Business,Senior,Phone
+1002,3.08,9,6,0,1,Yes,Business,Senior,Phone
+1003,3.75,6,1,2,6,No,Arts,Junior,Laptop
+1004,3.46,6,5,2,1,Yes,Arts,Junior,Phone
+1005,3.61,6,5,3,3,Yes,Arts,Senior,Desktop
+1006,3.32,4,4,1,7,No,Social Science,Sophomore,Laptop
+1007,3.38,4,4,3,2,Yes,Business,Senior,Tablet
+1008,3.7,5,5,0,5,Yes,Social Science,Sophomore,Phone
+1009,2.5,8,2,3,7,No,Business,Freshman,Phone
+1010,2.98,8,6,3,2,No,Arts,Senior,Desktop
+1011,2.44,8,7,2,7,No,Arts,Sophomore,Desktop
+1012,3.98,9,1,3,6,Yes,Social Science,Freshman,Tablet
+1013,3.89,9,6,0,2,Yes,Business,Freshman,Phone
+1014,2.08,5,1,1,4,No,Social Science,Junior,Tablet
+1015,3.41,9,2,3,1,Yes,STEM,Freshman,Tablet
+1016,3.85,8,7,3,6,No,Social Science,Junior,Phone
+1017,2.36,8,3,1,7,Yes,Arts,Freshman,Tablet
+1018,3.14,6,1,0,3,No,Business,Freshman,Tablet
+1019,3.83,9,6,0,1,No,Business,Sophomore,Desktop
+1020,2.07,4,0,3,1,No,Social Science,Sophomore,Desktop
+1021,3.39,4,7,2,2,Yes,Arts,Junior,Tablet
+1022,2.59,6,5,3,4,No,STEM,Senior,Phone
+1023,3.85,6,5,1,1,Yes,Social Science,Sophomore,Desktop
+1024,3.94,6,2,1,7,No,Business,Freshman,Tablet
+1025,3.89,4,1,1,7,No,Arts,Junior,Laptop
+1026,2.95,8,3,3,5,Yes,Business,Junior,Laptop
+1027,3.72,6,1,3,5,No,Business,Junior,Tablet
+1028,3.69,5,5,0,1,No,Business,Freshman,Laptop
+1029,2.64,6,4,2,2,Yes,Business,Sophomore,Desktop
+1030,3.66,7,0,3,2,No,STEM,Senior,Phone
+1031,2.07,6,7,0,3,Yes,Arts,Junior,Tablet
+1032,3.19,4,2,3,6,Yes,Social Science,Freshman,Desktop
+1033,2.46,9,4,0,6,No,Arts,Sophomore,Phone
+1034,2.24,6,6,0,6,No,Arts,Sophomore,Laptop
+1035,2.15,9,3,2,4,Yes,Arts,Senior,Laptop
+1036,3.39,7,4,3,2,No,Social Science,Junior,Laptop
+1037,2.68,5,6,0,3,No,Arts,Freshman,Laptop
+1038,3.45,9,4,1,5,No,Social Science,Sophomore,Desktop
+1039,2.13,8,3,1,7,No,Social Science,Freshman,Desktop
+1040,2.63,6,7,1,6,Yes,STEM,Sophomore,Phone
+1041,3.08,7,4,2,5,No,Business,Junior,Tablet
+1042,3.58,7,2,0,5,No,Social Science,Junior,Phone
+1043,2.64,9,5,2,1,Yes,Business,Senior,Tablet
+1044,3.25,5,1,3,4,No,Arts,Sophomore,Laptop
+1045,3.77,4,4,3,3,Yes,Business,Freshman,Laptop
+1046,3.23,6,2,0,4,Yes,Business,Sophomore,Laptop
+1047,2.47,7,1,1,1,No,Business,Freshman,Laptop
+1048,2.05,5,7,0,3,No,Arts,Senior,Desktop
+1049,3.74,8,6,0,3,No,Arts,Sophomore,Phone
+1050,2.04,7,1,0,2,No,Social Science,Junior,Tablet
+1051,3.75,5,6,2,4,No,Social Science,Freshman,Tablet
+1052,3.06,4,4,3,4,No,STEM,Junior,Desktop
+1053,3.88,4,2,0,2,No,Arts,Senior,Laptop
+1054,3.6,7,5,0,5,Yes,STEM,Senior,Phone
+1055,4.0,7,4,0,1,Yes,Arts,Freshman,Laptop
+1056,2.7,9,6,2,4,Yes,Business,Sophomore,Desktop
+1057,3.53,6,3,2,2,No,STEM,Junior,Tablet
+1058,2.8,5,1,2,7,No,STEM,Junior,Desktop
+1059,2.96,7,4,0,3,Yes,STEM,Freshman,Tablet
+1060,3.26,6,6,1,6,Yes,Arts,Freshman,Phone
+1061,3.75,9,7,1,7,Yes,Social Science,Freshman,Tablet
+1062,3.97,6,1,1,2,Yes,STEM,Senior,Phone
+1063,3.54,7,7,3,6,No,Social Science,Senior,Laptop
+1064,2.84,4,6,0,5,No,Arts,Junior,Laptop
+1065,2.84,5,2,1,1,Yes,STEM,Sophomore,Desktop
+1066,3.48,5,0,1,6,No,Arts,Freshman,Phone
+1067,2.48,4,7,1,5,No,Social Science,Senior,Laptop
+1068,2.22,7,4,0,6,No,Social Science,Sophomore,Phone
+1069,2.71,5,5,1,3,Yes,STEM,Freshman,Laptop
+1070,2.57,7,4,1,3,No,Social Science,Sophomore,Laptop
+1071,2.59,9,1,0,3,Yes,Business,Freshman,Tablet
+1072,2.47,7,2,3,3,No,Business,Sophomore,Desktop
+1073,2.08,6,6,2,2,No,STEM,Junior,Tablet
+1074,2.04,4,3,1,3,No,Arts,Freshman,Phone
+1075,3.98,7,5,2,7,Yes,Arts,Freshman,Laptop
+1076,2.86,9,2,3,3,Yes,Arts,Junior,Desktop
+1077,2.77,8,7,3,7,Yes,Business,Freshman,Laptop
+1078,3.36,4,7,1,2,No,Social Science,Freshman,Laptop
+1079,2.44,5,4,0,3,Yes,Business,Senior,Tablet
+1080,3.9,6,3,3,5,Yes,Social Science,Junior,Phone
+1081,3.57,5,2,2,5,No,Business,Senior,Desktop
+1082,2.18,9,0,2,4,No,Arts,Junior,Desktop
+1083,2.84,9,5,2,5,No,Arts,Sophomore,Desktop
+1084,3.76,5,1,2,1,Yes,Arts,Junior,Phone
+1085,3.89,4,2,3,1,No,STEM,Junior,Desktop
+1086,2.93,5,2,1,1,Yes,STEM,Senior,Phone
+1087,3.23,7,0,1,2,No,Social Science,Freshman,Desktop
+1088,2.33,5,4,2,5,Yes,STEM,Junior,Laptop
+1089,3.98,6,6,1,7,No,Business,Freshman,Phone
+1090,2.46,6,6,2,1,No,Business,Junior,Tablet
+1091,3.89,8,5,2,4,No,Social Science,Senior,Desktop
+1092,3.3,6,5,0,2,No,Social Science,Junior,Tablet
+1093,3.22,5,1,3,4,Yes,Arts,Sophomore,Phone
+1094,3.03,6,2,3,5,Yes,STEM,Junior,Laptop
+1095,2.46,4,3,2,3,No,Arts,Junior,Tablet
+1096,2.35,6,2,3,4,No,STEM,Freshman,Tablet
+1097,2.44,7,6,1,3,No,STEM,Freshman,Laptop
+1098,2.37,4,1,2,2,No,Social Science,Sophomore,Laptop
+1099,3.56,8,2,0,4,No,Arts,Junior,Phone
+1100,2.7,7,0,1,4,No,Arts,Freshman,Desktop
+1101,2.12,5,6,0,6,Yes,STEM,Junior,Tablet
+1102,3.94,5,2,0,2,No,STEM,Senior,Tablet
+1103,3.77,5,2,3,2,Yes,Social Science,Senior,Phone
+1104,3.86,7,6,3,1,Yes,Business,Sophomore,Desktop
+1105,3.99,7,3,2,5,No,Arts,Senior,Phone
+1106,2.35,7,6,3,4,No,Arts,Freshman,Tablet
+1107,2.79,4,0,0,4,No,Social Science,Freshman,Tablet
+1108,3.52,9,0,0,7,No,Social Science,Sophomore,Laptop
+1109,3.39,4,2,1,2,No,Arts,Junior,Laptop
+1110,2.31,5,5,0,2,Yes,Arts,Freshman,Desktop
+1111,3.63,9,3,2,5,No,STEM,Senior,Tablet
+1112,2.45,6,2,2,2,No,Business,Freshman,Tablet
+1113,2.45,5,6,3,3,No,Arts,Sophomore,Laptop
+1114,3.07,8,2,3,3,Yes,Social Science,Senior,Phone
+1115,3.19,4,1,3,6,Yes,STEM,Senior,Phone
+1116,3.16,7,1,2,3,No,STEM,Senior,Tablet
+1117,2.18,4,5,0,3,No,Social Science,Sophomore,Tablet
+1118,3.75,7,3,3,5,No,Social Science,Sophomore,Desktop
+1119,2.53,9,4,1,4,No,STEM,Junior,Desktop
+1120,2.26,8,7,3,3,No,Social Science,Junior,Laptop
+1121,3.78,9,1,2,6,No,STEM,Junior,Tablet
+1122,3.91,8,4,3,2,No,Social Science,Sophomore,Phone
+1123,3.72,4,0,0,3,No,STEM,Senior,Desktop
+1124,3.62,7,1,3,6,Yes,Arts,Senior,Laptop
+1125,3.31,9,1,2,5,No,Arts,Freshman,Laptop
+1126,3.1,8,3,2,7,No,Social Science,Junior,Phone
+1127,2.17,5,5,1,7,No,Business,Senior,Desktop
+1128,2.82,5,4,2,7,Yes,Arts,Senior,Phone
+1129,2.75,9,6,1,2,No,STEM,Senior,Laptop
+1130,2.52,7,1,0,6,No,Business,Senior,Tablet
+1131,3.45,9,1,2,3,No,STEM,Sophomore,Phone
+1132,2.99,4,3,3,4,Yes,STEM,Junior,Laptop
+1133,2.16,8,3,0,2,No,Arts,Senior,Tablet
+1134,2.44,4,5,3,2,No,Social Science,Senior,Tablet
+1135,3.37,5,4,3,7,No,Social Science,Senior,Desktop
+1136,2.15,8,0,3,4,Yes,STEM,Senior,Desktop
+1137,3.7,9,6,0,7,No,Arts,Freshman,Laptop
+1138,2.99,4,5,0,2,Yes,STEM,Senior,Phone
+1139,2.96,6,7,2,3,Yes,Business,Senior,Tablet
+1140,3.18,7,0,3,7,No,STEM,Senior,Desktop
+1141,3.65,7,2,1,7,No,Arts,Freshman,Desktop
+1142,2.7,6,1,2,7,No,STEM,Sophomore,Phone
+1143,3.36,5,4,0,2,No,Arts,Freshman,Desktop
+1144,3.13,8,5,1,3,Yes,Social Science,Senior,Laptop
+1145,2.53,7,1,0,4,No,Arts,Sophomore,Phone
+1146,3.76,6,4,1,1,Yes,Business,Senior,Tablet
+1147,3.59,9,4,2,4,No,Arts,Sophomore,Laptop
+1148,3.32,6,4,1,3,No,Business,Senior,Tablet
+1149,3.7,5,1,2,5,No,Business,Senior,Tablet
+1150,3.73,5,5,0,7,No,STEM,Sophomore,Desktop
+1151,3.42,4,6,1,4,No,Business,Sophomore,Laptop
+1152,3.67,7,3,3,5,No,Arts,Senior,Laptop
+1153,3.39,4,1,3,5,Yes,Social Science,Freshman,Phone
+1154,3.36,6,7,0,3,Yes,Arts,Freshman,Laptop
+1155,3.24,8,4,1,3,No,Social Science,Freshman,Phone
+1156,3.51,8,5,3,7,No,Business,Freshman,Laptop
+1157,2.32,5,6,2,1,Yes,STEM,Sophomore,Tablet
+1158,3.76,8,2,1,6,Yes,Business,Sophomore,Phone
+1159,3.74,8,7,1,2,No,Business,Freshman,Laptop
+1160,2.06,8,0,3,4,No,Social Science,Junior,Phone
+1161,3.65,6,7,2,3,Yes,Arts,Junior,Desktop
+1162,2.26,8,4,2,4,Yes,STEM,Junior,Desktop
+1163,2.67,9,2,2,6,No,STEM,Senior,Phone
+1164,3.49,8,3,1,6,No,STEM,Freshman,Phone
+1165,2.32,8,6,0,7,Yes,STEM,Senior,Tablet
+1166,3.64,4,6,1,5,Yes,Arts,Sophomore,Laptop
+1167,3.66,6,4,1,7,No,STEM,Sophomore,Desktop
+1168,3.01,5,7,3,2,No,Social Science,Junior,Desktop
+1169,2.01,4,7,0,1,No,Social Science,Junior,Laptop
+1170,2.57,7,6,2,4,No,STEM,Sophomore,Desktop
+1171,3.23,6,2,3,2,Yes,STEM,Junior,Desktop
+1172,3.96,9,4,1,1,No,Arts,Junior,Phone
+1173,3.26,6,1,0,4,No,Arts,Sophomore,Desktop
+1174,2.52,7,5,2,2,Yes,STEM,Senior,Desktop
+1175,3.27,7,2,2,3,No,Arts,Junior,Desktop
+1176,3.08,7,5,1,4,No,Business,Senior,Laptop
+1177,3.56,5,1,2,2,Yes,STEM,Junior,Tablet
+1178,2.21,8,1,2,6,Yes,Arts,Freshman,Phone
+1179,3.52,6,5,0,1,Yes,Social Science,Senior,Tablet
+1180,3.08,8,2,3,2,Yes,STEM,Senior,Desktop
+1181,3.93,8,5,0,3,No,STEM,Junior,Desktop
+1182,2.68,9,5,3,7,No,Social Science,Senior,Desktop
+1183,3.27,7,0,3,4,No,Social Science,Freshman,Tablet
+1184,3.86,5,2,3,4,Yes,Arts,Sophomore,Laptop
+1185,2.21,9,7,2,4,No,Social Science,Freshman,Laptop
+1186,3.87,4,7,0,3,No,Business,Sophomore,Phone
+1187,3.38,5,0,2,1,No,STEM,Freshman,Tablet
+1188,2.14,8,4,1,4,Yes,Business,Freshman,Laptop
+1189,2.6,5,6,0,1,Yes,Arts,Senior,Phone
+1190,3.42,7,7,3,2,Yes,Social Science,Freshman,Desktop
+1191,2.13,4,5,2,6,No,STEM,Junior,Desktop
+1192,3.16,7,4,2,6,No,Social Science,Junior,Phone
+1193,2.69,4,7,0,1,No,Social Science,Junior,Laptop
+1194,3.24,9,2,0,1,No,Arts,Junior,Tablet
+1195,2.09,8,5,3,6,Yes,Arts,Senior,Phone
+1196,3.74,4,6,3,4,No,Arts,Junior,Laptop
+1197,3.95,4,4,1,5,No,Arts,Freshman,Phone
+1198,3.94,4,7,3,5,Yes,STEM,Junior,Laptop
+1199,3.5,5,7,2,3,Yes,Business,Senior,Desktop
+1200,2.26,9,3,1,7,No,Business,Sophomore,Phone
+1201,3.52,5,7,1,6,Yes,STEM,Freshman,Tablet
+1202,2.05,8,1,1,6,Yes,Social Science,Freshman,Phone
+1203,2.04,4,5,0,3,No,STEM,Senior,Desktop
+1204,2.65,9,6,3,5,No,Business,Sophomore,Desktop
+1205,2.98,9,1,1,2,Yes,Business,Junior,Laptop
+1206,3.54,6,0,0,4,No,STEM,Sophomore,Desktop
+1207,3.37,8,4,0,4,No,Arts,Freshman,Laptop
+1208,2.89,9,7,1,2,No,Social Science,Freshman,Desktop
+1209,2.55,4,0,1,2,Yes,STEM,Freshman,Laptop
+1210,3.99,4,6,2,5,No,Business,Sophomore,Tablet
+1211,2.85,9,5,1,3,No,Arts,Junior,Laptop
+1212,2.9,5,1,2,2,No,Social Science,Freshman,Laptop
+1213,2.33,8,1,1,3,Yes,Business,Senior,Tablet
+1214,3.59,4,4,1,7,Yes,Social Science,Junior,Laptop
+1215,3.39,9,5,3,1,No,Arts,Freshman,Laptop
+1216,2.44,4,7,1,4,Yes,Business,Junior,Tablet
+1217,2.16,9,3,1,5,No,Arts,Senior,Desktop
+1218,3.36,8,3,2,4,Yes,STEM,Sophomore,Phone
+1219,3.31,9,4,2,5,Yes,STEM,Freshman,Laptop
+1220,2.55,6,5,3,1,No,Social Science,Senior,Desktop
+1221,3.9,9,4,1,4,Yes,Arts,Freshman,Phone
+1222,2.3,9,5,1,1,No,Arts,Freshman,Tablet
+1223,2.86,8,6,2,5,Yes,Social Science,Sophomore,Laptop
+1224,3.89,9,6,0,2,No,Social Science,Sophomore,Laptop
+1225,2.84,8,0,0,7,No,Social Science,Junior,Tablet
+1226,3.28,6,7,0,4,Yes,STEM,Senior,Laptop
+1227,2.8,8,4,2,1,No,Social Science,Senior,Phone
+1228,2.55,4,7,2,6,Yes,STEM,Sophomore,Phone
+1229,3.97,8,5,0,4,No,Social Science,Freshman,Tablet
+1230,2.82,6,3,0,4,No,Arts,Junior,Laptop
+1231,3.79,7,7,1,4,Yes,Arts,Sophomore,Desktop
+1232,2.46,9,5,2,3,No,Social Science,Junior,Laptop
+1233,2.43,8,6,2,1,No,Social Science,Junior,Tablet
+1234,2.06,9,5,0,1,No,STEM,Senior,Desktop
+1235,3.3,5,4,0,4,Yes,Business,Junior,Phone
+1236,2.74,4,0,3,2,No,STEM,Senior,Phone
+1237,3.73,4,0,2,4,Yes,Arts,Freshman,Desktop
+1238,2.95,5,0,3,3,No,Social Science,Freshman,Desktop
+1239,3.94,5,0,1,5,Yes,Arts,Sophomore,Tablet
+1240,2.37,8,6,3,3,No,Business,Freshman,Laptop
+1241,3.74,5,2,0,2,Yes,STEM,Senior,Phone
+1242,3.55,7,7,2,4,No,Arts,Junior,Laptop
+1243,3.54,9,4,2,1,No,STEM,Junior,Phone
+1244,3.69,9,1,3,7,No,Social Science,Freshman,Laptop
+1245,3.52,6,4,3,6,No,Arts,Senior,Phone
+1246,3.25,5,2,1,4,No,Business,Junior,Laptop
+1247,2.26,5,0,1,2,No,STEM,Freshman,Tablet
+1248,2.07,7,2,0,1,No,STEM,Senior,Phone
+1249,3.84,4,3,0,3,No,Business,Senior,Tablet
+1250,3.23,4,3,0,5,No,Arts,Junior,Phone
+1251,3.59,9,7,3,5,No,Arts,Sophomore,Phone
+1252,2.96,9,6,3,7,Yes,STEM,Sophomore,Phone
+1253,2.23,8,4,2,4,No,Business,Senior,Laptop
+1254,2.25,7,4,0,3,Yes,STEM,Senior,Phone
+1255,3.37,6,1,3,7,No,STEM,Freshman,Tablet
+1256,2.86,6,6,2,6,No,Social Science,Senior,Laptop
+1257,2.4,7,1,0,6,No,Arts,Freshman,Laptop
+1258,2.98,6,3,1,7,Yes,Arts,Freshman,Phone
+1259,2.13,4,0,1,2,Yes,Social Science,Freshman,Desktop
+1260,3.16,6,2,3,5,No,Arts,Senior,Laptop
+1261,2.54,6,1,2,3,Yes,Arts,Senior,Phone
+1262,3.6,7,5,1,4,No,Arts,Freshman,Tablet
+1263,2.62,7,1,2,1,No,Business,Junior,Desktop
+1264,2.91,6,0,2,4,No,Social Science,Senior,Laptop
+1265,2.02,5,0,1,4,Yes,STEM,Sophomore,Desktop
+1266,2.14,7,4,2,3,No,Business,Junior,Laptop
+1267,2.78,8,2,1,5,Yes,STEM,Sophomore,Desktop
+1268,2.96,8,0,3,3,No,Social Science,Senior,Desktop
+1269,3.2,4,6,0,1,Yes,Social Science,Junior,Tablet
+1270,2.58,6,1,0,7,No,Social Science,Senior,Desktop
+1271,3.39,5,1,3,3,Yes,Arts,Senior,Tablet
+1272,3.72,4,3,1,2,No,Business,Junior,Phone
+1273,3.56,6,0,1,4,Yes,Social Science,Senior,Laptop
+1274,2.08,7,5,1,5,No,STEM,Junior,Tablet
+1275,2.96,8,4,1,6,No,Arts,Senior,Laptop
+1276,2.21,9,2,3,1,Yes,Arts,Freshman,Tablet
+1277,2.48,5,5,0,6,No,Business,Sophomore,Laptop
+1278,3.97,9,4,2,4,No,Business,Freshman,Tablet
+1279,2.28,8,1,2,3,Yes,Business,Senior,Laptop
+1280,3.0,9,5,0,6,Yes,Arts,Senior,Phone
+1281,3.24,7,4,3,2,No,Social Science,Senior,Laptop
+1282,3.4,6,1,2,3,Yes,STEM,Freshman,Phone
+1283,3.12,7,1,0,4,Yes,Social Science,Senior,Phone
+1284,2.02,9,1,3,6,Yes,STEM,Junior,Phone
+1285,2.65,7,1,2,7,No,Social Science,Sophomore,Desktop
+1286,3.04,8,6,1,1,No,Business,Senior,Laptop
+1287,2.18,5,1,1,6,Yes,STEM,Senior,Desktop
+1288,2.7,7,3,3,7,No,Arts,Sophomore,Desktop
+1289,2.07,8,5,1,7,No,STEM,Sophomore,Laptop
+1290,2.16,5,4,3,6,Yes,Arts,Sophomore,Phone
+1291,2.79,6,3,0,5,Yes,Social Science,Freshman,Desktop
+1292,2.27,9,6,0,6,No,Business,Freshman,Desktop
+1293,3.14,6,7,2,4,No,STEM,Senior,Tablet
+1294,3.38,4,7,3,7,Yes,Arts,Sophomore,Laptop
+1295,3.6,8,3,2,1,No,Social Science,Senior,Desktop
+1296,2.4,5,0,2,4,No,Business,Senior,Laptop
+1297,2.33,7,0,0,2,Yes,Business,Senior,Laptop
+1298,2.21,6,0,2,3,No,Business,Freshman,Desktop
+1299,3.27,5,2,1,6,No,Social Science,Sophomore,Laptop
+1300,3.41,8,0,2,5,No,Social Science,Senior,Phone
+1301,2.06,4,4,3,1,No,Social Science,Freshman,Desktop
+1302,3.87,6,3,1,5,Yes,Business,Junior,Desktop
+1303,2.1,9,4,0,5,No,STEM,Junior,Desktop
+1304,3.08,5,5,3,5,No,Arts,Senior,Tablet
+1305,3.42,9,0,1,6,No,Social Science,Senior,Tablet
+1306,3.74,5,6,3,1,Yes,STEM,Sophomore,Tablet
+1307,3.43,5,2,1,1,Yes,Arts,Sophomore,Tablet
+1308,3.6,8,5,3,7,Yes,Business,Senior,Desktop
+1309,2.68,8,6,3,5,Yes,STEM,Freshman,Phone
+1310,3.63,8,2,1,7,Yes,Business,Senior,Laptop
+1311,2.16,7,7,0,7,No,Arts,Sophomore,Laptop
+1312,3.79,5,5,0,3,Yes,Social Science,Sophomore,Desktop
+1313,3.1,6,7,3,6,No,Business,Freshman,Phone
+1314,3.63,9,3,3,6,Yes,STEM,Senior,Laptop
+1315,2.9,8,4,0,4,Yes,Social Science,Sophomore,Phone
+1316,3.29,8,1,0,7,Yes,STEM,Senior,Desktop
+1317,3.05,9,4,2,6,Yes,Arts,Sophomore,Tablet
+1318,3.46,9,0,0,5,No,Arts,Junior,Phone
+1319,2.16,5,7,3,2,Yes,Social Science,Junior,Laptop
+1320,2.12,8,6,1,5,No,STEM,Junior,Laptop
+1321,2.49,9,1,0,1,No,STEM,Sophomore,Laptop
+1322,2.32,7,2,2,6,No,STEM,Freshman,Tablet
+1323,3.74,7,7,2,6,No,STEM,Junior,Phone
+1324,2.44,8,3,2,4,Yes,Arts,Sophomore,Phone
+1325,3.95,9,3,1,7,No,STEM,Senior,Laptop
+1326,2.67,5,7,0,2,No,Arts,Junior,Phone
+1327,2.36,5,7,0,6,Yes,STEM,Freshman,Laptop
+1328,3.58,5,7,0,4,Yes,STEM,Freshman,Phone
+1329,3.32,4,2,1,4,Yes,Business,Freshman,Tablet
+1330,3.0,8,0,1,2,No,Business,Senior,Tablet
+1331,3.11,5,2,3,5,No,STEM,Senior,Desktop
+1332,3.44,7,5,2,5,Yes,Arts,Freshman,Desktop
+1333,2.46,9,6,2,5,No,STEM,Freshman,Desktop
+1334,3.99,6,7,0,3,No,Business,Freshman,Phone
+1335,3.95,6,6,1,7,No,STEM,Senior,Tablet
+1336,3.3,5,0,1,7,Yes,Business,Senior,Tablet
+1337,2.4,6,1,0,5,No,STEM,Sophomore,Tablet
+1338,3.36,6,2,0,2,No,Social Science,Junior,Laptop
+1339,2.14,4,0,3,3,No,STEM,Senior,Phone
+1340,2.06,7,6,2,7,No,Arts,Freshman,Phone
+1341,2.52,7,1,2,5,No,Business,Junior,Desktop
+1342,2.93,4,2,2,3,Yes,Social Science,Senior,Laptop
+1343,3.74,4,3,3,2,No,Business,Junior,Laptop
+1344,3.45,6,2,0,5,No,Business,Sophomore,Tablet
+1345,3.49,8,4,0,1,No,Arts,Senior,Desktop
+1346,2.85,9,2,2,6,Yes,STEM,Freshman,Phone
+1347,2.69,9,4,2,2,Yes,Arts,Freshman,Laptop
+1348,2.74,6,1,3,4,No,STEM,Sophomore,Tablet
+1349,3.98,9,2,1,4,Yes,Social Science,Sophomore,Phone
+1350,2.08,4,1,1,2,Yes,Arts,Sophomore,Tablet
+1351,3.73,7,1,2,4,Yes,Arts,Sophomore,Phone
+1352,3.16,9,6,3,7,No,Business,Sophomore,Tablet
+1353,2.88,6,0,2,2,Yes,Arts,Senior,Phone
+1354,3.45,8,1,1,1,No,STEM,Senior,Desktop
+1355,2.97,6,1,2,2,No,Arts,Junior,Phone
+1356,3.75,5,6,1,5,Yes,Arts,Sophomore,Phone
+1357,3.8,6,6,1,5,No,Social Science,Freshman,Phone
+1358,2.84,4,2,1,3,No,STEM,Freshman,Tablet
+1359,2.55,7,6,0,4,No,Business,Sophomore,Laptop
+1360,3.18,7,2,0,6,No,STEM,Sophomore,Phone
+1361,3.82,9,3,2,4,No,Social Science,Sophomore,Phone
+1362,2.42,4,6,1,7,No,STEM,Sophomore,Desktop
+1363,3.25,5,0,0,2,Yes,STEM,Sophomore,Phone
+1364,3.26,4,1,2,6,No,Arts,Freshman,Desktop
+1365,3.47,6,0,2,6,No,Arts,Junior,Phone
+1366,2.26,4,4,2,4,No,STEM,Sophomore,Tablet
+1367,3.43,4,7,2,6,No,STEM,Sophomore,Laptop
+1368,3.82,5,6,2,6,Yes,Business,Sophomore,Laptop
+1369,2.36,6,1,3,5,No,Social Science,Senior,Laptop
+1370,2.48,8,0,1,1,Yes,Arts,Freshman,Tablet
+1371,3.94,8,6,2,2,No,Arts,Freshman,Desktop
+1372,2.36,7,6,3,4,Yes,Arts,Junior,Laptop
+1373,3.71,9,7,1,5,No,Arts,Senior,Tablet
+1374,2.98,4,3,0,7,No,STEM,Senior,Tablet
+1375,2.49,7,3,2,7,No,STEM,Senior,Phone
+1376,3.74,5,1,3,3,No,Business,Junior,Desktop
+1377,2.89,8,4,0,6,No,Arts,Junior,Tablet
+1378,3.03,4,3,3,6,No,Arts,Junior,Desktop
+1379,2.72,5,7,1,4,No,STEM,Senior,Laptop
+1380,3.19,9,3,1,1,No,Business,Freshman,Laptop
+1381,2.33,5,4,0,1,No,STEM,Senior,Laptop
+1382,2.78,4,0,3,4,No,Arts,Junior,Phone
+1383,3.94,9,3,2,4,Yes,Arts,Senior,Phone
+1384,2.52,5,7,2,5,No,Social Science,Sophomore,Desktop
+1385,3.31,9,2,0,7,Yes,Social Science,Senior,Desktop
+1386,2.65,4,7,0,4,No,Social Science,Senior,Phone
+1387,3.55,4,5,0,7,Yes,Business,Freshman,Tablet
+1388,2.26,9,5,3,3,No,STEM,Freshman,Desktop
+1389,3.94,6,3,2,7,Yes,Arts,Freshman,Desktop
+1390,2.91,7,0,2,5,Yes,Arts,Sophomore,Laptop
+1391,2.47,5,6,2,6,Yes,Business,Freshman,Desktop
+1392,2.15,5,0,0,6,Yes,Arts,Sophomore,Desktop
+1393,2.34,6,7,2,7,No,Arts,Junior,Tablet
+1394,3.04,6,1,1,6,Yes,STEM,Freshman,Desktop
+1395,2.67,6,2,0,6,Yes,Social Science,Senior,Tablet
+1396,3.66,8,0,2,2,Yes,Social Science,Senior,Laptop
+1397,2.86,8,4,3,3,No,Business,Sophomore,Phone
+1398,2.5,9,7,0,5,No,Social Science,Freshman,Laptop
+1399,3.23,8,2,1,5,Yes,Social Science,Senior,Tablet
+1400,3.41,4,5,1,6,No,Business,Junior,Tablet
+1401,2.33,9,7,3,1,No,Business,Freshman,Desktop
+1402,2.34,5,2,3,5,Yes,Social Science,Junior,Desktop
+1403,2.07,7,4,0,3,No,STEM,Senior,Phone
+1404,3.47,4,3,0,4,Yes,Business,Freshman,Tablet
+1405,3.33,5,4,1,3,No,Arts,Sophomore,Tablet
+1406,2.95,5,4,3,6,Yes,Business,Senior,Laptop
+1407,3.69,9,3,0,6,No,Arts,Junior,Phone
+1408,3.61,6,3,1,2,Yes,Business,Freshman,Laptop
+1409,3.17,6,3,3,7,No,Business,Junior,Desktop
+1410,3.74,4,3,1,5,No,Social Science,Junior,Desktop
+1411,2.41,6,3,2,7,Yes,Social Science,Sophomore,Laptop
+1412,2.22,5,4,3,7,No,Social Science,Sophomore,Desktop
+1413,2.54,6,1,0,5,Yes,STEM,Senior,Laptop
+1414,2.11,8,1,0,5,No,Social Science,Sophomore,Tablet
+1415,3.06,6,7,2,6,Yes,Social Science,Sophomore,Tablet
+1416,3.87,5,0,3,5,Yes,Business,Senior,Desktop
+1417,2.08,9,1,1,1,No,Business,Senior,Phone
+1418,2.24,4,5,0,1,No,STEM,Senior,Tablet
+1419,2.9,7,1,2,4,No,Arts,Senior,Desktop
+1420,3.87,6,4,2,5,Yes,Business,Junior,Phone
+1421,2.63,5,3,3,2,Yes,Business,Junior,Desktop
+1422,3.01,7,7,3,4,No,Arts,Senior,Laptop
+1423,2.08,7,3,0,6,No,STEM,Senior,Desktop
+1424,2.3,8,6,2,5,Yes,Business,Freshman,Laptop
+1425,3.97,7,6,1,1,Yes,Social Science,Freshman,Tablet
+1426,3.93,9,6,2,2,Yes,STEM,Freshman,Tablet
+1427,2.01,5,4,1,4,Yes,Arts,Sophomore,Desktop
+1428,3.9,5,5,1,2,Yes,Arts,Junior,Phone
+1429,3.28,6,1,0,5,Yes,Social Science,Junior,Desktop
+1430,3.74,6,4,2,3,No,Social Science,Freshman,Desktop
+1431,2.91,6,0,1,2,No,Social Science,Freshman,Tablet
+1432,3.03,9,7,3,2,Yes,STEM,Junior,Tablet
+1433,2.98,7,3,1,6,Yes,Arts,Sophomore,Desktop
+1434,3.33,7,6,3,1,Yes,Social Science,Freshman,Tablet
+1435,2.28,8,2,3,5,No,Social Science,Senior,Laptop
+1436,2.06,9,0,2,2,No,Arts,Freshman,Desktop
+1437,2.62,6,6,3,5,No,Business,Junior,Tablet
+1438,3.41,4,5,1,1,No,STEM,Junior,Desktop
+1439,2.4,8,0,3,6,No,Business,Freshman,Tablet
+1440,3.35,4,4,2,5,Yes,Social Science,Freshman,Laptop
+1441,3.94,7,1,0,7,Yes,STEM,Senior,Laptop
+1442,2.19,8,3,1,1,No,Business,Senior,Desktop
+1443,3.35,8,7,1,1,Yes,Arts,Sophomore,Laptop
+1444,2.89,5,5,2,4,No,Social Science,Sophomore,Laptop
+1445,3.74,7,5,2,6,No,STEM,Senior,Tablet
+1446,2.35,7,2,2,6,No,STEM,Sophomore,Desktop
+1447,3.39,9,0,2,7,Yes,STEM,Sophomore,Tablet
+1448,3.68,8,2,1,5,No,STEM,Freshman,Tablet
+1449,3.89,7,1,0,3,No,Social Science,Senior,Phone
+1450,3.37,8,6,3,7,No,Social Science,Freshman,Laptop
+1451,2.99,9,1,3,4,No,Arts,Freshman,Tablet
+1452,3.24,9,6,0,6,No,Arts,Sophomore,Tablet
+1453,3.74,5,2,0,1,Yes,Arts,Freshman,Tablet
+1454,3.14,8,3,0,6,No,Business,Junior,Laptop
+1455,2.06,7,1,2,7,Yes,Arts,Sophomore,Laptop
+1456,3.86,7,2,1,3,Yes,Social Science,Junior,Laptop
+1457,3.38,8,0,1,2,No,Business,Sophomore,Desktop
+1458,3.35,8,2,1,2,No,Social Science,Freshman,Tablet
+1459,2.43,8,2,2,6,Yes,Business,Sophomore,Laptop
+1460,3.32,6,4,1,6,Yes,Arts,Junior,Tablet
+1461,2.79,7,1,2,4,Yes,Arts,Sophomore,Desktop
+1462,3.3,9,7,1,6,No,Arts,Junior,Phone
+1463,2.21,7,3,0,3,Yes,Business,Senior,Desktop
+1464,3.32,6,3,3,6,Yes,Social Science,Freshman,Laptop
+1465,4.0,8,4,3,5,Yes,STEM,Junior,Laptop
+1466,2.1,5,6,2,7,No,Social Science,Senior,Desktop
+1467,3.95,8,5,1,3,No,Arts,Freshman,Tablet
+1468,2.81,8,6,3,4,Yes,Business,Senior,Laptop
+1469,3.74,6,3,0,5,No,Business,Junior,Laptop
+1470,3.56,7,2,0,5,Yes,Arts,Freshman,Desktop
+1471,3.13,8,4,0,7,No,Business,Senior,Tablet
+1472,3.48,7,0,2,2,No,Arts,Junior,Desktop
+1473,3.76,4,1,2,3,Yes,Social Science,Senior,Desktop
+1474,2.81,9,1,1,7,Yes,Business,Freshman,Tablet
+1475,2.65,7,7,0,5,No,STEM,Freshman,Tablet
+1476,3.34,5,1,1,4,Yes,Business,Freshman,Phone
+1477,3.62,9,2,1,7,No,Arts,Junior,Desktop
+1478,3.52,5,0,0,2,Yes,STEM,Senior,Tablet
+1479,3.6,8,4,1,5,Yes,Arts,Senior,Laptop
+1480,2.87,9,4,3,7,No,Business,Junior,Phone
+1481,3.64,7,1,2,3,No,STEM,Freshman,Desktop
+1482,2.24,9,0,1,2,No,STEM,Sophomore,Tablet
+1483,3.09,8,0,0,3,Yes,Business,Freshman,Phone
+1484,2.01,6,0,2,3,No,STEM,Sophomore,Phone
+1485,2.65,5,3,2,3,No,Social Science,Freshman,Laptop
+1486,2.73,8,3,1,7,No,STEM,Junior,Phone
+1487,2.79,6,1,3,2,No,STEM,Sophomore,Desktop
+1488,3.39,9,0,1,7,Yes,Social Science,Junior,Tablet
+1489,2.78,9,5,3,7,No,Arts,Sophomore,Phone
+1490,2.9,8,0,2,7,No,Arts,Senior,Phone
+1491,2.48,7,4,1,5,Yes,Social Science,Sophomore,Desktop
+1492,2.75,9,4,0,6,No,STEM,Sophomore,Laptop
+1493,2.45,7,1,1,1,Yes,Business,Sophomore,Laptop
+1494,2.15,7,5,3,5,Yes,Social Science,Senior,Tablet
+1495,3.21,7,0,3,2,No,Business,Junior,Desktop
+1496,3.34,4,6,1,1,Yes,Arts,Senior,Laptop
+1497,3.24,6,5,3,1,Yes,Social Science,Sophomore,Tablet
+1498,2.93,6,7,2,1,No,Business,Freshman,Tablet
+1499,2.76,9,1,1,6,No,STEM,Senior,Laptop
+1500,3.73,9,4,3,7,No,Social Science,Freshman,Desktop
+1501,3.04,7,6,1,4,No,Business,Senior,Phone
+1502,2.96,4,4,1,2,Yes,Social Science,Senior,Laptop
+1503,2.05,7,3,0,6,No,Social Science,Sophomore,Phone
+1504,2.68,4,1,1,6,No,Arts,Junior,Phone
+1505,2.76,7,1,0,4,Yes,Arts,Junior,Desktop
+1506,2.8,5,0,3,1,No,STEM,Sophomore,Desktop
+1507,3.16,5,0,0,7,Yes,Arts,Senior,Tablet
+1508,3.07,8,3,0,4,Yes,Arts,Junior,Desktop
+1509,3.22,7,6,0,4,No,Arts,Junior,Tablet
+1510,3.53,9,7,2,6,No,Business,Junior,Laptop
+1511,3.63,6,2,0,2,Yes,Social Science,Sophomore,Phone
+1512,3.44,8,5,1,3,Yes,Arts,Freshman,Desktop
+1513,3.91,9,2,0,7,No,Business,Freshman,Laptop
+1514,2.04,5,2,1,4,Yes,Social Science,Freshman,Tablet
+1515,2.39,7,1,0,7,Yes,Arts,Freshman,Desktop
+1516,2.02,8,5,2,4,No,Arts,Freshman,Phone
+1517,3.29,7,1,3,1,No,Social Science,Junior,Laptop
+1518,3.8,5,7,0,7,No,Business,Junior,Desktop
+1519,2.49,8,5,0,1,No,Business,Senior,Desktop
+1520,3.85,5,4,2,6,No,STEM,Junior,Laptop
+1521,2.12,4,1,0,1,No,Social Science,Sophomore,Tablet
+1522,3.87,5,1,1,7,Yes,STEM,Senior,Tablet
+1523,2.7,7,1,0,5,No,Business,Junior,Desktop
+1524,2.2,6,6,0,7,No,Arts,Senior,Tablet
+1525,2.97,5,3,3,4,Yes,STEM,Senior,Tablet
+1526,2.51,9,1,3,1,Yes,Business,Freshman,Laptop
+1527,2.57,6,7,0,2,No,Business,Senior,Tablet
+1528,2.61,4,0,2,5,Yes,Arts,Junior,Tablet
+1529,3.61,8,0,3,6,Yes,Social Science,Freshman,Laptop
+1530,3.08,8,5,0,3,No,Business,Junior,Desktop
+1531,2.62,6,4,3,4,No,STEM,Freshman,Desktop
+1532,3.22,8,3,0,4,No,Arts,Junior,Laptop
+1533,3.43,5,6,3,2,Yes,Social Science,Freshman,Phone
+1534,2.55,6,5,3,3,Yes,Social Science,Freshman,Laptop
+1535,2.83,7,0,1,3,No,Social Science,Sophomore,Phone
+1536,2.24,5,3,0,6,Yes,Business,Junior,Tablet
+1537,2.36,5,3,0,6,No,Social Science,Senior,Desktop
+1538,3.36,5,4,0,5,Yes,Business,Freshman,Phone
+1539,2.36,7,7,0,4,No,Arts,Junior,Phone
+1540,3.05,4,3,3,1,No,Arts,Freshman,Tablet
+1541,3.42,9,1,1,6,Yes,Social Science,Sophomore,Desktop
+1542,2.21,8,3,1,2,No,Arts,Sophomore,Tablet
+1543,3.13,6,4,2,2,Yes,STEM,Sophomore,Desktop
+1544,2.51,4,5,0,2,Yes,STEM,Sophomore,Desktop
+1545,3.93,6,4,2,7,No,Business,Senior,Tablet
+1546,2.97,8,6,3,6,Yes,Social Science,Senior,Phone
+1547,3.61,7,4,2,6,No,Business,Freshman,Laptop
+1548,3.1,5,0,0,2,Yes,Arts,Junior,Desktop
+1549,2.09,5,1,1,6,Yes,Social Science,Sophomore,Desktop
+1550,3.27,7,7,1,7,Yes,Business,Sophomore,Laptop
+1551,3.9,4,0,0,1,No,Social Science,Senior,Laptop
+1552,3.2,4,5,3,1,No,Social Science,Senior,Tablet
+1553,3.64,6,2,0,5,Yes,Business,Sophomore,Desktop
+1554,3.77,7,5,3,4,Yes,Social Science,Junior,Tablet
+1555,2.46,4,1,1,1,No,Arts,Freshman,Laptop
+1556,2.42,7,3,3,5,No,STEM,Freshman,Tablet
+1557,3.22,8,4,0,3,No,STEM,Freshman,Desktop
+1558,2.82,5,2,0,4,No,Social Science,Freshman,Phone
+1559,3.68,5,1,0,1,No,STEM,Junior,Phone
+1560,3.8,5,0,3,7,Yes,Social Science,Junior,Desktop
+1561,2.71,7,4,3,3,Yes,Business,Junior,Tablet
+1562,2.47,7,5,3,5,Yes,Arts,Senior,Laptop
+1563,3.56,6,0,1,1,No,STEM,Sophomore,Laptop
+1564,2.55,5,1,2,1,No,Business,Junior,Phone
+1565,3.65,6,1,2,6,No,Arts,Freshman,Tablet
+1566,2.85,5,5,0,3,Yes,STEM,Junior,Laptop
+1567,3.34,6,2,1,1,No,STEM,Sophomore,Laptop
+1568,2.19,6,5,3,2,No,Arts,Senior,Desktop
+1569,3.25,8,3,0,7,No,Business,Freshman,Tablet
+1570,2.9,6,0,1,6,Yes,Business,Senior,Tablet
+1571,3.17,7,2,0,6,No,STEM,Junior,Laptop
+1572,2.34,6,4,1,1,Yes,Arts,Freshman,Tablet
+1573,3.47,5,6,1,7,No,Business,Freshman,Tablet
+1574,3.73,6,3,2,6,No,Arts,Junior,Tablet
+1575,2.43,4,2,0,4,Yes,Arts,Junior,Desktop
+1576,2.19,9,6,3,3,No,STEM,Sophomore,Laptop
+1577,2.05,5,6,2,4,Yes,Arts,Junior,Phone
+1578,3.28,4,0,2,5,No,Arts,Junior,Tablet
+1579,3.21,5,1,3,4,Yes,Social Science,Junior,Laptop
+1580,3.09,7,4,1,7,No,Arts,Freshman,Phone
+1581,2.46,9,5,3,2,No,Business,Sophomore,Desktop
+1582,2.78,9,0,0,6,Yes,STEM,Freshman,Laptop
+1583,3.19,7,3,3,7,No,STEM,Junior,Desktop
+1584,2.99,9,7,1,6,No,Arts,Sophomore,Laptop
+1585,3.98,7,6,3,2,Yes,Arts,Junior,Desktop
+1586,2.27,4,3,1,6,No,Business,Freshman,Laptop
+1587,3.39,8,6,1,4,No,Social Science,Freshman,Desktop
+1588,2.81,5,1,0,5,No,STEM,Junior,Phone
+1589,2.86,7,7,3,1,No,Social Science,Sophomore,Laptop
+1590,3.44,5,1,3,2,No,Business,Freshman,Phone
+1591,3.38,4,4,0,4,No,STEM,Junior,Tablet
+1592,3.98,8,5,1,7,No,Business,Senior,Phone
+1593,2.26,4,4,3,4,No,Arts,Junior,Laptop
+1594,2.21,9,1,0,4,Yes,Business,Junior,Phone
+1595,3.45,5,1,1,1,No,Arts,Sophomore,Laptop
+1596,3.16,8,3,0,3,No,Social Science,Junior,Desktop
+1597,2.55,9,1,3,6,No,STEM,Senior,Tablet
+1598,2.16,8,7,0,6,No,STEM,Junior,Phone
+1599,2.17,9,7,2,7,Yes,Social Science,Senior,Tablet
+1600,3.79,4,2,1,5,No,Arts,Freshman,Phone
+1601,2.38,7,6,2,7,No,STEM,Junior,Laptop
+1602,2.65,5,0,2,3,No,Business,Sophomore,Phone
+1603,2.45,6,1,1,6,Yes,Arts,Junior,Tablet
+1604,2.71,6,4,1,5,Yes,STEM,Senior,Phone
+1605,2.14,4,5,0,7,No,Business,Senior,Tablet
+1606,3.04,5,6,1,5,No,Business,Sophomore,Tablet
+1607,2.14,5,6,2,4,Yes,STEM,Senior,Laptop
+1608,3.6,4,5,2,2,Yes,Social Science,Junior,Desktop
+1609,2.47,5,5,3,4,Yes,Social Science,Senior,Desktop
+1610,3.08,7,6,1,1,Yes,STEM,Junior,Phone
+1611,3.76,4,2,2,6,Yes,Business,Junior,Tablet
+1612,3.3,7,4,3,5,No,Social Science,Senior,Laptop
+1613,3.07,5,2,3,7,No,Social Science,Sophomore,Desktop
+1614,2.65,4,1,0,2,Yes,Social Science,Freshman,Laptop
+1615,2.67,5,0,2,7,No,Arts,Sophomore,Laptop
+1616,3.34,4,5,0,6,Yes,Social Science,Freshman,Tablet
+1617,3.99,5,7,2,5,Yes,STEM,Sophomore,Phone
+1618,3.32,7,4,0,5,Yes,STEM,Junior,Tablet
+1619,3.12,7,5,0,4,No,Arts,Junior,Desktop
+1620,3.46,5,2,1,2,Yes,Arts,Senior,Desktop
+1621,2.93,4,3,0,2,No,STEM,Freshman,Laptop
+1622,2.12,6,1,1,6,Yes,Arts,Freshman,Tablet
+1623,3.12,7,0,3,5,Yes,Social Science,Senior,Tablet
+1624,3.92,7,1,2,2,Yes,Business,Sophomore,Laptop
+1625,2.35,9,3,3,2,No,Business,Senior,Phone
+1626,3.38,6,0,2,7,No,Business,Sophomore,Laptop
+1627,2.4,5,3,3,6,No,STEM,Senior,Laptop
+1628,3.07,4,1,2,4,Yes,Arts,Freshman,Desktop
+1629,2.19,9,2,0,7,Yes,Business,Freshman,Tablet
+1630,2.9,5,6,2,7,Yes,Social Science,Sophomore,Desktop
+1631,3.51,8,1,2,3,Yes,Social Science,Freshman,Laptop
+1632,2.7,7,1,3,1,No,Social Science,Freshman,Tablet
+1633,3.33,8,1,3,3,Yes,Arts,Freshman,Laptop
+1634,3.59,7,4,3,2,Yes,Business,Freshman,Laptop
+1635,3.85,7,3,1,5,No,Social Science,Junior,Phone
+1636,2.47,8,7,1,1,No,Arts,Senior,Desktop
+1637,2.8,8,3,2,1,No,Social Science,Senior,Desktop
+1638,2.3,5,5,2,5,Yes,Business,Junior,Laptop
+1639,3.98,9,3,0,1,No,Business,Freshman,Phone
+1640,3.85,9,5,0,5,Yes,Business,Senior,Laptop
+1641,3.08,8,4,2,1,No,Business,Senior,Laptop
+1642,3.68,5,2,1,7,No,Business,Senior,Laptop
+1643,3.04,9,5,2,6,No,Social Science,Sophomore,Phone
+1644,3.25,5,1,0,6,Yes,Business,Junior,Tablet
+1645,2.18,5,2,1,3,No,Social Science,Sophomore,Phone
+1646,3.51,7,6,1,7,Yes,Business,Sophomore,Laptop
+1647,2.26,9,4,0,1,No,Social Science,Junior,Tablet
+1648,3.65,9,3,2,4,No,Business,Senior,Laptop
+1649,3.56,7,5,3,5,No,Social Science,Sophomore,Phone
+1650,3.42,8,7,2,7,No,Business,Senior,Phone
+1651,2.07,7,1,2,1,No,Arts,Sophomore,Tablet
+1652,2.61,9,0,0,6,Yes,Social Science,Senior,Phone
+1653,2.53,9,6,1,6,No,Arts,Freshman,Laptop
+1654,2.72,8,0,0,5,No,Social Science,Freshman,Tablet
+1655,2.18,7,2,2,4,No,Social Science,Freshman,Desktop
+1656,3.87,4,3,3,1,No,Social Science,Junior,Laptop
+1657,3.11,4,7,3,1,No,STEM,Freshman,Desktop
+1658,2.61,8,0,3,4,Yes,Business,Sophomore,Tablet
+1659,2.79,7,2,0,4,No,Arts,Senior,Tablet
+1660,2.89,7,4,1,4,Yes,Arts,Senior,Laptop
+1661,3.2,5,2,0,6,No,Social Science,Senior,Phone
+1662,3.03,9,6,3,5,No,Arts,Senior,Laptop
+1663,3.84,6,7,2,7,Yes,Arts,Sophomore,Phone
+1664,2.99,8,7,1,4,No,Arts,Senior,Phone
+1665,3.98,6,2,0,5,No,Arts,Sophomore,Laptop
+1666,3.7,6,6,0,3,No,STEM,Sophomore,Tablet
+1667,2.42,8,2,1,1,Yes,Social Science,Senior,Laptop
+1668,3.86,7,7,1,1,Yes,Arts,Senior,Desktop
+1669,2.23,8,7,2,2,No,STEM,Senior,Tablet
+1670,3.63,6,1,1,3,Yes,STEM,Sophomore,Phone
+1671,2.76,9,2,2,7,No,Social Science,Junior,Tablet
+1672,3.76,9,5,3,4,No,Business,Sophomore,Laptop
+1673,3.74,9,2,3,4,Yes,Business,Junior,Tablet
+1674,3.61,7,7,0,7,No,Business,Senior,Phone
+1675,3.58,4,1,3,6,No,Arts,Sophomore,Phone
+1676,2.61,8,1,3,3,No,Social Science,Senior,Tablet
+1677,2.16,9,4,2,4,Yes,Business,Junior,Desktop
+1678,2.81,8,6,0,2,No,Arts,Junior,Phone
+1679,2.35,9,3,1,5,Yes,Social Science,Sophomore,Desktop
+1680,3.39,7,0,0,1,No,Arts,Sophomore,Phone
+1681,2.69,4,0,3,3,Yes,Business,Sophomore,Tablet
+1682,3.95,4,2,1,1,No,Business,Sophomore,Phone
+1683,3.28,9,4,0,5,No,STEM,Freshman,Desktop
+1684,3.64,7,2,0,3,No,STEM,Freshman,Desktop
+1685,2.27,5,0,0,5,No,Social Science,Senior,Tablet
+1686,3.72,8,6,0,4,Yes,Arts,Junior,Desktop
+1687,3.85,8,7,2,7,No,Arts,Junior,Desktop
+1688,2.97,6,6,0,4,Yes,Business,Senior,Tablet
+1689,3.21,7,6,3,7,Yes,Business,Senior,Phone
+1690,3.53,6,1,3,4,Yes,Social Science,Senior,Tablet
+1691,2.35,9,7,2,5,No,STEM,Freshman,Phone
+1692,3.01,6,3,1,5,No,Business,Senior,Phone
+1693,2.8,4,7,1,5,No,Arts,Junior,Phone
+1694,2.29,8,4,3,1,No,Business,Senior,Laptop
+1695,2.74,6,1,3,5,No,STEM,Sophomore,Phone
+1696,2.14,4,3,2,4,No,Arts,Junior,Tablet
+1697,2.05,7,4,1,2,Yes,STEM,Junior,Tablet
+1698,2.27,6,4,1,5,No,Social Science,Junior,Tablet
+1699,3.93,9,0,0,2,Yes,Social Science,Freshman,Laptop
+1700,3.1,9,1,0,7,Yes,STEM,Freshman,Desktop
+1701,3.93,9,4,0,4,No,Arts,Junior,Laptop
+1702,2.86,8,5,2,5,No,STEM,Sophomore,Tablet
+1703,2.62,6,6,3,1,No,Business,Junior,Tablet
+1704,3.01,7,4,2,1,Yes,Business,Freshman,Desktop
+1705,2.88,6,3,1,7,Yes,STEM,Sophomore,Laptop
+1706,2.21,8,0,3,2,No,Business,Junior,Tablet
+1707,3.28,4,2,0,6,No,STEM,Freshman,Phone
+1708,2.43,8,6,2,1,Yes,Business,Sophomore,Phone
+1709,3.24,9,0,2,1,No,STEM,Senior,Tablet
+1710,3.3,4,2,0,1,Yes,Business,Senior,Phone
+1711,2.3,9,1,2,4,Yes,Arts,Junior,Desktop
+1712,2.12,5,1,0,1,Yes,Arts,Senior,Tablet
+1713,3.56,8,4,1,3,No,Business,Freshman,Laptop
+1714,2.92,8,5,3,5,No,STEM,Sophomore,Tablet
+1715,2.12,7,1,1,7,Yes,Business,Junior,Desktop
+1716,3.99,6,7,1,1,No,Social Science,Sophomore,Laptop
+1717,2.12,4,4,0,6,No,Social Science,Sophomore,Desktop
+1718,3.39,4,6,2,6,No,STEM,Sophomore,Phone
+1719,3.97,7,0,1,1,No,Business,Freshman,Phone
+1720,2.48,7,1,1,1,Yes,Business,Junior,Phone
+1721,2.28,6,7,1,3,No,Arts,Senior,Desktop
+1722,2.24,9,0,2,1,No,STEM,Sophomore,Desktop
+1723,2.61,6,0,2,1,Yes,Social Science,Sophomore,Tablet
+1724,2.2,8,5,0,5,No,Social Science,Sophomore,Laptop
+1725,3.38,9,1,1,6,No,STEM,Freshman,Laptop
+1726,2.12,5,0,3,3,No,Social Science,Senior,Desktop
+1727,3.02,6,5,2,6,No,STEM,Sophomore,Desktop
+1728,3.99,7,5,0,3,Yes,Social Science,Freshman,Phone
+1729,3.63,9,1,1,6,No,Social Science,Freshman,Desktop
+1730,3.23,6,5,3,1,Yes,STEM,Sophomore,Phone
+1731,2.61,4,1,2,6,Yes,STEM,Sophomore,Desktop
+1732,3.25,5,7,3,6,No,Social Science,Freshman,Laptop
+1733,3.05,8,1,2,3,No,Social Science,Freshman,Tablet
+1734,2.85,4,2,0,7,No,Arts,Sophomore,Desktop
+1735,2.26,4,0,3,2,Yes,Business,Freshman,Phone
+1736,3.77,5,7,1,3,No,STEM,Freshman,Tablet
+1737,2.9,8,3,1,3,No,STEM,Sophomore,Phone
+1738,2.39,7,1,2,3,No,Business,Sophomore,Phone
+1739,2.74,9,0,1,4,No,Arts,Junior,Tablet
+1740,2.83,8,6,3,7,No,Social Science,Senior,Tablet
+1741,3.66,6,5,0,4,No,Social Science,Sophomore,Tablet
+1742,3.47,4,4,2,4,Yes,Arts,Sophomore,Desktop
+1743,3.54,6,1,3,3,Yes,Arts,Sophomore,Tablet
+1744,2.02,7,5,2,2,No,Business,Senior,Desktop
+1745,2.83,6,5,0,3,No,Business,Junior,Laptop
+1746,2.96,8,5,2,1,Yes,Social Science,Freshman,Laptop
+1747,2.04,6,5,1,2,No,Arts,Senior,Phone
+1748,2.52,7,5,1,4,No,Arts,Sophomore,Phone
+1749,3.52,7,1,2,6,No,Social Science,Sophomore,Desktop
+1750,2.27,7,6,0,6,Yes,Social Science,Junior,Phone
+1751,3.07,8,3,0,7,No,Social Science,Junior,Laptop
+1752,2.43,7,2,1,5,No,Social Science,Junior,Desktop
+1753,2.02,4,5,0,7,Yes,Social Science,Freshman,Desktop
+1754,2.48,7,5,2,2,Yes,Business,Senior,Tablet
+1755,3.95,6,2,3,4,No,Social Science,Senior,Desktop
+1756,3.6,9,6,2,2,No,Arts,Junior,Phone
+1757,3.92,6,7,1,2,No,STEM,Freshman,Laptop
+1758,2.98,9,6,1,6,No,Business,Senior,Phone
+1759,2.22,6,7,1,3,Yes,Arts,Sophomore,Laptop
+1760,3.1,8,1,0,1,No,STEM,Sophomore,Tablet
+1761,2.91,6,0,2,5,Yes,Business,Sophomore,Laptop
+1762,3.69,8,4,3,4,Yes,Social Science,Senior,Tablet
+1763,2.2,8,4,2,2,Yes,Business,Junior,Phone
+1764,2.98,7,0,3,5,Yes,Social Science,Sophomore,Tablet
+1765,2.3,4,1,2,2,No,Social Science,Junior,Desktop
+1766,2.65,9,4,1,6,No,Social Science,Freshman,Desktop
+1767,3.47,7,6,3,1,No,STEM,Sophomore,Laptop
+1768,2.95,7,2,2,6,No,Business,Freshman,Phone
+1769,2.75,8,0,0,5,No,Social Science,Junior,Phone
+1770,2.79,8,6,0,4,No,Arts,Senior,Laptop
+1771,2.92,9,3,2,2,No,Business,Junior,Desktop
+1772,3.57,6,1,1,1,No,Arts,Sophomore,Tablet
+1773,3.78,6,0,3,6,Yes,STEM,Sophomore,Laptop
+1774,3.91,7,4,2,5,Yes,STEM,Junior,Tablet
+1775,3.57,5,1,0,6,Yes,Business,Sophomore,Tablet
+1776,2.63,5,2,3,2,No,STEM,Sophomore,Phone
+1777,3.38,6,1,0,2,No,STEM,Freshman,Desktop
+1778,2.88,5,1,0,4,Yes,Business,Senior,Tablet
+1779,2.51,6,2,2,1,Yes,Arts,Junior,Desktop
+1780,3.68,8,5,0,3,Yes,Social Science,Freshman,Phone
+1781,2.08,7,2,3,6,No,Business,Sophomore,Laptop
+1782,3.8,4,6,1,2,Yes,Business,Freshman,Laptop
+1783,2.92,7,1,2,5,Yes,Social Science,Senior,Phone
+1784,3.27,6,7,3,6,Yes,Arts,Junior,Phone
+1785,3.32,6,2,2,4,No,Social Science,Senior,Tablet
+1786,3.79,7,5,0,4,No,Social Science,Senior,Phone
+1787,3.27,9,6,0,2,No,Arts,Freshman,Laptop
+1788,3.23,6,7,3,2,Yes,Arts,Freshman,Desktop
+1789,2.13,5,7,3,2,No,Social Science,Senior,Desktop
+1790,3.04,5,0,1,7,Yes,Social Science,Sophomore,Desktop
+1791,2.3,6,2,3,3,Yes,Business,Junior,Desktop
+1792,3.47,6,2,3,2,No,Arts,Sophomore,Phone
+1793,3.02,9,1,2,6,Yes,STEM,Sophomore,Phone
+1794,3.36,5,6,0,6,No,Arts,Junior,Desktop
+1795,2.08,6,0,3,7,Yes,Social Science,Freshman,Phone
+1796,2.17,6,3,1,7,Yes,Social Science,Sophomore,Tablet
+1797,3.43,9,3,3,1,No,Social Science,Freshman,Phone
+1798,2.14,9,4,0,5,No,Social Science,Junior,Tablet
+1799,2.14,7,2,3,2,No,STEM,Sophomore,Tablet
+1800,2.02,9,2,2,6,No,Arts,Freshman,Phone
+1801,3.91,4,0,0,7,No,STEM,Freshman,Desktop
+1802,3.48,5,5,3,6,No,STEM,Sophomore,Tablet
+1803,2.71,7,3,2,6,No,Social Science,Junior,Phone
+1804,2.59,4,4,0,7,Yes,STEM,Senior,Laptop
+1805,2.7,6,0,3,3,Yes,Social Science,Freshman,Desktop
+1806,3.55,6,2,2,7,No,Social Science,Junior,Laptop
+1807,3.32,7,3,1,7,Yes,Social Science,Sophomore,Tablet
+1808,2.37,9,6,2,5,Yes,STEM,Freshman,Laptop
+1809,2.35,6,4,1,7,Yes,Social Science,Freshman,Phone
+1810,2.2,8,1,3,4,Yes,STEM,Freshman,Desktop
+1811,3.32,7,3,2,7,Yes,Arts,Junior,Tablet
+1812,3.53,4,4,1,6,Yes,Social Science,Freshman,Phone
+1813,2.53,7,0,0,2,Yes,Business,Freshman,Desktop
+1814,2.04,5,1,2,6,Yes,Business,Sophomore,Tablet
+1815,2.16,9,4,3,5,No,Business,Freshman,Tablet
+1816,3.94,9,4,0,4,Yes,Business,Junior,Tablet
+1817,2.59,7,7,1,7,No,Business,Sophomore,Tablet
+1818,3.54,6,7,2,3,No,STEM,Senior,Laptop
+1819,3.25,6,7,2,1,No,Arts,Sophomore,Laptop
+1820,2.76,8,2,3,7,No,STEM,Freshman,Laptop
+1821,2.41,8,5,0,2,Yes,Social Science,Senior,Tablet
+1822,2.24,9,3,2,1,Yes,Arts,Sophomore,Laptop
+1823,3.23,8,2,2,3,No,Arts,Freshman,Desktop
+1824,3.55,4,6,0,5,Yes,Arts,Sophomore,Tablet
+1825,3.29,8,1,2,5,No,Arts,Junior,Desktop
+1826,3.06,4,5,0,3,No,Business,Freshman,Desktop
+1827,2.08,8,4,0,6,Yes,Social Science,Junior,Laptop
+1828,3.94,9,2,0,3,No,Arts,Freshman,Tablet
+1829,3.6,9,7,3,7,No,Arts,Junior,Laptop
+1830,2.59,4,5,0,2,Yes,Business,Senior,Laptop
+1831,3.96,7,6,0,4,Yes,STEM,Junior,Laptop
+1832,3.2,9,3,1,7,No,STEM,Sophomore,Tablet
+1833,3.16,7,6,1,7,No,STEM,Freshman,Tablet
+1834,3.5,6,1,3,7,Yes,Social Science,Sophomore,Laptop
+1835,3.62,4,0,0,1,Yes,STEM,Junior,Desktop
+1836,3.31,9,2,1,1,No,Arts,Freshman,Desktop
+1837,2.26,5,7,1,5,No,Business,Junior,Tablet
+1838,2.68,6,1,2,7,No,Business,Senior,Phone
+1839,3.86,7,0,0,6,No,STEM,Senior,Laptop
+1840,2.45,9,7,1,5,Yes,Business,Senior,Laptop
+1841,2.74,4,7,3,2,No,Arts,Junior,Phone
+1842,2.86,8,7,2,3,No,STEM,Junior,Tablet
+1843,2.88,5,2,2,1,No,Arts,Senior,Desktop
+1844,3.23,7,1,0,7,Yes,Social Science,Junior,Tablet
+1845,3.89,6,7,0,2,Yes,Arts,Sophomore,Desktop
+1846,2.48,4,6,2,5,No,Arts,Junior,Desktop
+1847,2.24,5,1,3,5,Yes,Arts,Sophomore,Tablet
+1848,2.39,4,5,0,1,No,Arts,Senior,Laptop
+1849,3.77,9,6,0,5,Yes,Social Science,Junior,Laptop
+1850,3.29,8,2,2,6,Yes,STEM,Senior,Laptop
+1851,2.57,6,7,2,5,Yes,Arts,Freshman,Desktop
+1852,3.63,4,1,0,4,No,STEM,Junior,Laptop
+1853,3.72,7,4,1,3,No,Business,Junior,Desktop
+1854,3.69,9,2,0,5,No,Arts,Senior,Laptop
+1855,3.84,9,1,1,4,No,Arts,Senior,Tablet
+1856,2.5,6,5,2,2,Yes,Business,Senior,Phone
+1857,3.51,9,7,1,5,Yes,STEM,Freshman,Desktop
+1858,2.92,7,0,3,6,No,Social Science,Freshman,Tablet
+1859,3.68,4,7,2,2,No,Arts,Senior,Desktop
+1860,3.46,6,0,0,7,No,Business,Junior,Desktop
+1861,3.55,9,4,0,5,No,Business,Junior,Tablet
+1862,3.31,9,2,2,1,Yes,Arts,Senior,Laptop
+1863,2.35,7,5,2,4,Yes,STEM,Sophomore,Desktop
+1864,3.09,8,1,3,4,No,STEM,Freshman,Phone
+1865,3.97,8,1,2,1,Yes,Arts,Freshman,Phone
+1866,3.87,9,0,0,3,Yes,Business,Sophomore,Tablet
+1867,2.09,4,5,3,7,No,Arts,Senior,Phone
+1868,2.33,6,6,0,6,Yes,Social Science,Junior,Tablet
+1869,2.26,9,4,1,4,No,Social Science,Junior,Tablet
+1870,3.45,5,0,2,2,Yes,STEM,Freshman,Desktop
+1871,3.64,6,0,1,6,No,Social Science,Sophomore,Tablet
+1872,2.43,8,4,0,4,No,Business,Junior,Tablet
+1873,3.01,9,2,1,7,No,Social Science,Freshman,Laptop
+1874,3.68,7,1,1,3,No,Arts,Junior,Desktop
+1875,3.47,5,2,0,7,Yes,Business,Junior,Phone
+1876,3.08,9,5,0,2,No,STEM,Junior,Laptop
+1877,3.18,4,6,2,7,No,STEM,Freshman,Laptop
+1878,3.02,5,7,1,6,No,Social Science,Sophomore,Desktop
+1879,2.6,9,3,3,2,Yes,STEM,Senior,Desktop
+1880,3.13,4,3,3,1,Yes,Arts,Sophomore,Laptop
+1881,3.38,5,3,0,5,Yes,Business,Junior,Desktop
+1882,3.75,4,4,0,1,No,Arts,Sophomore,Desktop
+1883,3.27,4,0,1,6,Yes,Arts,Junior,Tablet
+1884,3.52,5,6,0,5,No,Arts,Freshman,Desktop
+1885,2.32,5,2,3,1,No,Arts,Freshman,Tablet
+1886,2.92,4,7,2,5,No,Business,Freshman,Laptop
+1887,2.02,8,1,2,4,No,Business,Junior,Laptop
+1888,2.49,5,3,1,7,Yes,Arts,Sophomore,Phone
+1889,3.45,9,2,2,2,No,Arts,Senior,Desktop
+1890,3.98,6,3,0,5,No,STEM,Senior,Laptop
+1891,2.2,7,6,0,4,No,STEM,Freshman,Tablet
+1892,2.8,4,3,0,7,No,Business,Senior,Laptop
+1893,3.6,4,1,0,7,Yes,STEM,Junior,Desktop
+1894,2.41,7,7,1,3,Yes,Business,Sophomore,Phone
+1895,3.11,8,5,2,1,No,Business,Senior,Phone
+1896,3.47,7,5,3,3,No,Social Science,Senior,Laptop
+1897,3.23,5,6,2,6,Yes,Business,Sophomore,Phone
+1898,2.38,7,5,0,4,Yes,STEM,Senior,Desktop
+1899,2.71,4,4,3,3,Yes,Social Science,Sophomore,Desktop
+1900,3.57,7,0,1,3,No,STEM,Junior,Phone
+1901,3.11,6,4,0,7,No,Business,Junior,Tablet
+1902,2.01,9,2,0,4,No,Business,Junior,Phone
+1903,3.52,5,4,3,7,No,Arts,Freshman,Phone
+1904,2.07,7,2,1,2,Yes,Business,Junior,Laptop
+1905,3.49,4,2,3,5,Yes,Social Science,Senior,Tablet
+1906,2.4,9,0,1,6,No,Business,Freshman,Phone
+1907,3.92,5,1,0,6,No,Arts,Freshman,Laptop
+1908,2.74,4,7,2,1,Yes,Business,Freshman,Laptop
+1909,2.65,8,6,0,7,No,Business,Junior,Laptop
+1910,2.3,6,0,2,5,No,Business,Freshman,Desktop
+1911,2.61,8,6,2,1,No,Arts,Junior,Laptop
+1912,3.75,6,5,1,6,Yes,STEM,Junior,Laptop
+1913,3.99,7,5,3,5,Yes,Business,Freshman,Desktop
+1914,2.74,5,4,1,3,Yes,Social Science,Freshman,Desktop
+1915,2.9,7,2,0,2,No,Arts,Senior,Laptop
+1916,3.44,6,3,3,3,No,Social Science,Freshman,Phone
+1917,3.77,6,3,2,2,Yes,Business,Junior,Tablet
+1918,3.19,6,6,2,7,Yes,Arts,Senior,Desktop
+1919,2.78,9,2,0,4,No,Business,Senior,Tablet
+1920,2.83,4,6,3,1,No,Social Science,Junior,Desktop
+1921,3.39,5,0,0,1,No,Arts,Freshman,Laptop
+1922,2.01,7,1,0,4,Yes,STEM,Freshman,Desktop
+1923,3.24,7,7,1,5,No,STEM,Sophomore,Laptop
+1924,2.71,8,0,0,4,Yes,STEM,Freshman,Tablet
+1925,3.59,6,2,3,7,Yes,Business,Sophomore,Phone
+1926,2.19,6,2,0,6,No,Arts,Senior,Laptop
+1927,3.18,6,1,3,4,Yes,Social Science,Senior,Tablet
+1928,2.96,7,6,2,2,Yes,Social Science,Senior,Tablet
+1929,3.28,8,4,0,6,No,Business,Sophomore,Desktop
+1930,2.13,4,4,3,4,Yes,Business,Junior,Laptop
+1931,3.16,9,1,2,1,No,Social Science,Junior,Tablet
+1932,3.12,5,4,3,3,Yes,Arts,Senior,Phone
+1933,3.12,4,3,2,2,No,Business,Sophomore,Desktop
+1934,3.21,7,4,1,7,Yes,Arts,Sophomore,Desktop
+1935,3.35,9,4,0,2,No,Social Science,Senior,Tablet
+1936,3.61,9,4,0,5,Yes,Arts,Freshman,Laptop
+1937,2.54,9,3,2,3,No,STEM,Senior,Desktop
+1938,3.65,6,6,1,2,No,Social Science,Sophomore,Laptop
+1939,3.0,5,4,3,4,Yes,STEM,Freshman,Tablet
+1940,2.15,7,5,1,2,Yes,Social Science,Junior,Tablet
+1941,2.12,7,3,3,2,No,STEM,Freshman,Laptop
+1942,2.67,9,1,3,2,No,Arts,Junior,Phone
+1943,3.57,7,0,0,5,Yes,Social Science,Sophomore,Desktop
+1944,3.42,5,1,2,2,Yes,Social Science,Senior,Tablet
+1945,3.58,5,0,0,2,Yes,STEM,Senior,Phone
+1946,3.03,8,7,0,5,Yes,Arts,Senior,Phone
+1947,2.88,8,1,0,6,No,Social Science,Senior,Laptop
+1948,2.29,4,5,3,3,No,Business,Senior,Laptop
+1949,2.66,5,0,0,7,No,STEM,Sophomore,Laptop
+1950,2.87,5,0,3,6,No,Social Science,Sophomore,Phone
+1951,2.18,5,2,2,1,No,Arts,Senior,Desktop
+1952,2.44,8,0,3,5,No,Arts,Freshman,Laptop
+1953,3.2,9,0,3,5,Yes,Arts,Senior,Desktop
+1954,3.47,9,2,1,2,Yes,Arts,Junior,Laptop
+1955,4.0,7,4,0,2,No,STEM,Junior,Phone
+1956,3.87,9,4,0,7,Yes,Social Science,Junior,Desktop
+1957,3.29,6,2,0,1,Yes,STEM,Junior,Desktop
+1958,2.84,8,3,0,2,Yes,STEM,Senior,Phone
+1959,3.27,5,7,1,4,Yes,Arts,Junior,Desktop
+1960,3.57,9,0,1,2,No,Business,Freshman,Phone
+1961,2.24,8,0,1,2,No,Arts,Senior,Phone
+1962,2.82,9,2,1,4,Yes,Business,Junior,Tablet
+1963,3.68,4,2,0,1,Yes,STEM,Senior,Laptop
+1964,2.77,5,3,3,4,No,Arts,Senior,Tablet
+1965,3.14,4,5,2,5,Yes,Arts,Senior,Phone
+1966,3.18,5,4,1,4,No,STEM,Sophomore,Phone
+1967,2.37,8,1,3,3,No,Arts,Junior,Desktop
+1968,2.72,7,5,1,5,Yes,Social Science,Sophomore,Phone
+1969,2.67,9,6,0,2,No,Business,Freshman,Phone
+1970,2.05,9,4,0,7,No,Business,Freshman,Phone
+1971,2.05,6,0,3,5,Yes,Business,Sophomore,Laptop
+1972,3.66,4,6,3,1,Yes,Arts,Junior,Tablet
+1973,2.55,9,5,3,1,No,Social Science,Senior,Tablet
+1974,3.04,8,2,0,4,Yes,Arts,Freshman,Laptop
+1975,2.6,7,3,0,5,No,Business,Freshman,Laptop
+1976,3.88,8,4,2,2,No,Arts,Freshman,Laptop
+1977,2.52,4,3,3,1,Yes,Business,Junior,Tablet
+1978,2.86,6,6,2,6,Yes,STEM,Sophomore,Tablet
+1979,3.75,9,4,1,2,No,Business,Sophomore,Phone
+1980,3.68,8,7,2,6,No,STEM,Junior,Tablet
+1981,2.37,5,7,1,3,No,STEM,Freshman,Desktop
+1982,3.61,7,5,1,6,No,STEM,Junior,Tablet
+1983,2.92,8,0,2,1,No,Business,Junior,Laptop
+1984,2.97,7,7,3,4,Yes,Social Science,Sophomore,Tablet
+1985,2.27,9,7,1,3,No,Business,Junior,Phone
+1986,2.16,5,1,3,5,No,Arts,Junior,Tablet
+1987,3.46,6,3,0,2,No,Arts,Freshman,Laptop
+1988,2.99,6,3,1,1,No,Social Science,Senior,Desktop
+1989,2.87,5,7,0,3,No,Social Science,Freshman,Laptop
+1990,3.46,7,1,2,3,No,Social Science,Sophomore,Desktop
+1991,3.53,9,3,3,1,Yes,STEM,Senior,Phone
+1992,2.32,8,3,2,5,No,Social Science,Freshman,Phone
+1993,3.22,5,4,1,5,Yes,Social Science,Junior,Tablet
+1994,2.27,4,4,0,4,Yes,Social Science,Junior,Phone
+1995,3.5,7,1,1,7,No,Business,Senior,Phone
+1996,3.31,6,6,2,6,Yes,Arts,Senior,Laptop
+1997,3.91,5,0,3,5,No,Arts,Junior,Laptop
+1998,2.14,6,5,3,4,No,Social Science,Sophomore,Tablet
+1999,2.11,7,7,1,6,Yes,Arts,Freshman,Tablet
+2000,2.56,6,7,1,3,No,Business,Junior,Tablet
+2001,2.52,5,5,0,1,No,Arts,Freshman,Tablet
+2002,2.49,7,7,2,5,No,STEM,Freshman,Laptop
+2003,3.81,4,7,1,4,No,Business,Freshman,Tablet
+2004,2.5,5,6,0,3,No,Arts,Freshman,Tablet
+2005,2.54,8,3,1,5,Yes,Arts,Sophomore,Phone
+2006,3.52,9,0,3,2,Yes,Business,Sophomore,Tablet
+2007,2.9,5,7,0,7,No,Arts,Sophomore,Desktop
+2008,3.55,7,1,0,3,No,Arts,Junior,Phone
+2009,2.13,9,6,1,5,Yes,Social Science,Junior,Laptop
+2010,2.98,5,7,2,3,No,STEM,Junior,Desktop
+2011,2.07,4,1,3,1,No,Business,Sophomore,Tablet
+2012,2.13,4,4,2,1,No,Social Science,Freshman,Phone
+2013,3.81,8,3,0,7,No,Arts,Sophomore,Tablet
+2014,2.28,6,2,2,1,No,Business,Junior,Phone
+2015,3.06,9,7,0,6,No,Business,Senior,Tablet
+2016,2.82,7,1,2,2,No,STEM,Junior,Desktop
+2017,2.69,7,6,1,1,No,STEM,Freshman,Laptop
+2018,3.8,6,3,2,2,No,Business,Sophomore,Desktop
+2019,2.04,4,0,0,1,No,STEM,Senior,Desktop
+2020,3.33,4,6,3,6,No,STEM,Senior,Laptop
+2021,3.93,5,4,3,3,Yes,Arts,Freshman,Phone
+2022,3.12,8,5,3,5,Yes,STEM,Sophomore,Phone
+2023,3.87,9,7,0,5,No,STEM,Senior,Laptop
+2024,2.1,8,0,2,1,Yes,Social Science,Junior,Tablet
+2025,2.84,8,1,3,5,Yes,Arts,Freshman,Phone
+2026,2.52,5,7,3,1,Yes,Arts,Senior,Desktop
+2027,3.46,8,1,3,1,Yes,Business,Freshman,Laptop
+2028,3.96,6,0,1,7,Yes,STEM,Sophomore,Desktop
+2029,2.51,5,1,0,4,Yes,Social Science,Sophomore,Phone
+2030,3.31,6,6,0,4,No,Social Science,Sophomore,Laptop
+2031,2.4,5,3,0,7,No,Arts,Junior,Laptop
+2032,3.13,8,1,0,4,No,STEM,Senior,Phone
+2033,2.93,6,4,0,2,Yes,Social Science,Sophomore,Phone
+2034,3.94,6,3,1,4,No,Business,Junior,Laptop
+2035,3.22,6,6,2,1,No,STEM,Sophomore,Tablet
+2036,2.7,5,7,1,6,No,STEM,Sophomore,Laptop
+2037,2.23,7,2,3,6,Yes,STEM,Senior,Tablet
+2038,2.3,8,7,1,3,No,Social Science,Junior,Desktop
+2039,2.45,6,1,0,4,No,Arts,Sophomore,Tablet
+2040,2.5,9,1,1,6,No,Arts,Junior,Tablet
+2041,3.7,7,4,0,4,No,Business,Junior,Phone
+2042,3.12,9,6,1,3,No,Social Science,Sophomore,Laptop
+2043,3.05,8,4,0,6,No,STEM,Sophomore,Desktop
+2044,2.23,8,5,3,1,No,Business,Freshman,Laptop
+2045,3.72,6,6,0,2,Yes,Business,Senior,Tablet
+2046,3.45,6,0,1,7,No,Arts,Sophomore,Tablet
+2047,2.14,5,0,3,7,No,STEM,Freshman,Tablet
+2048,3.42,7,0,1,7,No,STEM,Senior,Laptop
+2049,3.09,7,4,3,4,Yes,Social Science,Sophomore,Tablet
+2050,2.16,6,0,2,6,Yes,Social Science,Junior,Laptop
+2051,2.92,8,6,2,6,No,Social Science,Senior,Desktop
+2052,2.97,6,0,2,3,No,Business,Junior,Desktop
+2053,2.33,8,2,1,1,No,STEM,Freshman,Laptop
+2054,3.89,8,0,1,5,No,Arts,Sophomore,Desktop
+2055,3.7,6,1,3,6,Yes,Business,Freshman,Phone
+2056,3.34,4,5,3,2,No,Business,Sophomore,Tablet
+2057,2.92,7,4,3,3,No,Arts,Sophomore,Tablet
+2058,2.82,9,3,3,6,No,Arts,Junior,Tablet
+2059,3.3,8,5,0,6,Yes,Social Science,Freshman,Phone
+2060,3.09,8,2,2,3,No,Arts,Junior,Tablet
+2061,2.12,4,4,0,3,No,Arts,Junior,Laptop
+2062,3.03,9,6,0,4,No,Arts,Junior,Tablet
+2063,3.61,5,7,0,6,No,Arts,Freshman,Laptop
+2064,2.92,4,4,0,5,Yes,Social Science,Sophomore,Desktop
+2065,2.1,9,1,2,2,Yes,Business,Sophomore,Laptop
+2066,3.57,4,6,0,1,No,STEM,Freshman,Laptop
+2067,2.4,8,5,3,1,No,STEM,Sophomore,Laptop
+2068,2.52,7,5,1,5,Yes,Business,Freshman,Tablet
+2069,2.33,4,0,3,3,No,STEM,Freshman,Phone
+2070,2.66,5,6,1,3,No,STEM,Sophomore,Phone
+2071,3.51,6,7,3,3,No,Business,Senior,Laptop
+2072,3.04,9,1,3,6,Yes,STEM,Junior,Tablet
+2073,2.41,4,0,1,3,No,STEM,Freshman,Phone
+2074,3.76,4,0,2,3,Yes,Business,Freshman,Desktop
+2075,3.76,5,7,0,6,Yes,STEM,Senior,Desktop
+2076,3.74,7,4,3,6,Yes,Arts,Freshman,Tablet
+2077,2.48,4,5,2,5,No,Business,Freshman,Desktop
+2078,2.9,4,0,0,4,Yes,Social Science,Sophomore,Desktop
+2079,3.97,7,2,2,6,No,STEM,Sophomore,Desktop
+2080,3.54,5,2,2,2,No,Social Science,Senior,Phone
+2081,2.05,9,5,0,3,No,STEM,Freshman,Desktop
+2082,2.13,9,2,3,4,No,Arts,Junior,Laptop
+2083,2.93,4,7,2,1,No,Business,Sophomore,Laptop
+2084,3.82,7,4,3,5,No,Social Science,Junior,Desktop
+2085,3.08,4,1,3,4,No,Business,Junior,Laptop
+2086,3.0,6,3,3,6,No,Social Science,Senior,Phone
+2087,2.21,9,0,0,3,Yes,STEM,Senior,Tablet
+2088,3.31,8,3,1,3,Yes,Arts,Freshman,Laptop
+2089,3.64,6,1,3,3,No,Social Science,Senior,Desktop
+2090,2.76,4,1,1,4,No,Social Science,Sophomore,Tablet
+2091,3.55,5,7,1,3,No,Arts,Freshman,Tablet
+2092,3.93,9,4,2,6,No,Arts,Freshman,Desktop
+2093,2.41,8,2,3,4,Yes,Arts,Junior,Laptop
+2094,3.05,6,2,3,3,No,Arts,Junior,Phone
+2095,2.57,9,7,3,1,Yes,Arts,Junior,Laptop
+2096,3.59,7,1,1,1,No,Business,Freshman,Laptop
+2097,3.16,5,4,0,2,No,STEM,Senior,Phone
+2098,3.27,6,4,1,3,No,STEM,Senior,Tablet
+2099,3.6,7,5,3,3,Yes,Social Science,Senior,Phone
+2100,2.79,4,6,3,4,No,Arts,Freshman,Phone
+2101,3.83,7,0,3,4,No,Business,Freshman,Desktop
+2102,3.07,6,7,1,7,No,Business,Freshman,Desktop
+2103,2.32,6,6,3,3,No,Social Science,Freshman,Laptop
+2104,3.39,4,7,2,2,No,Arts,Freshman,Desktop
+2105,3.59,7,2,3,3,No,STEM,Senior,Phone
+2106,2.63,7,1,0,6,No,Arts,Freshman,Phone
+2107,3.71,4,7,2,4,Yes,Business,Senior,Desktop
+2108,3.81,7,7,3,3,No,Arts,Freshman,Desktop
+2109,2.55,9,5,2,4,No,STEM,Senior,Desktop
+2110,3.97,4,3,3,3,No,STEM,Sophomore,Phone
+2111,2.28,5,2,0,5,No,Social Science,Sophomore,Tablet
+2112,2.4,6,0,3,4,No,Business,Senior,Tablet
+2113,2.37,5,4,2,2,No,Arts,Sophomore,Desktop
+2114,3.79,9,1,0,5,No,Arts,Sophomore,Laptop
+2115,3.31,9,2,1,6,No,Social Science,Senior,Laptop
+2116,2.3,8,3,0,3,No,Social Science,Freshman,Tablet
+2117,2.88,8,7,0,7,No,Social Science,Freshman,Desktop
+2118,3.23,8,0,0,6,No,Business,Senior,Phone
+2119,2.17,4,7,2,4,No,Arts,Junior,Laptop
+2120,3.76,7,0,0,5,No,Social Science,Junior,Laptop
+2121,3.61,9,5,3,6,No,Business,Sophomore,Phone
+2122,3.01,5,7,0,2,Yes,Arts,Junior,Phone
+2123,3.93,5,2,0,7,Yes,STEM,Sophomore,Desktop
+2124,2.84,5,3,3,4,Yes,Social Science,Freshman,Phone
+2125,3.97,5,0,3,5,No,Business,Senior,Phone
+2126,3.34,8,1,1,6,Yes,Arts,Freshman,Phone
+2127,3.27,5,0,0,5,Yes,Arts,Senior,Tablet
+2128,2.33,7,3,2,5,Yes,Social Science,Junior,Phone
+2129,3.76,8,4,0,6,No,Social Science,Freshman,Laptop
+2130,2.85,5,4,0,1,Yes,Arts,Freshman,Desktop
+2131,2.32,4,5,3,3,No,Business,Sophomore,Desktop
+2132,2.03,6,2,1,4,Yes,STEM,Senior,Desktop
+2133,3.12,6,3,0,4,No,Arts,Junior,Tablet
+2134,3.05,6,5,2,7,No,Business,Freshman,Laptop
+2135,3.44,8,6,0,7,No,Social Science,Senior,Phone
+2136,3.78,5,0,2,7,No,Arts,Junior,Laptop
+2137,2.16,9,6,3,4,No,Social Science,Freshman,Desktop
+2138,3.46,9,0,1,5,No,STEM,Senior,Phone
+2139,2.37,9,4,0,7,Yes,Social Science,Sophomore,Desktop
+2140,3.72,8,5,1,6,No,STEM,Freshman,Desktop
+2141,3.64,7,4,0,3,Yes,Social Science,Senior,Desktop
+2142,3.08,4,1,2,2,No,Social Science,Junior,Laptop
+2143,3.42,4,6,1,4,Yes,STEM,Junior,Laptop
+2144,2.63,6,6,0,6,No,Social Science,Sophomore,Desktop
+2145,2.94,6,4,3,3,No,Business,Freshman,Desktop
+2146,3.64,9,1,2,3,No,Social Science,Sophomore,Phone
+2147,2.92,9,0,1,1,No,Arts,Senior,Desktop
+2148,2.72,6,5,0,6,No,Social Science,Junior,Desktop
+2149,2.99,5,1,1,4,No,Business,Sophomore,Desktop
+2150,3.66,7,5,0,7,No,Arts,Freshman,Desktop
+2151,2.67,7,6,2,5,Yes,Business,Senior,Laptop
+2152,2.35,7,5,3,7,No,Arts,Freshman,Desktop
+2153,3.42,7,6,2,3,No,Social Science,Sophomore,Tablet
+2154,3.65,6,1,1,3,No,Business,Junior,Desktop
+2155,2.2,4,6,1,2,No,Social Science,Junior,Laptop
+2156,2.48,6,7,0,7,Yes,Arts,Sophomore,Tablet
+2157,2.28,7,2,2,1,Yes,Business,Freshman,Tablet
+2158,2.7,6,6,0,3,No,STEM,Freshman,Desktop
+2159,2.9,7,4,2,3,No,Business,Freshman,Desktop
+2160,3.5,8,1,1,5,No,Social Science,Freshman,Laptop
+2161,3.3,9,7,0,5,No,STEM,Junior,Tablet
+2162,3.24,4,0,0,2,No,STEM,Freshman,Tablet
+2163,2.7,8,5,2,6,Yes,Arts,Sophomore,Laptop
+2164,3.68,5,7,3,2,Yes,STEM,Sophomore,Desktop
+2165,2.94,6,3,2,2,Yes,STEM,Sophomore,Phone
+2166,3.96,5,7,3,5,No,Arts,Sophomore,Phone
+2167,3.27,6,1,2,7,Yes,Business,Freshman,Tablet
+2168,2.25,9,7,1,7,No,Social Science,Junior,Tablet
+2169,3.35,8,7,0,7,No,Business,Senior,Desktop
+2170,2.65,9,4,2,6,Yes,STEM,Freshman,Phone
+2171,3.37,7,6,1,5,Yes,Social Science,Senior,Tablet
+2172,2.14,9,5,2,1,Yes,Business,Junior,Desktop
+2173,2.35,9,2,0,4,No,Social Science,Freshman,Phone
+2174,3.71,7,0,2,4,No,STEM,Senior,Laptop
+2175,2.45,6,2,3,1,Yes,Business,Junior,Tablet
+2176,3.67,7,7,0,7,No,Social Science,Senior,Laptop
+2177,2.56,8,3,3,4,No,Social Science,Sophomore,Phone
+2178,3.29,9,1,1,6,No,Business,Sophomore,Desktop
+2179,3.39,7,5,1,5,No,Business,Junior,Desktop
+2180,3.03,9,1,2,4,No,STEM,Junior,Phone
+2181,2.61,8,4,3,6,No,Arts,Senior,Laptop
+2182,2.43,5,1,3,5,No,Social Science,Junior,Desktop
+2183,2.07,8,0,0,6,Yes,Business,Sophomore,Tablet
+2184,2.61,4,3,3,1,No,Business,Sophomore,Laptop
+2185,3.31,4,2,3,2,No,Business,Freshman,Laptop
+2186,3.88,4,7,0,1,No,Social Science,Senior,Tablet
+2187,3.74,9,7,0,4,No,STEM,Junior,Phone
+2188,3.53,6,3,3,5,No,Arts,Junior,Desktop
+2189,3.58,6,5,2,6,Yes,Social Science,Junior,Laptop
+2190,3.33,6,1,0,4,Yes,STEM,Senior,Desktop
+2191,2.52,9,5,0,4,Yes,Social Science,Sophomore,Desktop
+2192,3.81,8,2,3,2,No,Social Science,Junior,Laptop
+2193,3.34,6,5,3,7,Yes,Business,Junior,Phone
+2194,3.12,5,4,0,4,Yes,STEM,Sophomore,Laptop
+2195,2.22,4,3,3,2,Yes,Business,Junior,Phone
+2196,2.89,8,2,0,5,Yes,Business,Freshman,Tablet
+2197,2.92,4,2,2,5,Yes,STEM,Sophomore,Phone
+2198,3.73,6,6,2,6,Yes,Business,Sophomore,Phone
+2199,3.09,8,2,0,7,No,Business,Sophomore,Laptop
+2200,2.76,7,6,0,2,Yes,Arts,Freshman,Desktop
+2201,3.95,5,0,1,1,Yes,STEM,Sophomore,Desktop
+2202,2.22,6,7,1,5,No,STEM,Senior,Phone
+2203,2.85,6,6,3,7,No,Business,Senior,Phone
+2204,2.08,5,3,3,6,Yes,Business,Senior,Laptop
+2205,3.48,5,5,0,1,Yes,STEM,Sophomore,Phone
+2206,3.84,7,6,0,5,No,STEM,Sophomore,Laptop
+2207,2.56,6,2,1,5,Yes,Social Science,Sophomore,Tablet
+2208,3.72,9,3,1,6,Yes,STEM,Freshman,Phone
+2209,2.58,6,6,0,6,Yes,Social Science,Senior,Tablet
+2210,3.82,4,6,2,3,Yes,Business,Junior,Phone
+2211,3.51,8,2,2,4,No,Arts,Junior,Phone
+2212,3.61,8,4,3,4,No,Arts,Sophomore,Tablet
+2213,2.04,4,4,0,1,No,Social Science,Freshman,Tablet
+2214,3.93,8,6,0,4,No,Business,Sophomore,Laptop
+2215,3.45,5,4,3,1,No,Business,Junior,Laptop
+2216,2.61,8,1,1,7,No,Business,Senior,Tablet
+2217,3.66,8,2,1,5,No,STEM,Junior,Phone
+2218,2.56,4,1,2,3,Yes,Business,Senior,Laptop
+2219,3.75,7,3,0,3,No,STEM,Senior,Phone
+2220,2.23,8,1,1,5,No,Social Science,Freshman,Desktop
+2221,3.41,9,3,2,6,Yes,Arts,Junior,Laptop
+2222,3.08,8,6,2,2,No,Social Science,Sophomore,Laptop
+2223,2.19,7,3,2,2,No,Business,Freshman,Laptop
+2224,2.48,4,3,1,4,No,Business,Senior,Desktop
+2225,2.02,7,5,1,6,Yes,Social Science,Junior,Tablet
+2226,2.94,4,1,0,1,No,STEM,Sophomore,Phone
+2227,2.6,5,5,0,7,No,STEM,Freshman,Desktop
+2228,3.2,4,6,2,3,No,STEM,Sophomore,Tablet
+2229,2.59,5,2,2,4,Yes,Arts,Junior,Laptop
+2230,2.6,5,1,1,5,Yes,Arts,Sophomore,Tablet
+2231,3.49,4,2,1,6,No,Business,Freshman,Tablet
+2232,2.1,9,2,0,3,No,Social Science,Sophomore,Tablet
+2233,3.81,6,3,0,1,No,Social Science,Junior,Phone
+2234,3.7,4,7,3,1,No,Business,Freshman,Tablet
+2235,3.34,8,1,0,2,No,STEM,Senior,Tablet
+2236,3.19,9,2,1,4,No,Arts,Freshman,Tablet
+2237,3.78,9,7,2,5,Yes,Social Science,Junior,Tablet
+2238,2.37,8,4,3,3,Yes,Business,Sophomore,Desktop
+2239,2.16,6,2,0,7,No,STEM,Senior,Desktop
+2240,2.48,9,4,0,1,No,STEM,Senior,Tablet
+2241,3.59,5,1,1,3,No,Arts,Sophomore,Tablet
+2242,2.07,6,6,3,5,No,Arts,Junior,Tablet
+2243,3.17,8,5,0,3,Yes,Business,Freshman,Laptop
+2244,3.99,6,1,2,4,No,Business,Junior,Tablet
+2245,3.71,4,5,1,2,No,STEM,Senior,Tablet
+2246,3.04,6,5,3,3,No,STEM,Freshman,Desktop
+2247,2.13,5,1,0,6,Yes,Social Science,Freshman,Desktop
+2248,3.66,4,2,0,2,No,STEM,Sophomore,Desktop
+2249,3.2,7,0,3,5,No,Business,Junior,Phone
+2250,2.23,8,2,1,2,No,Arts,Freshman,Laptop
+2251,2.19,8,2,3,3,No,Business,Sophomore,Tablet
+2252,3.82,6,6,3,3,Yes,Social Science,Junior,Desktop
+2253,3.34,9,3,1,6,Yes,Social Science,Senior,Phone
+2254,3.66,4,3,0,1,Yes,Arts,Senior,Tablet
+2255,3.76,7,2,2,6,No,Business,Junior,Tablet
+2256,3.14,4,4,1,3,No,Social Science,Freshman,Desktop
+2257,3.03,8,6,2,7,No,Business,Freshman,Tablet
+2258,2.86,4,5,0,2,Yes,Social Science,Senior,Tablet
+2259,2.63,7,7,3,6,No,Arts,Senior,Tablet
+2260,2.87,9,3,2,6,No,Social Science,Freshman,Desktop
+2261,3.55,6,2,0,7,Yes,Business,Junior,Phone
+2262,3.2,5,6,0,7,No,Business,Senior,Tablet
+2263,3.79,4,0,3,7,Yes,Social Science,Freshman,Phone
+2264,2.89,5,4,3,1,Yes,STEM,Junior,Tablet
+2265,3.21,8,1,0,3,Yes,Arts,Sophomore,Desktop
+2266,3.26,6,2,0,3,No,Arts,Junior,Phone
+2267,3.18,6,6,2,5,No,Social Science,Freshman,Desktop
+2268,3.41,4,2,0,1,Yes,Social Science,Junior,Laptop
+2269,2.47,9,7,0,5,No,STEM,Freshman,Tablet
+2270,3.02,6,5,2,5,No,Arts,Senior,Laptop
+2271,2.21,4,4,1,5,No,STEM,Sophomore,Laptop
+2272,2.77,4,3,2,4,Yes,Arts,Senior,Laptop
+2273,2.98,5,3,2,5,No,Social Science,Senior,Tablet
+2274,3.3,6,3,3,6,No,Arts,Freshman,Desktop
+2275,3.9,4,7,2,2,Yes,Arts,Freshman,Laptop
+2276,3.2,5,1,0,6,Yes,Arts,Freshman,Phone
+2277,3.49,7,6,0,6,No,STEM,Freshman,Tablet
+2278,3.01,5,4,0,3,Yes,STEM,Senior,Desktop
+2279,3.27,5,4,1,4,No,Arts,Freshman,Desktop
+2280,2.14,4,3,0,5,Yes,Business,Freshman,Laptop
+2281,2.51,8,3,1,3,No,STEM,Senior,Tablet
+2282,2.72,8,5,0,1,Yes,Social Science,Sophomore,Laptop
+2283,2.94,9,7,2,1,Yes,Social Science,Sophomore,Phone
+2284,2.09,8,0,3,3,Yes,Arts,Junior,Desktop
+2285,2.28,5,0,0,2,No,Social Science,Senior,Desktop
+2286,2.55,9,2,1,3,No,STEM,Freshman,Tablet
+2287,3.94,4,2,1,3,Yes,Business,Junior,Desktop
+2288,2.66,6,4,3,4,Yes,Business,Sophomore,Tablet
+2289,2.96,5,4,0,1,No,Business,Sophomore,Laptop
+2290,2.39,5,1,2,1,No,Social Science,Senior,Phone
+2291,3.22,9,1,0,5,No,Arts,Freshman,Tablet
+2292,2.56,4,0,0,6,Yes,Social Science,Freshman,Laptop
+2293,2.41,7,7,3,3,No,Arts,Junior,Phone
+2294,3.03,5,2,0,3,No,Business,Sophomore,Desktop
+2295,2.01,7,0,2,2,No,STEM,Junior,Phone
+2296,2.02,7,7,1,7,No,Social Science,Junior,Phone
+2297,2.44,8,0,3,7,Yes,STEM,Junior,Phone
+2298,2.07,4,2,2,1,Yes,Business,Freshman,Desktop
+2299,2.22,7,6,1,2,No,Arts,Sophomore,Tablet
+2300,2.68,4,1,3,4,No,STEM,Junior,Tablet
+2301,3.61,8,5,3,5,No,Social Science,Sophomore,Phone
+2302,3.14,4,5,1,2,No,STEM,Sophomore,Laptop
+2303,3.03,5,5,1,1,No,STEM,Junior,Laptop
+2304,2.59,7,2,2,4,No,Social Science,Junior,Phone
+2305,3.86,4,3,0,3,No,Arts,Senior,Phone
+2306,2.79,6,3,0,4,Yes,Social Science,Freshman,Laptop
+2307,2.17,4,3,0,6,Yes,Business,Sophomore,Phone
+2308,3.23,7,4,0,2,No,Arts,Junior,Phone
+2309,2.23,8,1,0,1,Yes,STEM,Junior,Tablet
+2310,2.69,8,1,2,2,Yes,Social Science,Sophomore,Tablet
+2311,3.01,7,6,3,3,Yes,Business,Junior,Phone
+2312,3.75,5,6,2,7,Yes,Social Science,Senior,Phone
+2313,2.99,5,4,2,3,Yes,Arts,Sophomore,Desktop
+2314,3.4,8,0,2,1,No,Business,Junior,Tablet
+2315,3.99,8,7,3,6,No,STEM,Sophomore,Phone
+2316,2.26,7,6,2,5,No,Arts,Junior,Desktop
+2317,2.55,5,5,2,4,No,Business,Junior,Desktop
+2318,2.79,8,3,3,4,No,Arts,Freshman,Desktop
+2319,2.84,5,5,2,3,Yes,STEM,Sophomore,Desktop
+2320,2.82,8,3,0,2,No,Business,Freshman,Tablet
+2321,3.82,4,5,1,7,Yes,Social Science,Junior,Desktop
+2322,3.43,6,0,2,2,No,Social Science,Sophomore,Tablet
+2323,3.22,9,7,1,6,No,STEM,Sophomore,Desktop
+2324,2.62,4,5,2,5,No,Business,Senior,Desktop
+2325,3.65,9,5,2,2,No,STEM,Senior,Laptop
+2326,3.91,8,2,0,4,No,STEM,Junior,Tablet
+2327,3.64,6,7,3,7,No,Arts,Junior,Laptop
+2328,2.0,6,5,1,2,Yes,Social Science,Junior,Laptop
+2329,3.27,8,2,3,7,No,STEM,Junior,Desktop
+2330,2.1,8,1,0,5,No,Arts,Senior,Tablet
+2331,2.52,5,7,0,4,Yes,STEM,Sophomore,Phone
+2332,2.12,8,4,1,7,Yes,STEM,Freshman,Desktop
+2333,3.21,7,7,3,2,No,STEM,Sophomore,Tablet
+2334,3.37,8,7,0,4,Yes,Social Science,Sophomore,Laptop
+2335,2.23,7,5,2,3,Yes,Business,Senior,Tablet
+2336,2.77,8,1,2,3,No,Social Science,Sophomore,Desktop
+2337,2.91,5,7,2,6,Yes,Arts,Sophomore,Tablet
+2338,2.74,7,6,3,3,No,Business,Junior,Laptop
+2339,2.24,4,6,2,2,No,Arts,Freshman,Tablet
+2340,2.84,7,2,2,5,No,STEM,Sophomore,Tablet
+2341,3.5,5,5,0,4,Yes,Business,Sophomore,Laptop
+2342,2.14,9,5,0,7,No,Arts,Freshman,Desktop
+2343,2.16,7,7,2,1,No,STEM,Junior,Phone
+2344,2.71,8,0,2,3,Yes,Arts,Senior,Laptop
+2345,3.88,8,1,0,3,Yes,Arts,Senior,Laptop
+2346,3.34,9,3,1,1,No,Social Science,Sophomore,Desktop
+2347,3.36,5,3,3,7,Yes,STEM,Junior,Desktop
+2348,2.72,6,0,3,7,Yes,Social Science,Senior,Tablet
+2349,3.19,8,2,0,1,Yes,Business,Senior,Laptop
+2350,2.02,4,3,3,7,Yes,STEM,Senior,Tablet
+2351,3.27,5,7,0,2,Yes,Social Science,Senior,Tablet
+2352,3.83,7,3,0,7,No,Social Science,Senior,Desktop
+2353,3.23,7,6,0,4,No,Business,Sophomore,Desktop
+2354,3.75,4,6,0,7,Yes,Arts,Senior,Tablet
+2355,3.45,8,4,1,3,No,Arts,Sophomore,Laptop
+2356,2.24,5,1,2,5,No,Arts,Freshman,Laptop
+2357,3.8,4,2,2,2,No,Business,Freshman,Tablet
+2358,2.13,8,5,1,2,No,Social Science,Junior,Phone
+2359,3.07,5,1,3,7,No,STEM,Sophomore,Phone
+2360,2.28,7,2,3,5,No,Business,Junior,Desktop
+2361,2.02,5,3,2,5,No,Arts,Freshman,Laptop
+2362,2.84,9,4,3,6,No,Arts,Freshman,Tablet
+2363,2.59,6,1,2,5,Yes,STEM,Freshman,Tablet
+2364,2.97,5,3,2,7,Yes,Business,Freshman,Laptop
+2365,3.15,6,2,1,7,No,Arts,Senior,Desktop
+2366,2.09,5,1,3,1,No,Business,Freshman,Desktop
+2367,2.25,6,5,1,3,No,Social Science,Senior,Phone
+2368,3.12,9,1,2,6,No,Business,Senior,Laptop
+2369,2.69,7,3,2,7,Yes,Social Science,Junior,Laptop
+2370,3.46,8,7,2,1,No,STEM,Senior,Tablet
+2371,3.3,6,7,0,6,Yes,Social Science,Junior,Laptop
+2372,3.69,9,1,0,3,Yes,Social Science,Senior,Phone
+2373,3.38,6,5,0,6,No,STEM,Senior,Laptop
+2374,2.86,7,4,1,1,Yes,Arts,Freshman,Tablet
+2375,3.35,6,4,2,4,No,STEM,Sophomore,Phone
+2376,2.55,9,7,3,7,No,Business,Senior,Tablet
+2377,2.61,9,3,1,3,Yes,STEM,Sophomore,Laptop
+2378,3.58,4,2,1,2,No,Business,Sophomore,Desktop
+2379,2.89,7,3,1,3,No,Arts,Sophomore,Laptop
+2380,3.6,4,4,3,3,Yes,Business,Senior,Laptop
+2381,3.64,7,0,2,3,Yes,STEM,Sophomore,Tablet
+2382,3.72,6,0,0,4,No,STEM,Senior,Desktop
+2383,3.83,9,1,2,7,No,Arts,Freshman,Laptop
+2384,2.86,4,5,2,1,Yes,STEM,Senior,Phone
+2385,2.64,6,7,1,7,Yes,Arts,Junior,Phone
+2386,3.16,9,6,1,2,No,Arts,Freshman,Tablet
+2387,2.74,7,6,1,1,No,STEM,Sophomore,Tablet
+2388,3.2,9,6,0,6,Yes,Social Science,Sophomore,Desktop
+2389,3.41,6,1,0,6,No,Business,Junior,Tablet
+2390,3.38,4,0,0,6,No,Social Science,Freshman,Desktop
+2391,2.75,4,4,2,1,No,Arts,Junior,Laptop
+2392,2.33,9,1,1,5,Yes,Business,Sophomore,Phone
+2393,2.86,6,6,3,4,No,Social Science,Senior,Phone
+2394,2.29,5,6,2,5,Yes,STEM,Sophomore,Phone
+2395,3.78,7,7,0,7,No,Social Science,Junior,Tablet
+2396,2.69,7,3,3,6,No,Business,Senior,Tablet
+2397,2.31,6,6,3,4,No,Business,Senior,Laptop
+2398,2.05,5,5,1,1,No,Business,Sophomore,Tablet
+2399,3.29,4,6,3,6,No,Business,Senior,Desktop
+2400,3.27,8,3,0,1,No,Social Science,Freshman,Phone
+2401,2.68,8,6,1,4,Yes,STEM,Sophomore,Laptop
+2402,2.14,6,5,3,1,No,STEM,Sophomore,Desktop
+2403,2.82,5,4,1,1,Yes,Business,Freshman,Desktop
+2404,2.62,5,1,3,2,Yes,STEM,Sophomore,Tablet
+2405,3.35,7,5,2,7,No,Social Science,Junior,Tablet
+2406,3.21,4,3,2,5,No,STEM,Junior,Phone
+2407,2.73,9,1,0,5,No,Arts,Sophomore,Laptop
+2408,2.44,5,1,2,5,No,STEM,Freshman,Desktop
+2409,3.98,9,3,2,3,No,Business,Senior,Tablet
+2410,2.91,8,7,2,2,No,STEM,Freshman,Tablet
+2411,3.38,9,0,3,6,Yes,STEM,Junior,Laptop
+2412,2.28,4,6,3,6,No,STEM,Sophomore,Laptop
+2413,2.97,4,5,1,6,No,STEM,Freshman,Tablet
+2414,2.06,9,3,3,5,Yes,Arts,Senior,Tablet
+2415,3.01,6,4,2,7,Yes,Social Science,Senior,Phone
+2416,3.93,5,2,3,5,No,Business,Senior,Laptop
+2417,2.77,6,3,0,7,Yes,Business,Senior,Desktop
+2418,2.08,9,6,1,2,Yes,STEM,Freshman,Tablet
+2419,2.06,5,6,1,7,Yes,Social Science,Senior,Tablet
+2420,2.78,7,1,3,1,Yes,STEM,Junior,Tablet
+2421,2.32,6,1,2,5,No,Arts,Senior,Tablet
+2422,2.05,6,3,1,6,No,Social Science,Junior,Phone
+2423,3.51,9,2,0,1,Yes,Social Science,Freshman,Laptop
+2424,2.92,8,7,0,5,No,Social Science,Junior,Tablet
+2425,2.58,9,3,1,4,Yes,Social Science,Freshman,Laptop
+2426,3.8,6,2,2,3,No,STEM,Senior,Desktop
+2427,2.23,5,7,2,5,No,Arts,Sophomore,Desktop
+2428,3.91,8,2,3,4,No,Social Science,Junior,Desktop
+2429,2.63,9,6,3,2,No,Business,Junior,Desktop
+2430,3.78,9,6,1,4,No,Business,Sophomore,Laptop
+2431,3.21,6,6,3,2,No,Arts,Freshman,Desktop
+2432,3.65,6,4,3,5,No,Business,Freshman,Desktop
+2433,3.97,7,6,3,2,No,STEM,Senior,Tablet
+2434,2.58,9,5,0,4,No,STEM,Junior,Tablet
+2435,3.92,6,1,3,7,No,Arts,Freshman,Tablet
+2436,2.78,4,1,1,3,No,Social Science,Senior,Phone
+2437,2.77,8,2,2,1,Yes,Business,Freshman,Tablet
+2438,2.68,4,1,3,1,No,Business,Sophomore,Desktop
+2439,3.08,8,0,2,3,Yes,Arts,Sophomore,Laptop
+2440,2.31,9,7,3,6,Yes,Arts,Sophomore,Desktop
+2441,3.11,7,2,1,1,Yes,Business,Senior,Laptop
+2442,3.08,6,1,0,5,No,Social Science,Junior,Desktop
+2443,3.52,6,0,1,6,No,Arts,Sophomore,Phone
+2444,3.67,6,7,0,5,No,STEM,Sophomore,Tablet
+2445,2.88,9,4,3,4,No,Business,Freshman,Desktop
+2446,2.6,8,1,3,4,No,Arts,Sophomore,Tablet
+2447,2.52,6,0,0,6,No,Arts,Junior,Phone
+2448,2.39,4,3,1,6,No,Arts,Senior,Phone
+2449,2.12,6,5,1,6,No,Business,Sophomore,Tablet
+2450,2.68,9,3,0,6,Yes,STEM,Senior,Tablet
+2451,2.54,7,0,3,2,No,STEM,Senior,Laptop
+2452,3.93,4,2,0,7,No,Business,Junior,Tablet
+2453,3.12,6,6,3,6,No,Arts,Freshman,Tablet
+2454,2.69,6,6,0,7,No,Business,Freshman,Laptop
+2455,3.16,5,6,3,6,No,Business,Senior,Desktop
+2456,2.28,8,7,0,4,No,Arts,Sophomore,Laptop
+2457,2.89,4,2,2,5,No,Business,Senior,Desktop
+2458,3.25,5,7,3,7,No,Social Science,Freshman,Desktop
+2459,2.98,7,1,1,4,Yes,STEM,Sophomore,Desktop
+2460,2.8,8,6,0,1,No,Social Science,Freshman,Laptop
+2461,3.99,4,3,1,2,No,Social Science,Junior,Laptop
+2462,3.76,6,2,0,2,No,Social Science,Freshman,Phone
+2463,3.25,4,2,1,5,No,Business,Sophomore,Desktop
+2464,3.14,6,6,1,6,Yes,Arts,Sophomore,Laptop
+2465,3.24,8,3,0,4,Yes,Business,Senior,Phone
+2466,2.4,6,4,0,1,No,STEM,Sophomore,Desktop
+2467,2.79,7,2,1,4,No,Business,Junior,Laptop
+2468,2.08,9,6,1,6,Yes,Business,Freshman,Laptop
+2469,2.95,6,5,1,6,Yes,Business,Senior,Laptop
+2470,3.09,7,0,3,3,No,Business,Senior,Tablet
+2471,2.46,9,7,3,4,Yes,Social Science,Sophomore,Phone
+2472,3.93,8,1,2,5,Yes,Arts,Junior,Laptop
+2473,3.82,8,2,3,4,Yes,STEM,Senior,Tablet
+2474,3.44,4,5,3,2,No,STEM,Junior,Phone
+2475,3.07,7,5,0,1,No,STEM,Junior,Phone
+2476,3.74,7,2,2,7,Yes,Business,Freshman,Tablet
+2477,2.26,5,4,2,5,No,STEM,Freshman,Phone
+2478,3.58,5,0,3,3,Yes,Social Science,Freshman,Tablet
+2479,2.25,9,1,0,1,Yes,Arts,Junior,Desktop
+2480,3.59,9,2,0,1,Yes,Business,Freshman,Laptop
+2481,2.55,5,7,2,7,Yes,Business,Senior,Tablet
+2482,3.75,9,1,0,2,Yes,Social Science,Senior,Phone
+2483,3.89,6,3,1,2,Yes,STEM,Sophomore,Phone
+2484,2.3,5,5,3,2,No,Business,Junior,Desktop
+2485,2.93,7,5,1,5,No,Business,Freshman,Desktop
+2486,3.96,6,2,2,4,No,Social Science,Senior,Desktop
+2487,2.97,9,2,2,1,No,Social Science,Junior,Desktop
+2488,3.73,8,7,0,4,Yes,STEM,Junior,Desktop
+2489,3.18,4,3,0,4,No,Arts,Freshman,Laptop
+2490,2.75,5,4,2,2,Yes,Arts,Junior,Tablet
+2491,2.57,8,2,2,4,No,STEM,Freshman,Desktop
+2492,2.41,9,5,1,1,Yes,Arts,Freshman,Desktop
+2493,3.52,7,1,1,1,No,Social Science,Freshman,Laptop
+2494,2.77,4,0,0,6,No,Social Science,Junior,Tablet
+2495,3.02,8,6,1,3,Yes,Social Science,Junior,Desktop
+2496,2.98,4,1,0,5,No,Arts,Freshman,Tablet
+2497,3.15,5,4,0,4,Yes,Arts,Junior,Tablet
+2498,3.73,9,0,3,5,No,Business,Freshman,Laptop
+2499,3.96,7,1,0,5,No,Business,Sophomore,Laptop
+2500,2.82,9,1,1,5,Yes,Business,Junior,Desktop
+2501,3.66,4,3,2,7,Yes,Arts,Junior,Phone
+2502,3.53,8,6,2,6,Yes,Business,Sophomore,Laptop
+2503,3.15,5,7,1,5,No,Social Science,Sophomore,Tablet
+2504,3.91,5,4,2,6,Yes,Arts,Sophomore,Tablet
+2505,2.4,9,5,0,1,No,STEM,Freshman,Desktop
+2506,2.22,8,3,2,7,No,Arts,Freshman,Desktop
+2507,3.71,8,0,1,4,Yes,Business,Senior,Desktop
+2508,2.88,4,6,2,6,No,Arts,Sophomore,Tablet
+2509,3.69,9,5,0,3,No,Business,Senior,Laptop
+2510,3.79,9,3,0,5,Yes,Business,Freshman,Phone
+2511,2.12,6,6,1,7,No,STEM,Junior,Laptop
+2512,3.77,9,7,1,3,No,STEM,Sophomore,Phone
+2513,2.9,5,4,1,1,No,Social Science,Junior,Laptop
+2514,3.02,4,2,3,1,Yes,Business,Freshman,Desktop
+2515,3.25,8,7,3,2,Yes,Arts,Sophomore,Tablet
+2516,3.85,9,2,0,5,No,STEM,Senior,Phone
+2517,2.04,4,0,3,2,No,STEM,Senior,Laptop
+2518,2.95,9,2,3,7,No,Business,Freshman,Tablet
+2519,3.38,8,3,2,3,Yes,Arts,Junior,Phone
+2520,3.45,7,0,3,4,No,STEM,Freshman,Phone
+2521,3.39,8,5,2,2,No,STEM,Junior,Tablet
+2522,2.27,8,7,1,1,Yes,Arts,Freshman,Desktop
+2523,2.6,8,7,2,5,Yes,STEM,Senior,Tablet
+2524,2.72,9,4,2,3,No,Arts,Junior,Desktop
+2525,3.61,6,0,1,6,No,Business,Freshman,Laptop
+2526,2.56,8,5,1,7,No,STEM,Sophomore,Laptop
+2527,2.42,5,7,0,7,No,Business,Senior,Tablet
+2528,3.91,5,0,0,1,No,Arts,Senior,Desktop
+2529,2.02,4,1,0,6,Yes,Business,Sophomore,Laptop
+2530,4.0,6,1,0,7,No,Business,Freshman,Desktop
+2531,3.35,4,0,2,4,No,Business,Junior,Desktop
+2532,3.66,5,7,2,5,No,Social Science,Senior,Desktop
+2533,2.59,5,6,0,4,Yes,Arts,Freshman,Tablet
+2534,2.03,7,2,3,7,No,Arts,Sophomore,Desktop
+2535,3.48,8,1,0,4,No,Arts,Junior,Tablet
+2536,3.67,5,6,3,7,Yes,Arts,Freshman,Laptop
+2537,3.48,9,6,1,5,Yes,Arts,Freshman,Laptop
+2538,2.29,9,4,2,5,No,STEM,Senior,Phone
+2539,3.51,4,5,2,6,No,STEM,Senior,Phone
+2540,3.54,4,3,3,4,No,STEM,Junior,Laptop
+2541,3.32,8,1,0,3,No,Business,Freshman,Desktop
+2542,3.53,8,0,2,6,Yes,Business,Sophomore,Desktop
+2543,3.69,7,2,3,5,No,Arts,Sophomore,Laptop
+2544,3.23,6,3,1,1,No,Social Science,Junior,Laptop
+2545,2.18,4,5,1,7,No,Arts,Freshman,Phone
+2546,2.98,8,6,2,6,No,STEM,Senior,Desktop
+2547,2.16,4,5,0,2,No,Arts,Freshman,Laptop
+2548,2.82,8,7,3,3,Yes,Business,Senior,Phone
+2549,2.81,5,1,2,7,Yes,Arts,Sophomore,Phone
+2550,2.13,4,5,1,6,Yes,STEM,Junior,Desktop
+2551,2.7,5,5,0,5,Yes,Arts,Junior,Phone
+2552,2.22,4,2,3,5,No,Business,Junior,Phone
+2553,3.62,6,7,2,3,No,Social Science,Senior,Tablet
+2554,3.9,7,7,3,2,No,STEM,Sophomore,Laptop
+2555,2.14,9,6,0,6,Yes,Arts,Sophomore,Desktop
+2556,3.91,9,2,0,6,No,Business,Junior,Laptop
+2557,3.05,9,2,1,4,No,STEM,Junior,Tablet
+2558,2.6,5,0,0,1,Yes,STEM,Senior,Desktop
+2559,2.15,8,5,2,5,No,Business,Senior,Laptop
+2560,3.0,9,5,3,6,No,Arts,Freshman,Phone
+2561,3.59,6,7,0,6,No,Arts,Senior,Desktop
+2562,3.41,9,5,0,7,Yes,Arts,Freshman,Tablet
+2563,2.1,4,4,2,7,No,STEM,Junior,Phone
+2564,2.15,5,2,3,6,Yes,Social Science,Sophomore,Tablet
+2565,2.81,4,3,3,2,Yes,STEM,Senior,Phone
+2566,2.59,4,7,1,1,No,Arts,Sophomore,Laptop
+2567,2.46,4,1,1,6,No,STEM,Senior,Laptop
+2568,2.56,7,7,3,3,No,Social Science,Senior,Laptop
+2569,3.61,7,6,2,5,No,STEM,Freshman,Tablet
+2570,3.86,8,3,2,4,No,Business,Senior,Desktop
+2571,2.81,5,6,1,7,Yes,Arts,Junior,Laptop
+2572,3.81,6,0,0,3,No,Arts,Sophomore,Tablet
+2573,2.64,6,0,2,5,Yes,Arts,Senior,Phone
+2574,2.95,6,6,0,7,Yes,STEM,Sophomore,Laptop
+2575,2.45,4,5,2,2,No,STEM,Sophomore,Phone
+2576,3.28,7,3,3,7,No,STEM,Sophomore,Laptop
+2577,3.96,5,5,1,1,No,Arts,Senior,Phone
+2578,3.21,4,7,0,1,Yes,STEM,Freshman,Tablet
+2579,2.72,7,4,0,5,Yes,Arts,Sophomore,Laptop
+2580,3.3,7,0,3,3,Yes,STEM,Sophomore,Tablet
+2581,2.25,9,0,2,4,Yes,Arts,Senior,Tablet
+2582,3.78,9,3,0,2,Yes,Business,Senior,Phone
+2583,3.01,5,0,2,5,No,STEM,Junior,Laptop
+2584,2.9,5,4,3,2,No,Arts,Junior,Desktop
+2585,3.17,5,4,1,1,No,Business,Freshman,Desktop
+2586,3.25,4,4,0,6,No,Business,Freshman,Tablet
+2587,2.14,8,1,2,6,Yes,Social Science,Freshman,Phone
+2588,3.37,5,4,0,4,No,STEM,Freshman,Phone
+2589,2.48,9,4,2,2,Yes,Arts,Sophomore,Phone
+2590,3.43,8,1,2,5,No,Social Science,Senior,Laptop
+2591,3.65,4,5,2,4,No,STEM,Junior,Laptop
+2592,3.61,8,7,3,7,No,Business,Sophomore,Phone
+2593,3.11,6,2,1,7,Yes,STEM,Senior,Desktop
+2594,3.04,8,0,0,3,No,Arts,Senior,Desktop
+2595,2.29,5,4,1,6,Yes,Business,Sophomore,Laptop
+2596,3.55,4,0,2,5,Yes,Social Science,Sophomore,Phone
+2597,2.54,5,3,2,2,Yes,STEM,Junior,Desktop
+2598,2.99,9,0,1,4,No,STEM,Freshman,Desktop
+2599,2.57,6,6,1,5,No,Social Science,Freshman,Laptop
+2600,2.27,9,5,0,4,Yes,STEM,Junior,Laptop
+2601,3.26,5,7,2,4,No,STEM,Junior,Desktop
+2602,2.11,5,1,1,4,No,STEM,Freshman,Phone
+2603,3.5,5,0,3,2,No,Business,Sophomore,Desktop
+2604,2.64,7,0,2,5,Yes,Business,Freshman,Desktop
+2605,2.0,6,0,2,1,No,Arts,Senior,Phone
+2606,3.02,5,2,0,1,No,STEM,Senior,Laptop
+2607,2.09,5,2,3,2,No,Arts,Junior,Phone
+2608,2.55,9,3,0,7,No,Business,Freshman,Phone
+2609,3.41,9,1,3,2,No,STEM,Freshman,Phone
+2610,2.13,5,0,0,6,Yes,Arts,Senior,Phone
+2611,3.68,4,0,3,4,Yes,STEM,Freshman,Laptop
+2612,2.01,7,0,3,5,Yes,STEM,Junior,Desktop
+2613,2.49,9,0,3,5,No,Social Science,Junior,Tablet
+2614,3.48,4,2,1,3,Yes,Arts,Senior,Laptop
+2615,2.63,7,5,2,3,No,Business,Freshman,Phone
+2616,2.2,5,5,3,1,No,Arts,Freshman,Desktop
+2617,2.72,6,3,1,3,No,Arts,Senior,Desktop
+2618,2.54,8,6,1,3,No,Arts,Sophomore,Phone
+2619,3.69,8,4,0,1,No,Social Science,Sophomore,Laptop
+2620,2.63,5,1,2,6,No,STEM,Freshman,Phone
+2621,3.58,9,5,2,7,No,Business,Junior,Desktop
+2622,3.78,4,6,0,1,Yes,Social Science,Sophomore,Desktop
+2623,2.87,6,7,2,7,No,Business,Freshman,Laptop
+2624,3.82,7,7,0,3,No,Social Science,Sophomore,Tablet
+2625,2.75,5,0,1,5,No,STEM,Senior,Phone
+2626,3.93,6,7,1,3,No,Business,Sophomore,Tablet
+2627,2.18,6,5,3,4,No,Arts,Sophomore,Desktop
+2628,3.37,9,3,0,7,Yes,Social Science,Senior,Tablet
+2629,2.99,7,4,1,7,No,Business,Junior,Phone
+2630,2.78,6,5,1,4,Yes,STEM,Freshman,Phone
+2631,3.27,9,3,0,4,Yes,Business,Junior,Desktop
+2632,3.41,4,7,1,6,No,Social Science,Junior,Laptop
+2633,2.01,9,2,2,2,No,STEM,Sophomore,Laptop
+2634,2.33,4,4,1,4,Yes,Arts,Freshman,Desktop
+2635,3.43,4,3,0,7,No,Social Science,Sophomore,Phone
+2636,3.33,6,6,2,5,No,Social Science,Senior,Laptop
+2637,3.93,9,5,2,7,No,STEM,Junior,Tablet
+2638,3.52,4,2,1,7,No,Social Science,Junior,Desktop
+2639,3.9,7,6,3,6,No,Business,Senior,Tablet
+2640,3.41,6,3,2,2,Yes,Arts,Freshman,Phone
+2641,2.6,9,3,0,2,No,Business,Junior,Laptop
+2642,2.21,9,7,3,4,Yes,STEM,Junior,Phone
+2643,3.56,8,6,3,3,Yes,Social Science,Freshman,Tablet
+2644,3.29,9,5,2,7,No,Arts,Sophomore,Phone
+2645,2.1,6,4,1,1,No,STEM,Senior,Phone
+2646,2.72,7,2,3,3,Yes,Business,Freshman,Desktop
+2647,3.91,9,7,1,3,Yes,Social Science,Senior,Desktop
+2648,3.0,8,0,2,2,No,Social Science,Senior,Phone
+2649,2.87,6,1,0,2,No,STEM,Junior,Desktop
+2650,2.92,4,4,3,6,No,Business,Freshman,Phone
+2651,2.42,5,7,0,6,Yes,Social Science,Senior,Tablet
+2652,2.74,5,2,1,2,No,Business,Sophomore,Desktop
+2653,2.74,4,6,1,5,Yes,Arts,Senior,Phone
+2654,2.1,9,3,0,5,Yes,Social Science,Junior,Desktop
+2655,3.54,5,6,2,1,No,Arts,Sophomore,Phone
+2656,2.83,5,7,2,2,No,Social Science,Sophomore,Desktop
+2657,3.64,4,2,3,4,Yes,STEM,Freshman,Laptop
+2658,3.7,9,6,3,6,Yes,Social Science,Sophomore,Phone
+2659,2.42,9,6,2,2,No,Social Science,Freshman,Laptop
+2660,3.31,4,1,2,5,Yes,Business,Freshman,Phone
+2661,2.94,9,5,0,2,Yes,Business,Sophomore,Laptop
+2662,3.76,9,7,1,5,No,Arts,Freshman,Phone
+2663,2.43,6,1,1,2,Yes,Arts,Freshman,Desktop
+2664,3.36,6,7,3,7,Yes,Arts,Sophomore,Laptop
+2665,3.22,4,0,2,4,No,Social Science,Junior,Desktop
+2666,2.59,7,0,0,1,No,Social Science,Senior,Phone
+2667,2.27,5,1,3,7,No,Arts,Freshman,Desktop
+2668,3.3,6,4,0,4,No,STEM,Freshman,Phone
+2669,3.48,5,4,2,5,No,STEM,Sophomore,Desktop
+2670,2.63,8,6,2,6,No,Social Science,Senior,Laptop
+2671,3.29,4,6,2,6,No,STEM,Senior,Phone
+2672,2.79,7,3,1,3,Yes,STEM,Freshman,Desktop
+2673,3.43,8,0,2,4,No,Arts,Sophomore,Phone
+2674,2.4,8,7,3,2,No,STEM,Junior,Phone
+2675,3.78,9,3,1,1,No,STEM,Senior,Phone
+2676,2.57,8,0,0,2,No,Social Science,Junior,Tablet
+2677,2.74,4,1,3,2,No,Social Science,Sophomore,Phone
+2678,2.12,6,4,3,4,No,Social Science,Junior,Desktop
+2679,2.22,4,6,0,1,Yes,STEM,Sophomore,Tablet
+2680,3.03,6,4,1,3,Yes,Arts,Freshman,Desktop
+2681,2.54,8,1,3,7,No,Business,Junior,Tablet
+2682,3.67,8,3,3,2,Yes,Social Science,Freshman,Phone
+2683,2.03,7,3,3,1,Yes,Social Science,Freshman,Laptop
+2684,2.76,6,2,1,3,Yes,Social Science,Sophomore,Laptop
+2685,2.67,8,6,1,7,Yes,Arts,Junior,Phone
+2686,2.04,9,6,1,2,No,Business,Senior,Tablet
+2687,2.25,5,7,3,1,Yes,Business,Junior,Desktop
+2688,2.83,7,6,2,7,Yes,Social Science,Senior,Laptop
+2689,2.99,4,0,0,4,Yes,STEM,Freshman,Phone
+2690,2.81,7,3,2,6,No,Social Science,Freshman,Phone
+2691,3.06,5,1,1,6,Yes,Social Science,Sophomore,Tablet
+2692,3.19,6,3,3,2,No,STEM,Senior,Laptop
+2693,2.02,4,4,3,2,Yes,STEM,Junior,Phone
+2694,2.93,4,0,2,7,No,Social Science,Sophomore,Laptop
+2695,3.93,6,6,2,1,No,Arts,Sophomore,Desktop
+2696,3.04,7,7,0,6,Yes,Arts,Sophomore,Phone
+2697,3.36,8,7,3,2,No,STEM,Junior,Phone
+2698,2.62,7,7,2,3,No,Social Science,Sophomore,Desktop
+2699,3.55,5,5,0,2,No,Arts,Junior,Phone
+2700,3.55,9,2,1,6,No,Social Science,Sophomore,Tablet
+2701,3.04,8,0,2,5,No,Social Science,Senior,Desktop
+2702,3.95,7,4,1,6,No,Social Science,Freshman,Tablet
+2703,2.25,9,6,0,3,No,Arts,Senior,Desktop
+2704,2.03,9,4,1,1,Yes,Business,Senior,Desktop
+2705,3.54,6,4,3,3,Yes,Social Science,Sophomore,Tablet
+2706,3.61,5,6,3,5,No,Arts,Senior,Desktop
+2707,2.24,5,4,1,5,No,Business,Senior,Laptop
+2708,2.53,5,7,3,2,No,STEM,Senior,Tablet
+2709,2.04,8,1,0,2,No,Arts,Sophomore,Desktop
+2710,2.59,4,2,3,6,No,Business,Junior,Tablet
+2711,3.55,8,5,1,4,No,Arts,Freshman,Desktop
+2712,3.04,7,4,1,3,No,Business,Freshman,Desktop
+2713,2.7,9,4,1,6,No,Business,Junior,Laptop
+2714,2.74,9,3,2,4,No,Arts,Junior,Laptop
+2715,2.0,4,2,1,6,Yes,STEM,Senior,Laptop
+2716,2.6,7,0,0,5,Yes,Social Science,Freshman,Desktop
+2717,3.29,4,2,3,2,No,Business,Junior,Laptop
+2718,3.95,9,2,3,2,No,Social Science,Senior,Tablet
+2719,3.69,8,6,2,6,Yes,STEM,Freshman,Desktop
+2720,2.05,5,6,2,2,Yes,Social Science,Sophomore,Tablet
+2721,3.8,9,6,0,1,No,Social Science,Sophomore,Laptop
+2722,3.57,6,5,1,6,No,Arts,Freshman,Desktop
+2723,3.56,5,7,2,5,No,Arts,Freshman,Tablet
+2724,2.92,9,2,3,7,No,STEM,Sophomore,Phone
+2725,2.8,8,5,2,6,No,Arts,Sophomore,Tablet
+2726,2.61,4,4,2,6,Yes,Business,Freshman,Desktop
+2727,2.13,5,6,1,2,No,STEM,Senior,Phone
+2728,2.46,8,4,2,5,No,Arts,Junior,Laptop
+2729,2.49,7,6,0,6,Yes,Arts,Junior,Laptop
+2730,2.97,6,1,3,2,Yes,STEM,Freshman,Tablet
+2731,3.49,5,5,1,3,Yes,Business,Junior,Laptop
+2732,2.95,4,5,3,5,No,STEM,Sophomore,Tablet
+2733,2.12,7,7,0,4,Yes,Arts,Sophomore,Tablet
+2734,3.92,8,0,0,1,No,Arts,Junior,Tablet
+2735,3.89,6,3,2,4,No,STEM,Freshman,Tablet
+2736,3.57,4,2,2,7,No,Business,Sophomore,Desktop
+2737,3.98,8,0,2,5,No,Business,Senior,Desktop
+2738,3.09,8,5,3,6,Yes,Social Science,Senior,Phone
+2739,3.93,5,0,0,2,No,Business,Sophomore,Phone
+2740,2.15,5,1,1,7,No,STEM,Sophomore,Laptop
+2741,2.73,4,3,2,5,Yes,Business,Junior,Desktop
+2742,2.45,9,7,3,1,No,Business,Freshman,Phone
+2743,2.39,9,5,2,5,No,Social Science,Junior,Desktop
+2744,2.28,8,5,0,7,Yes,Business,Freshman,Desktop
+2745,3.24,5,2,1,2,No,Social Science,Senior,Laptop
+2746,3.56,6,7,0,4,No,Social Science,Senior,Laptop
+2747,3.16,6,7,3,3,No,Business,Freshman,Tablet
+2748,2.29,8,6,2,4,No,Arts,Junior,Desktop
+2749,3.62,5,3,0,2,Yes,STEM,Sophomore,Tablet
+2750,3.27,4,1,3,7,Yes,STEM,Freshman,Tablet
+2751,2.78,4,4,2,2,No,Business,Junior,Tablet
+2752,3.35,4,0,1,1,No,STEM,Senior,Desktop
+2753,2.52,6,7,0,5,No,STEM,Sophomore,Desktop
+2754,2.69,5,2,2,5,Yes,Social Science,Senior,Tablet
+2755,3.83,5,5,2,4,No,Arts,Freshman,Desktop
+2756,2.58,6,4,2,7,Yes,STEM,Senior,Tablet
+2757,2.94,4,1,2,3,Yes,Arts,Senior,Phone
+2758,3.78,4,3,0,3,No,STEM,Freshman,Desktop
+2759,3.42,8,7,2,1,Yes,Arts,Sophomore,Laptop
+2760,2.12,9,0,3,2,Yes,Arts,Freshman,Laptop
+2761,2.29,7,7,0,1,Yes,STEM,Junior,Tablet
+2762,2.02,9,2,2,5,Yes,Social Science,Freshman,Phone
+2763,3.26,5,7,0,6,No,Arts,Freshman,Desktop
+2764,2.9,5,7,3,6,No,Arts,Sophomore,Tablet
+2765,2.27,5,7,3,6,Yes,STEM,Junior,Phone
+2766,3.92,9,5,0,2,No,Arts,Senior,Phone
+2767,3.06,7,5,2,1,No,Arts,Senior,Desktop
+2768,2.48,8,4,2,7,No,Social Science,Senior,Laptop
+2769,3.0,9,4,3,4,Yes,Arts,Senior,Laptop
+2770,3.36,7,0,2,5,No,Social Science,Sophomore,Phone
+2771,2.15,4,3,3,6,No,Arts,Junior,Laptop
+2772,2.55,4,1,2,7,Yes,Arts,Sophomore,Phone
+2773,3.61,5,6,3,3,No,Social Science,Freshman,Phone
+2774,2.92,6,3,1,1,No,Social Science,Junior,Phone
+2775,3.09,5,3,2,5,No,Business,Junior,Laptop
+2776,2.87,6,3,2,5,Yes,Arts,Senior,Tablet
+2777,2.09,7,6,2,3,Yes,Social Science,Senior,Laptop
+2778,2.33,4,0,0,3,Yes,Arts,Senior,Tablet
+2779,2.89,9,6,2,3,No,Arts,Senior,Laptop
+2780,2.42,6,0,0,6,Yes,Arts,Freshman,Desktop
+2781,2.1,7,6,0,6,No,STEM,Senior,Desktop
+2782,3.69,4,1,3,1,No,Business,Sophomore,Laptop
+2783,3.96,9,7,0,3,Yes,STEM,Junior,Desktop
+2784,3.59,6,3,0,4,Yes,Business,Freshman,Desktop
+2785,3.71,5,7,1,5,No,Arts,Freshman,Desktop
+2786,2.48,5,0,2,3,No,Arts,Junior,Desktop
+2787,3.92,5,6,0,5,Yes,Social Science,Junior,Tablet
+2788,2.39,7,1,2,2,No,Business,Junior,Phone
+2789,3.9,5,6,0,7,No,Business,Freshman,Tablet
+2790,3.99,8,7,3,2,No,STEM,Sophomore,Phone
+2791,3.42,4,5,1,3,No,Business,Sophomore,Phone
+2792,3.96,7,1,0,5,Yes,Arts,Junior,Laptop
+2793,3.14,9,3,2,7,No,Social Science,Freshman,Laptop
+2794,2.52,5,2,3,2,No,STEM,Senior,Laptop
+2795,2.87,4,3,2,3,Yes,Social Science,Freshman,Laptop
+2796,3.19,6,2,3,5,No,Business,Junior,Laptop
+2797,2.15,5,1,1,3,Yes,Business,Freshman,Tablet
+2798,3.24,4,5,3,6,No,STEM,Freshman,Tablet
+2799,3.96,8,7,2,5,No,Business,Freshman,Desktop
+2800,2.38,6,5,2,2,No,Social Science,Senior,Tablet
+2801,3.59,8,0,0,3,Yes,Arts,Junior,Tablet
+2802,3.82,9,5,3,2,No,STEM,Junior,Laptop
+2803,3.89,4,4,2,3,Yes,Business,Junior,Desktop
+2804,3.92,8,1,0,1,No,Social Science,Sophomore,Tablet
+2805,3.04,9,7,1,2,No,Arts,Sophomore,Tablet
+2806,3.95,4,7,2,2,No,Business,Junior,Desktop
+2807,3.51,4,0,0,4,Yes,STEM,Freshman,Phone
+2808,2.32,8,7,2,7,No,Business,Freshman,Laptop
+2809,2.95,4,5,3,6,Yes,Business,Junior,Tablet
+2810,3.44,5,1,0,2,No,Business,Senior,Tablet
+2811,2.49,4,3,3,5,No,Arts,Senior,Desktop
+2812,3.28,7,5,1,7,No,Arts,Freshman,Tablet
+2813,3.33,9,6,3,3,No,Business,Freshman,Laptop
+2814,2.33,4,2,0,1,No,Business,Sophomore,Tablet
+2815,3.13,7,1,2,5,Yes,STEM,Senior,Phone
+2816,3.54,4,7,0,7,No,Business,Freshman,Laptop
+2817,3.0,4,0,3,5,Yes,Social Science,Freshman,Phone
+2818,2.02,8,3,3,5,No,Social Science,Junior,Desktop
+2819,2.02,5,4,2,5,No,STEM,Sophomore,Laptop
+2820,2.71,9,3,1,7,No,Arts,Senior,Tablet
+2821,3.85,5,5,0,1,Yes,Business,Senior,Laptop
+2822,2.46,6,2,2,4,No,STEM,Sophomore,Laptop
+2823,3.27,8,3,2,6,Yes,Arts,Freshman,Laptop
+2824,2.44,8,4,2,2,Yes,STEM,Senior,Phone
+2825,2.64,5,6,0,7,Yes,Arts,Senior,Desktop
+2826,3.7,8,0,0,5,No,Business,Senior,Laptop
+2827,3.46,5,1,0,2,Yes,STEM,Junior,Tablet
+2828,2.19,8,2,1,7,Yes,Business,Sophomore,Laptop
+2829,2.86,4,4,2,2,Yes,STEM,Senior,Laptop
+2830,2.06,5,7,3,5,Yes,Arts,Sophomore,Desktop
+2831,2.96,5,5,3,4,No,STEM,Freshman,Tablet
+2832,3.32,7,5,2,7,No,Social Science,Sophomore,Tablet
+2833,2.24,8,5,3,2,Yes,Social Science,Junior,Phone
+2834,2.58,8,7,1,3,No,STEM,Junior,Tablet
+2835,2.8,5,7,1,2,No,Social Science,Sophomore,Tablet
+2836,3.84,4,2,0,6,No,Business,Junior,Tablet
+2837,3.99,4,3,0,5,No,Social Science,Senior,Laptop
+2838,2.09,9,2,0,1,Yes,Social Science,Junior,Phone
+2839,3.52,4,5,0,2,No,Business,Freshman,Tablet
+2840,2.74,8,6,0,4,Yes,Business,Sophomore,Tablet
+2841,2.78,7,4,3,3,Yes,Arts,Sophomore,Tablet
+2842,3.51,5,1,3,3,No,Business,Freshman,Laptop
+2843,3.84,6,1,0,1,No,STEM,Freshman,Laptop
+2844,3.9,7,2,1,6,Yes,Social Science,Freshman,Phone
+2845,3.15,6,5,3,1,No,Arts,Freshman,Desktop
+2846,2.71,7,7,1,6,No,Business,Senior,Phone
+2847,3.58,4,0,1,2,No,Social Science,Junior,Laptop
+2848,2.5,8,6,2,5,No,STEM,Junior,Tablet
+2849,3.13,6,2,2,4,No,STEM,Senior,Tablet
+2850,2.72,7,5,0,3,No,Arts,Freshman,Phone
+2851,3.31,8,3,1,1,Yes,STEM,Sophomore,Tablet
+2852,2.48,6,1,3,4,Yes,Social Science,Sophomore,Laptop
+2853,2.38,5,1,2,6,Yes,Business,Sophomore,Phone
+2854,3.84,7,6,2,5,No,STEM,Freshman,Desktop
+2855,2.2,5,1,1,3,No,Business,Senior,Laptop
+2856,3.01,4,0,2,3,No,Social Science,Senior,Laptop
+2857,2.44,5,5,2,6,No,Social Science,Senior,Tablet
+2858,2.08,5,5,3,5,Yes,Business,Junior,Laptop
+2859,2.07,9,6,1,3,Yes,Social Science,Junior,Laptop
+2860,2.35,7,5,2,5,Yes,Arts,Junior,Desktop
+2861,3.73,4,7,1,3,No,STEM,Junior,Tablet
+2862,2.56,5,6,2,2,No,Arts,Sophomore,Laptop
+2863,3.9,8,5,3,6,No,Arts,Sophomore,Tablet
+2864,3.16,6,0,1,5,No,Arts,Senior,Laptop
+2865,2.87,5,4,2,4,No,Business,Junior,Desktop
+2866,3.16,4,2,3,2,No,Business,Senior,Tablet
+2867,3.03,5,2,2,7,No,Social Science,Freshman,Tablet
+2868,3.52,6,5,1,4,No,Business,Junior,Desktop
+2869,2.56,4,3,2,6,No,Social Science,Junior,Phone
+2870,2.71,7,1,1,3,No,Business,Senior,Laptop
+2871,3.79,4,0,1,7,No,Social Science,Senior,Laptop
+2872,3.89,7,3,2,4,No,STEM,Freshman,Phone
+2873,3.79,4,7,3,2,Yes,Social Science,Senior,Tablet
+2874,2.84,6,3,0,7,Yes,STEM,Junior,Tablet
+2875,3.56,6,5,3,7,No,Social Science,Sophomore,Desktop
+2876,2.95,4,0,3,5,No,Business,Freshman,Desktop
+2877,3.0,5,2,2,1,Yes,Business,Freshman,Desktop
+2878,2.41,6,1,3,4,Yes,STEM,Junior,Phone
+2879,3.18,7,2,3,1,Yes,Arts,Sophomore,Phone
+2880,2.37,7,3,0,6,No,Arts,Senior,Tablet
+2881,2.66,8,7,3,4,Yes,Social Science,Senior,Desktop
+2882,3.71,9,1,0,4,Yes,Business,Sophomore,Tablet
+2883,2.41,9,4,2,5,Yes,Arts,Sophomore,Phone
+2884,2.14,9,3,0,3,Yes,Business,Junior,Laptop
+2885,2.14,7,2,1,2,No,Business,Senior,Tablet
+2886,3.88,8,2,1,2,Yes,Business,Junior,Phone
+2887,3.01,9,5,0,2,No,Social Science,Senior,Desktop
+2888,2.82,9,2,1,6,No,STEM,Senior,Laptop
+2889,3.62,4,0,2,7,No,Social Science,Sophomore,Laptop
+2890,3.67,4,3,1,3,Yes,Arts,Junior,Laptop
+2891,2.66,4,6,0,1,Yes,STEM,Sophomore,Desktop
+2892,3.39,5,6,2,2,Yes,Arts,Junior,Laptop
+2893,3.54,9,7,1,1,Yes,STEM,Senior,Phone
+2894,3.31,5,1,2,3,No,STEM,Freshman,Tablet
+2895,2.3,8,2,0,6,Yes,Social Science,Freshman,Laptop
+2896,3.75,7,5,1,3,Yes,Business,Junior,Laptop
+2897,3.08,9,5,2,5,No,Business,Junior,Phone
+2898,2.56,7,2,2,7,No,STEM,Sophomore,Desktop
+2899,2.85,4,0,1,2,Yes,Social Science,Senior,Laptop
+2900,2.08,9,5,2,6,Yes,Arts,Freshman,Phone
+2901,2.26,6,6,2,5,Yes,Arts,Sophomore,Phone
+2902,3.53,5,1,0,2,No,Business,Junior,Desktop
+2903,2.0,5,3,0,3,No,Business,Senior,Desktop
+2904,2.83,9,4,0,3,No,Arts,Sophomore,Tablet
+2905,3.05,4,0,0,4,No,Arts,Sophomore,Laptop
+2906,2.11,5,7,0,4,No,Social Science,Junior,Tablet
+2907,3.95,4,7,0,3,Yes,Arts,Senior,Phone
+2908,2.45,8,5,1,3,No,Social Science,Freshman,Laptop
+2909,2.61,7,3,0,1,No,Business,Sophomore,Phone
+2910,2.61,6,4,2,7,No,Arts,Junior,Phone
+2911,2.46,7,7,1,1,No,Business,Sophomore,Phone
+2912,2.0,7,2,2,7,No,STEM,Junior,Desktop
+2913,3.46,8,2,0,5,No,STEM,Junior,Desktop
+2914,3.93,5,1,0,4,Yes,STEM,Junior,Laptop
+2915,2.45,6,4,2,4,No,Arts,Senior,Phone
+2916,3.33,5,2,2,3,Yes,Business,Freshman,Phone
+2917,3.48,9,7,2,3,No,Arts,Senior,Laptop
+2918,3.7,7,2,3,5,Yes,Business,Freshman,Tablet
+2919,2.85,9,6,3,6,No,Social Science,Junior,Phone
+2920,2.61,4,5,3,6,No,Arts,Freshman,Desktop
+2921,2.65,7,7,3,6,Yes,STEM,Senior,Tablet
+2922,3.43,5,7,1,4,No,Social Science,Sophomore,Tablet
+2923,3.63,7,7,0,1,No,Business,Senior,Tablet
+2924,2.36,4,1,2,6,No,Arts,Senior,Tablet
+2925,2.74,8,3,0,2,Yes,Business,Senior,Tablet
+2926,3.8,9,7,2,5,No,Business,Senior,Tablet
+2927,3.61,9,2,0,6,Yes,Arts,Senior,Laptop
+2928,3.97,5,6,1,2,Yes,Arts,Freshman,Laptop
+2929,3.51,7,7,3,6,Yes,Business,Freshman,Tablet
+2930,2.79,5,0,0,1,No,Business,Sophomore,Desktop
+2931,3.18,8,0,2,1,No,Social Science,Senior,Laptop
+2932,3.32,7,3,0,6,Yes,STEM,Senior,Laptop
+2933,2.16,7,4,1,2,Yes,Business,Sophomore,Tablet
+2934,3.09,5,1,1,5,No,STEM,Sophomore,Desktop
+2935,3.42,5,6,0,2,No,Social Science,Junior,Tablet
+2936,2.33,4,5,3,5,No,STEM,Sophomore,Desktop
+2937,3.56,8,6,2,6,Yes,STEM,Sophomore,Desktop
+2938,3.17,4,0,1,5,No,Social Science,Sophomore,Phone
+2939,3.9,9,0,1,3,Yes,Business,Junior,Laptop
+2940,2.08,7,3,0,4,No,STEM,Freshman,Tablet
+2941,2.53,5,4,1,7,No,Business,Junior,Laptop
+2942,3.2,7,4,1,4,No,Business,Freshman,Laptop
+2943,2.59,7,3,2,1,Yes,Arts,Sophomore,Desktop
+2944,3.43,6,7,3,3,Yes,Business,Junior,Laptop
+2945,3.52,9,6,2,4,Yes,Business,Junior,Phone
+2946,2.21,6,0,3,6,Yes,STEM,Freshman,Tablet
+2947,3.03,7,6,2,5,Yes,Business,Junior,Laptop
+2948,3.02,5,6,0,5,No,Business,Junior,Tablet
+2949,2.74,7,1,1,2,Yes,Arts,Senior,Laptop
+2950,3.87,9,0,3,2,No,Arts,Freshman,Tablet
+2951,3.66,6,4,0,5,Yes,STEM,Junior,Tablet
+2952,3.39,5,5,1,6,Yes,STEM,Junior,Tablet
+2953,3.43,7,6,1,5,No,Arts,Sophomore,Laptop
+2954,2.92,8,0,1,2,No,Arts,Senior,Phone
+2955,3.84,9,6,2,4,No,Social Science,Senior,Tablet
+2956,3.39,9,1,0,1,Yes,Business,Sophomore,Desktop
+2957,3.46,8,7,0,2,No,STEM,Sophomore,Desktop
+2958,3.72,7,2,1,6,No,STEM,Sophomore,Desktop
+2959,2.55,9,0,3,4,Yes,Business,Sophomore,Phone
+2960,3.61,5,3,0,4,No,Business,Senior,Tablet
+2961,2.39,7,2,2,4,No,STEM,Junior,Phone
+2962,2.69,7,6,3,3,Yes,Arts,Junior,Tablet
+2963,2.67,6,3,3,3,No,Arts,Sophomore,Phone
+2964,3.96,9,3,3,7,No,Business,Freshman,Tablet
+2965,3.71,9,3,3,4,Yes,STEM,Sophomore,Desktop
+2966,3.4,8,0,0,6,No,Business,Junior,Tablet
+2967,3.45,6,4,1,5,Yes,Arts,Freshman,Phone
+2968,3.12,6,6,3,6,No,Social Science,Sophomore,Tablet
+2969,3.89,9,2,2,3,No,Social Science,Freshman,Laptop
+2970,2.99,7,1,2,2,Yes,Arts,Sophomore,Tablet
+2971,2.76,6,4,1,7,Yes,Business,Senior,Desktop
+2972,2.33,8,6,0,3,Yes,Social Science,Junior,Tablet
+2973,3.57,6,7,1,5,No,Arts,Sophomore,Laptop
+2974,3.47,8,7,3,1,No,STEM,Freshman,Laptop
+2975,2.77,6,0,0,7,Yes,Business,Junior,Laptop
+2976,2.05,8,3,0,3,Yes,Business,Sophomore,Phone
+2977,3.68,6,1,3,6,Yes,Social Science,Sophomore,Laptop
+2978,2.02,6,6,2,7,Yes,Business,Sophomore,Phone
+2979,3.41,5,2,3,6,Yes,Social Science,Sophomore,Laptop
+2980,3.94,8,6,1,4,No,Social Science,Senior,Phone
+2981,2.88,8,4,3,4,No,Arts,Junior,Laptop
+2982,2.47,8,7,2,4,No,Social Science,Senior,Laptop
+2983,3.41,4,5,3,7,No,STEM,Junior,Tablet
+2984,3.63,6,4,1,1,No,Business,Sophomore,Laptop
+2985,3.09,8,6,1,5,No,Social Science,Junior,Tablet
+2986,3.93,9,1,2,7,No,Business,Freshman,Laptop
+2987,2.1,4,6,1,2,Yes,Social Science,Junior,Laptop
+2988,3.01,5,6,1,6,Yes,Arts,Freshman,Tablet
+2989,3.44,8,0,3,6,Yes,STEM,Freshman,Tablet
+2990,3.73,8,2,0,7,No,Business,Senior,Phone
+2991,2.36,4,1,1,7,No,Arts,Junior,Desktop
+2992,3.6,6,6,1,5,Yes,Business,Sophomore,Tablet
+2993,3.11,9,3,2,1,No,Arts,Junior,Phone
+2994,2.79,5,2,2,7,No,STEM,Senior,Laptop
+2995,2.26,8,4,3,4,Yes,Social Science,Freshman,Tablet
+2996,3.73,6,1,3,5,Yes,Arts,Freshman,Tablet
+2997,2.31,9,4,1,2,Yes,Business,Senior,Laptop
+2998,2.62,9,7,0,4,Yes,Business,Senior,Laptop
+2999,2.58,5,6,0,2,No,Arts,Junior,Laptop
+3000,3.74,7,4,3,3,No,STEM,Freshman,Laptop
